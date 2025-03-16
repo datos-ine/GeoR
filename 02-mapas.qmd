@@ -1,0 +1,72 @@
+---
+title: "Visualización de mapas"
+subtitle: "Residencia de Epidemiología"
+format: 
+  revealjs:
+    self-contained: true
+    width: 1920
+    height: 1080
+    slide-number: true
+    transition: fade
+    theme: [simple, img/custom.scss]
+    logo: img/INE.gif
+    footer: "Instituto Nacional de Epidemiología"
+---
+
+```{r setup, include=F}
+#| label: setup
+#| include: false
+
+
+library(quarto)
+library(fontawesome)
+library(tidyverse)
+```
+
+## Tipos de mapas {.title-top}
+
+
+
+## Mapas coropléticos {.title-top}
+
+
+
+## Mapas de puntos {.title-top}
+
+
+
+## Elementos importantes
+
+
+## Salidas estáticas
+
+## Salidas dinámicas (web)
+
+
+
+![](img/01/snow.png){fig-align="center"}
+
+
+
+
+
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+
+
+:::
+
+::: {.column width="60%"}
+
+
+:::
+
+::::
+
+
+
+

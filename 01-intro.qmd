@@ -1,0 +1,361 @@
+---
+title: "Introducción al análisis espacial con R"
+subtitle: "Residencia de Epidemiología"
+format: 
+  revealjs:
+    self-contained: true
+    width: 1920
+    height: 1080
+    slide-number: true
+    transition: fade
+    theme: [simple, img/custom.scss]
+    logo: img/INE.gif
+    footer: "Instituto Nacional de Epidemiología"
+---
+
+```{r setup, include=F}
+#| label: setup
+#| include: false
+
+
+library(quarto)
+library(fontawesome)
+library(tidyverse)
+```
+
+## Contribución esperada {.title-top}
+
+> Incorporar habilidades técnicas vinculadas con el análisis espacial básico mediante lenguaje R y paquetes específicos.
+
+. . . 
+
+**Objetivos:**
+
+Se espera que al finalizar este taller lxs participantes puedan:
+
+. . .
+
+-   Utilizar R + RStudio para gestionar datos espaciales aplicados a la epidemiología.
+
+. . .
+
+-   Conocer y utilizar los paquetes específicos que R tiene para el análisis espacial.
+
+. . .
+
+-   Elaborar mapas estáticos y dinámicos donde visualizar la morbi-mortalidad de las poblaciones. 
+
+. . .
+
+-   Aplicar técnicas básicas de análisis de patrones de puntos y polígonos.
+
+## Materiales {.title-top}
+
+<br>
+
+Durante la cursada vamos a trabajar con diapositivas, materiales de lectura-consulta, trabajos prácticos y diferentes recursos que estarán publicados en el sitio <https://datos-ine.github.io/GeoR/>
+
+<br>
+
+El taller tendrá  5 encuentros presenciales, los días ....
+
+-   Constarán de una exposición del tema a partir de diapositivas y una parte práctica (con un script guiado).
+
+- Recuerden que me ubican al mail <christianballejo@gmail.com> y mi Whatsapp `223-5309396`
+
+## Introducción a la epidemiología espacial {.title-top}
+
+<br>
+
+- El interés en la epidemiología espacial comenzó con el reconocimiento de los mapas como herramientas útiles para esclarecer las posibles “causas” de las enfermedades.
+- Representa a una de las tres variables fundamentales en epidemiología (lugar) y parte de la triada ecológica (medio ambiente)
+
+- Por lo tanto, reconocemos que todo espacio geográfico poblacional, porta una historia ecológica, biológica, económica, conductual y cultural que se relaciona con la manera de enfermar. 
+
+## Ejemplo icónico: Mapa de Snow {.title-top}
+
+El estudio del Dr. John Snow sobre la epidemia de cólera de Londres en 1854 proporciona uno de los ejemplos más famosos de epidemiología espacial. Snow creía que el cólera se transmitía a través del agua potable, pero en ese momento, esta teoría fue recibida con un escepticismo extremo (Snow 1855; Frerichs 2000)
+
+![](img/01/snow.png){fig-align="center"}
+
+## Sistemas de Información Geográfica {.title-top}
+
+<br>
+
+Los *sistemas de información geográfica* (SIG) exiten y estan en plena evolución desde el año 1962.
+
+Según su definición, un **SIG**, también habitualmente citado como **GIS** por las siglas de su nombre en inglés *Geographical Information System*, es un conjunto de herramientas que integra y relaciona diversos componentes que permiten la organización, almacenamiento, manipulación, análisis y modelización de grandes cantidades de datos procedentes del mundo real que están vinculados a una referencia espacial, facilitando la incorporación de aspectos sociales-culturales, económicos y ambientales que conducen a la toma de decisiones de una manera más eficaz.
+
+
+## Sistemas de Información Geográfica {.title-top}
+
+<br>
+
+Los SIG constan de 3 etapas:
+
+- Captura y organización de datos
+
+- Manipulación de datos y análisis espaciales
+
+- Visualización y salida de datos  
+
+Existen como aplicaciones independientes:
+
+- **comerciales**:  ArcGIS, MapInfo, etc
+
+- **libres/open source**: QGIS, gvSIG, etc   
+
+- **lenguajes de programacion**: R, python, javascript, etc
+
+## Sistema de coordenadas geográficas {.title-top}
+
+<br>
+
+- Se han desarrollado muchos sistemas de coordenadas diferentes para hacer referencia a un punto único en la superficie de la Tierra, hasta definir una convención internacional, el **sistema de latitud y longitud**.
+
+- La Tierra no es una esfera perfecta ni un elipsoide perfecto, y su superficie no es lisa, lo que complica el cálculo de ubicaciones precisas. 
+
+- El sistema de latitud y longitud proporciona un medio para hacer referencia de forma única a cualquier punto en la superficie de una esfera, en un plano bidimensional.
+
+- Existe un elemento más, utilizado en algunas situaciones tridimensionales, la altura. 
+
+## Sistema de coordenadas geográficas {.title-top}
+
+![](img/01/lat-lon.PNG){fig-align="center"}
+
+## Longitud {.title-top}
+
+- Las líneas de longitud rodean la Tierra pasando por los polos norte y sur. 
+
+- Todos los lugares en el mismo meridiano tienen la misma longitud. 
+
+- La línea de longitud que pasa por el Observatorio de Greenwich en Inglaterra tiene el valor 0. 
+
+- Debido a su naturaleza rotacional, informamos la longitud en grados (0 a 180) al este o al oeste desde el meridiano 0, con meridianos al oeste de 0 de longitud denominados longitud oeste y aquellos al este de 0 denominados longitud este. 
+
+- Como la superficie de la Tierra es curva, la distancia entre dos meridianos depende de dónde nos encontremos en la Tierra: la distancia intermeridiana es menor cerca de los polos y mayor cerca del ecuador.
+
+## Latitud {.title-top}
+
+- Las líneas de latitud, perpendiculares a las líneas de longitud, se llaman paralelos y hacen referencia a las posiciones norte-sur.
+
+- El ecuador se designa como latitud 0◦ (el círculo más grande definido por un plano perpendicular al eje de rotación de la Tierra). 
+
+- Las latitudes en el hemisferio norte se denominan latitudes norte y las del hemisferio sur se denominan latitudes sur. 
+
+- La latitud mide el ángulo vertical (en grados) entre dos segmentos de línea: uno que va desde la ubicación de interés hasta el centro de la esfera, y el otro que une el ecuador con el centro de la esfera. 
+
+- Las diferencias de latitud son constantes en toda la superficie de la Tierra (los paralelos son paralelos entre sí) y 1 grado de latitud equivale a 111 kilómetros aproximadamente.
+
+## Proyecciones {.title-top}
+
+<br>
+
+Las proyecciones cartográficas son transformaciones matemáticas que permiten representar la superficie terrestre en un plano. 
+
+Toda proyección cartográfica:
+
+- Es un sistema de representación gráfica
+- Permiten convertir coordenadas esféricas en coordenadas planas
+- Distorsionan la forma, el área, la distancia y la dirección de los datos
+
+Algunas conocidas son Mercator, Gauss-Krüger y Lambert Equiareal. 
+
+
+## Proyecciones {.title-top}
+
+![](img/01/proyecciones.PNG){fig-align="center"}
+
+
+## Proyección para Argentina {.title-top}
+
+![](img/01/proy-argentina.png){fig-align="center"}
+
+
+## Modelos de datos {.title-top}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+<br><br><br><br>
+
+- **Formato raster**
+
+- **Formato vectorial**
+
+:::
+
+::: {.column width="60%"}
+
+<br>
+
+![](img/01/raster-vectorial.png){width=100%}
+:::
+
+::::
+
+
+
+
+## Formato raster {.title-top}
+
+
+- El formato raster se fundamenta en la división del área de estudio en una matriz de celdas regulares, generalmente cuadradas. 
+
+- Cada una de estas celdas recibe un único valor que se considera representativo para toda la superficie abarcada por la misma  
+
+- Se trata de un formato de dato que se centra en las propiedades del espacio y es el más adecuado cuando se desea modelizar variables continuas en el espacio, como por ejemplo: temperatura superficial de la tierra.
+
+- El píxel es la menor unidad de información y determina la **resolución espacial** de
+una imagen raster. 
+
+- Cuanto mayor es la resolución espacial, menor es el tamaño del píxel en unidades
+sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 30m significa que no podrá discriminar entre dos objetos que se encuentren separadas a una distancia menor de 30m.
+
+## Formato vectorial {.title-top} 
+
+<br>
+
+- El formato vectorial está compuesto por entidades geográficas. Las básicas son: puntos, líneas y polígonos. 
+
+- Estas entidades se asociación con atributos particulares, es decir con tablas de datos asociadas.
+
+- Los datos vectoriales implican mucho menos almacenamiento que el formato raster, ya que almacenamos datos de atributos solo para puntos, líneas y áreas en lugar de para cada píxel. 
+
+
+
+## Entidades geográficas vectoriales {.title-top}
+
+<br>
+
+- **Punto**: localización precisa en el espacio. Ejemplo: domicilios georeferenciados
+
+. . .
+
+- **Línea**: colección secuencial de puntos conectados. Ejemplo: calles, ríos, etc. Permiten medir distancia.
+
+. . .
+
+- **Polígono**: región encerradas por líneas. Ejemplo: provincias, departamentos, radios censales, etc. Permiten medir perímetro y área.
+
+
+## Sistema de Posicionamiento Global (GPS) {.title-top}
+
+
+## Sistema de Coordenadas de Referencia (CRS) {.title-top}
+
+## Código EPSG {.title-top}
+
+<br>
+
+- El **código epsg** recibe su nombre **European Petroleum Survey Group** o **EPSG (1986 – 2005)** que actualmente no existe. El estándar lo mantiene la International Association of Oil and Gas Producers Surveying and Positioning Committee (OGP). <https://epsg.io/>  - <http://spatialreference.org/> 
+
+- El código epsg más utilizado universalmente es el 4326 que refiere al sistema de coordenadas WGS 84 (World Geodetic System 1984), en el que se basa todo el sistema de GPS en el mundo.
+
+- En nuestro país, el estándar actual (desde 2009) es el POSGAR 07, basado en WGS 84.  Su código epsg es el 5340. 
+
+
+
+## GDAL {.title-top}
+
+## Paquetes en R {.title-top}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Manejo de datos espaciales**
+
+- sf
+- terra
+- stars
+
+**Visualización de mapas**
+
+- tmap
+- mapsf
+- leaflet
+- mapview
+
+
+
+
+:::
+
+::: {.column width="50%"}
+
+**Herramientas espaciales**
+
+- tmaptools
+
+**Análisis espacial**
+
+- spatstat
+- spatial
+- gstat
+- spdep
+
+
+:::
+
+::::
+
+
+
+## Paquete sf {.title-top}
+
+<br>
+
+- El modelo geométrico **sf** (*simple feature*) es un estándar de código abierto desarrollado y respaldado por el Open Geospatial Consortium (OGC) para representar una amplia gama de información geográfica.
+
+- Los objetos son simples *dataframes* con datos geográficos que ocupan una variable especial. Esta columna generalmente se llama ”geom” o ”geometry”.
+
+- Las geometrías más comunes de datos espaciales son clase Point, Multipoint, Linestring, Multilinestring, Polygon y Multipolygon.
+
+
+
+## Paquete terra {.title-top}
+
+<br>
+
+- Incluye funciones para crear, leer, manipular y escribir datos ráster. 
+
+- Permite leer archivos raster grandes desde el disco rigido directamente (sin cargarlos completos en la RAM).
+
+- Provee dos clases: SpatRaster y SpatVector
+
+## Lectura de archivos {.title-top}
+
+## Fuentes de archivos de mapas {.title-top}
+
+
+## Servidores de mapas {.title-top}
+
+::: {.justify style="font-size: 150%;"}
+Un plan de gestión de datos es un documento complementario sobre cómo se planea recopilar, almacenar, gestionar y compartir los productos de datos de investigación.
+:::
+
+
+![](img/01/operacionalizacion.jpg)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+
+![](img/01/preguntas1.png){width=100%}
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+![](img/01/preguntas2.png){width=100%}
+:::
+
+::::
+
+[Sitio Bases Salud INDEC](https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos-2)
