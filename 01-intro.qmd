@@ -532,3 +532,16 @@ mapa_raster <- rast(mapa)
 Podemos ver algunas versiones de ellos en <https://leaflet-extras.github.io/leaflet-providers/preview/> 
 
 
+## Bibliografía
+
+<br>
+
+- [Robin Lovelace - Geocomputación con R](https://r.geocompx.org/)
+
+- [Edzer Pebesma/Roger Bivand - Spatial Data Science](https://r-spatial.org/book/)
+
+- [Rubén Fernández Casal - Estadística Espacial con R](https://rubenfcasal.github.io/estadistica_espacial/)
+
+- [Victor Olaya - Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/index.html)
+
+- [CRAN - Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
