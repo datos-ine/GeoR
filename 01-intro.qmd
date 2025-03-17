@@ -70,7 +70,9 @@ El taller tendrá  5 encuentros presenciales, los días ....
 - El interés en la epidemiología espacial comenzó con el reconocimiento de los mapas como herramientas útiles para esclarecer las posibles “causas” de las enfermedades.
 - Representa a una de las tres variables fundamentales en epidemiología (lugar) y parte de la triada ecológica (medio ambiente)
 
-- Por lo tanto, reconocemos que todo espacio geográfico poblacional, porta una historia ecológica, biológica, económica, conductual y cultural que se relaciona con la manera de enfermar. 
+<br>
+
+> Por lo tanto, reconocemos que todo espacio geográfico poblacional, porta una historia ecológica, biológica, económica, conductual y cultural que se relaciona con la manera de enfermar. 
 
 ## Ejemplo icónico: Mapa de Snow {.title-top}
 
@@ -82,7 +84,9 @@ El estudio del Dr. John Snow sobre la epidemia de cólera de Londres en 1854 pro
 
 <br>
 
-Los *sistemas de información geográfica* (SIG) exiten y estan en plena evolución desde el año 1962.
+Los *sistemas de información geográfica* (SIG) estan en plena evolución desde el año 1962 en que apareció la idea original.
+
+<br>
 
 Según su definición, un **SIG**, también habitualmente citado como **GIS** por las siglas de su nombre en inglés *Geographical Information System*, es un conjunto de herramientas que integra y relaciona diversos componentes que permiten la organización, almacenamiento, manipulación, análisis y modelización de grandes cantidades de datos procedentes del mundo real que están vinculados a una referencia espacial, facilitando la incorporación de aspectos sociales-culturales, económicos y ambientales que conducen a la toma de decisiones de una manera más eficaz.
 
@@ -111,13 +115,21 @@ Existen como aplicaciones independientes:
 
 <br>
 
-- Se han desarrollado muchos sistemas de coordenadas diferentes para hacer referencia a un punto único en la superficie de la Tierra, hasta definir una convención internacional, el **sistema de latitud y longitud**.
+. . . 
 
-- La Tierra no es una esfera perfecta ni un elipsoide perfecto, y su superficie no es lisa, lo que complica el cálculo de ubicaciones precisas. 
+- se han desarrollado muchos sistemas de coordenadas diferentes para hacer referencia a un punto único en la superficie de la Tierra, hasta definir una convención internacional, el **sistema de latitud y longitud**.
 
-- El sistema de latitud y longitud proporciona un medio para hacer referencia de forma única a cualquier punto en la superficie de una esfera, en un plano bidimensional.
+. . . 
 
-- Existe un elemento más, utilizado en algunas situaciones tridimensionales, la altura. 
+- la Tierra no es una esfera perfecta ni un elipsoide perfecto, y su superficie no es lisa, lo que complica el cálculo de ubicaciones precisas. 
+
+. . . 
+
+- el sistema de latitud y longitud proporciona un medio para hacer referencia de forma única a cualquier punto en la superficie de una esfera, en un plano bidimensional.
+
+. . . 
+
+- existe un elemento más, utilizado en algunas situaciones tridimensionales, la altura. 
 
 ## Sistema de coordenadas geográficas {.title-top}
 
@@ -125,27 +137,60 @@ Existen como aplicaciones independientes:
 
 ## Longitud {.title-top}
 
-- Las líneas de longitud rodean la Tierra pasando por los polos norte y sur. 
+::: {.fragment .fade-in-then-semi-out}
 
-- Todos los lugares en el mismo meridiano tienen la misma longitud. 
+- las líneas de longitud rodean la Tierra pasando por los polos norte y sur. 
 
-- La línea de longitud que pasa por el Observatorio de Greenwich en Inglaterra tiene el valor 0. 
+:::
 
-- Debido a su naturaleza rotacional, informamos la longitud en grados (0 a 180) al este o al oeste desde el meridiano 0, con meridianos al oeste de 0 de longitud denominados longitud oeste y aquellos al este de 0 denominados longitud este. 
+::: {.fragment .fade-in-then-semi-out}
 
-- Como la superficie de la Tierra es curva, la distancia entre dos meridianos depende de dónde nos encontremos en la Tierra: la distancia intermeridiana es menor cerca de los polos y mayor cerca del ecuador.
+- todos los lugares en el mismo meridiano tienen la misma longitud. 
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- la línea de longitud que pasa por el **Observatorio de Greenwich** en Inglaterra tiene el valor 0. 
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- debido a su naturaleza rotacional, informamos la longitud en grados (0 a 180) al este o al oeste desde el meridiano 0, con meridianos al oeste de 0 de longitud denominados longitud oeste y aquellos al este de 0 denominados longitud este. 
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- como la superficie de la Tierra es curva, la distancia entre dos meridianos depende de dónde nos encontremos en la Tierra: la distancia intermeridiana *es menor* cerca de los polos y *mayor* cerca del ecuador.
+
+:::
 
 ## Latitud {.title-top}
 
-- Las líneas de latitud, perpendiculares a las líneas de longitud, se llaman paralelos y hacen referencia a las posiciones norte-sur.
+::: {.fragment .fade-in-then-semi-out}
 
-- El ecuador se designa como latitud 0◦ (el círculo más grande definido por un plano perpendicular al eje de rotación de la Tierra). 
+- las líneas de latitud, perpendiculares a las líneas de longitud, se llaman paralelos y hacen referencia a las posiciones norte-sur.
 
-- Las latitudes en el hemisferio norte se denominan latitudes norte y las del hemisferio sur se denominan latitudes sur. 
+:::
 
-- La latitud mide el ángulo vertical (en grados) entre dos segmentos de línea: uno que va desde la ubicación de interés hasta el centro de la esfera, y el otro que une el ecuador con el centro de la esfera. 
+::: {.fragment .fade-in-then-semi-out}
 
-- Las diferencias de latitud son constantes en toda la superficie de la Tierra (los paralelos son paralelos entre sí) y 1 grado de latitud equivale a 111 kilómetros aproximadamente.
+- el ecuador se designa como latitud 0 (el círculo más grande definido por un plano perpendicular al eje de rotación de la Tierra). 
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- la latitud mide el ángulo vertical (en grados) entre dos segmentos de línea: uno que va desde la ubicación de interés hasta el centro de la esfera, y el otro que une el ecuador con el centro de la esfera. 
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- las diferencias de latitud son constantes en toda la superficie de la Tierra (los paralelos son paralelos entre sí) y 1 grado de latitud equivale a 111 kilómetros aproximadamente.
+
+:::
 
 ## Proyecciones {.title-top}
 
@@ -155,9 +200,19 @@ Las proyecciones cartográficas son transformaciones matemáticas que permiten r
 
 Toda proyección cartográfica:
 
-- Es un sistema de representación gráfica
-- Permiten convertir coordenadas esféricas en coordenadas planas
-- Distorsionan la forma, el área, la distancia y la dirección de los datos
+. . .
+
+- es un sistema de representación gráfica
+
+. . .
+
+- permiten convertir coordenadas esféricas en coordenadas planas
+
+. . .
+
+- distorsionan la forma, el área, la distancia y la dirección de los datos
+
+. . .
 
 Algunas conocidas son Mercator, Gauss-Krüger y Lambert Equiareal. 
 
@@ -203,31 +258,31 @@ Algunas conocidas son Mercator, Gauss-Krüger y Lambert Equiareal.
 
 - El formato raster se fundamenta en la división del área de estudio en una matriz de celdas regulares, generalmente cuadradas. 
 
-- Cada una de estas celdas recibe un único valor que se considera representativo para toda la superficie abarcada por la misma  
+- cada una de estas celdas recibe un único valor que se considera representativo para toda la superficie abarcada por la misma  
 
-- Se trata de un formato de dato que se centra en las propiedades del espacio y es el más adecuado cuando se desea modelizar variables continuas en el espacio, como por ejemplo: temperatura superficial de la tierra.
+- se trata de un formato de dato que se centra en las propiedades del espacio y es el más adecuado cuando se desea modelizar variables continuas en el espacio, como por ejemplo: *temperatura superficial de la Tierra*.
 
-- El píxel es la menor unidad de información y determina la **resolución espacial** de
+- el **píxel** es la menor unidad de información y determina la **resolución espacial** de
 una imagen raster. 
 
-- Cuanto mayor es la resolución espacial, menor es el tamaño del píxel en unidades
+- cuanto mayor es la resolución espacial, menor es el tamaño del píxel en unidades
 sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 30m significa que no podrá discriminar entre dos objetos que se encuentren separadas a una distancia menor de 30m.
 
 ## Formato vectorial {.title-top} 
 
 <br>
 
-- El formato vectorial está compuesto por entidades geográficas. Las básicas son: puntos, líneas y polígonos. 
+- El formato vectorial está compuesto por entidades geográficas. Las básicas son: **puntos**, **líneas** y **polígonos**. 
 
-- Estas entidades se asociación con atributos particulares, es decir con tablas de datos asociadas.
+- estas entidades se asociación con atributos particulares, es decir con **tablas de datos asociadas**.
 
-- Los datos vectoriales implican mucho menos almacenamiento que el formato raster, ya que almacenamos datos de atributos solo para puntos, líneas y áreas en lugar de para cada píxel. 
+- los datos vectoriales implican mucho menos almacenamiento que el formato raster, ya que almacenamos datos de atributos solo para puntos, líneas y áreas en lugar de para cada píxel. 
 
 
 
 ## Entidades geográficas vectoriales {.title-top}
 
-<br>
+<br><br>
 
 - **Punto**: localización precisa en el espacio. Ejemplo: domicilios georeferenciados
 
@@ -242,8 +297,52 @@ sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 
 
 ## Sistema de Posicionamiento Global (GPS) {.title-top}
 
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- es un sistema de navegación por satélite que proporciona información de ubicación, navegación y cronometría.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- es un servicio gratuito y disponible en todo el mundo
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- funciona mediante una red de 24 satélites (21 operativos y 3 de respaldo) que orbitan sobre la Tierra
+a una altura aproximada de 20.200 km, con trayectorias sincronizadas para cubrir toda la superficie del globo.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- utiliza el sistema de referencia internacional **WGS84**
+
+:::
 
 ## Sistema de Coordenadas de Referencia (CRS) {.title-top}
+
+<br>
+
+- define, con la ayuda de coordenadas, como el mapa bidimensional proyectado se relaciona con ubicaciones reales de la Tierra.
+
+. . . 
+
+- se pueden dividir en sistemas de referencia de coordenadas geográficas y sistemas de referencia de coordenadas proyectados,
+
+. . . 
+
+- puede ser un CRS esferoidal como WGS84, un CRS proyectado, cartesiano, como una zona UTM o Web Mercator, o un CRS en tres dimensiones.
+
+. . . 
+
+- existen dos formas de describir un CRS en R para datos espaciales:
+  - códigos **epsg**
+  - definiciones **proj4string**
 
 ## Código EPSG {.title-top}
 
@@ -251,13 +350,41 @@ sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 
 
 - El **código epsg** recibe su nombre **European Petroleum Survey Group** o **EPSG (1986 – 2005)** que actualmente no existe. El estándar lo mantiene la International Association of Oil and Gas Producers Surveying and Positioning Committee (OGP). <https://epsg.io/>  - <http://spatialreference.org/> 
 
-- El código epsg más utilizado universalmente es el 4326 que refiere al sistema de coordenadas WGS 84 (World Geodetic System 1984), en el que se basa todo el sistema de GPS en el mundo.
+- el código epsg más utilizado universalmente es el **4326** que refiere al sistema de coordenadas **WGS 84 (World Geodetic System 1984)**, en el que se basa todo el sistema de **GPS** en el mundo.
 
-- En nuestro país, el estándar actual (desde 2009) es el POSGAR 07, basado en WGS 84.  Su código epsg es el 5340. 
+- en nuestro país, el estándar actual (desde 2009) es el **POSGAR 07**, basado en WGS 84.  Su código epsg es el **5340**. 
 
+## Definición proj4string {.title-top}
+
+<br>
+
+- contiene un conjunto de parámetros como el tipo de proyección, el datum y el elipsoide.
+
+- el datum proporciona un marco de referencia para medir ubicaciones en la superficie de la Tierra
+
+- el elipsoide define como se calcula la redondez de la Tierra.
+
+. . .
+
+> La definición proj4string CRS("+init=epsg:4326") 
+
+> CRS arguments: +init=epsg:4326 +proj=longlat 
+> +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0 
 
 
 ## GDAL {.title-top}
+
+<br>
+
+- GDAL es una biblioteca de formatos de datos geoespaciales (ráster y vectoriales) 
+
+- código abierto publicado por la **Open Source Geospatial Foundation**
+
+- posee API (*Application Programming Interface*) que la vincula con múltiples lenguajes
+
+- actualmente los paquetes **sf** y **raster** utilizan aproximadamente 75 formatos de la librería
+
+- los formatos de uso más común son ESRI shapefile (**shp**), GeoJSON (**json**), rds nativos de R, MapInfo, Carto, etc. 
 
 ## Paquetes en R {.title-top}
 
@@ -268,7 +395,7 @@ sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 
 **Manejo de datos espaciales**
 
 - sf
-- terra
+- terra (tidyterra)
 - stars
 
 **Visualización de mapas**
@@ -309,53 +436,99 @@ sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 
 
 - El modelo geométrico **sf** (*simple feature*) es un estándar de código abierto desarrollado y respaldado por el Open Geospatial Consortium (OGC) para representar una amplia gama de información geográfica.
 
-- Los objetos son simples *dataframes* con datos geográficos que ocupan una variable especial. Esta columna generalmente se llama ”geom” o ”geometry”.
+- los objetos son simples *dataframes* con datos geográficos que ocupan una variable especial. Esta columna generalmente se llama ”geom” o ”geometry”.
 
-- Las geometrías más comunes de datos espaciales son clase Point, Multipoint, Linestring, Multilinestring, Polygon y Multipolygon.
+- las geometrías más comunes de datos espaciales son clase Point, Multipoint, Linestring, Multilinestring, Polygon y Multipolygon.
 
+- permite leer y escribir datos mediante **GDAL**, ejecutar operaciones geométricas con **GEOS** (para coordenadas proyectadas) y realizar transformaciones de coordenadas con **PROJ**.
 
+## Componentes de un objeto sf {.title-top}
+
+<br>
+
+![](img/01/objeto-sf.PNG){width=100%}
 
 ## Paquete terra {.title-top}
 
 <br>
 
-- Incluye funciones para crear, leer, manipular y escribir datos ráster. 
+- incluye funciones para crear, leer, manipular y escribir datos ráster. 
 
-- Permite leer archivos raster grandes desde el disco rigido directamente (sin cargarlos completos en la RAM).
+- permite leer archivos raster grandes desde el disco rigido directamente (sin cargarlos completos en la RAM).
 
-- Provee dos clases: SpatRaster y SpatVector
+- provee dos clases: SpatRaster (`rast()`) y SpatVector (`vect()`)
+
+- para hacer compatibles los formatos *SpatRaster* y *SpatVector* con tidyverse, debemos usar el paquete **tidyterra**. Permite usar **ggplot2** con capas `geom_spatraster` y `geom_spatvector` 
 
 ## Lectura de archivos {.title-top}
 
-## Fuentes de archivos de mapas {.title-top}
+- El paquete sf, junto con tidyverse, tiene la función `sf_read()` para importar archivos espaciales (shp, json, kml, etc)
+
+```{r, eval=FALSE, echo=TRUE}
+datos_espaciales <- read_sf("mapa.shp")
+```
+
+
+- El paquete terra, utiliza la función `vect()` para importar datos espaciales vectoriales y `rast()` para datos raster.
+
+
+```{r, eval=FALSE, echo=TRUE}
+mapa <- system.file("mapa.shp", package="terra")
+
+mapa_vectorial <- vect(mapa)
+########################
+
+mapa <- system.file("mapa.tif", package="terra")
+
+mapa_raster <- rast(mapa)
+```
+
+
+
+
+## Algunas fuentes de archivos de mapas {.title-top}
+
+<br><br>
+
+- [GADM (áreas administrativas de todos los países)](https://gadm.org/) 
+
+- [Datos abiertos IGM (Instituto Geográfico Militar)](https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG)
+
+- [Datos abiertos Mar del Plata](https://datos.mardelplata.gob.ar/?q=search%2Ffield_resources%253Afield_format%2Fshape-57%2Ftype%2Fdataset&query=&sort_by=title&sort_order=ASC)
+
 
 
 ## Servidores de mapas {.title-top}
 
-::: {.justify style="font-size: 150%;"}
-Un plan de gestión de datos es un documento complementario sobre cómo se planea recopilar, almacenar, gestionar y compartir los productos de datos de investigación.
-:::
-
-
-![](img/01/operacionalizacion.jpg)
+<br>
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
-<br>
+- Open Street Map
 
-![](img/01/preguntas1.png){width=100%}
+- ESRI
+
+- CartoDB
+
+- Stamen
 
 :::
 
 ::: {.column width="50%"}
 
-<br>
+- Stadia
 
-![](img/01/preguntas2.png){width=100%}
+- AzureMaps
+
+- Google Maps 
+
+- Jawg
+
 :::
-
 ::::
 
-[Sitio Bases Salud INDEC](https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos-2)
+Podemos ver algunas versiones de ellos en <https://leaflet-extras.github.io/leaflet-providers/preview/> 
+
+
