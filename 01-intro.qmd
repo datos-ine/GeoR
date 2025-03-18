@@ -492,7 +492,7 @@ mapa_raster <- rast(mapa)
 
 - [GADM (áreas administrativas de todos los países)](https://gadm.org/) 
 
-- [Datos abiertos IGM (Instituto Geográfico Militar)](https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG)
+- [Datos abiertos IGM (Instituto Geográfico Nacional)](https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG)
 
 - [Datos abiertos Mar del Plata](https://datos.mardelplata.gob.ar/?q=search%2Ffield_resources%253Afield_format%2Fshape-57%2Ftype%2Fdataset&query=&sort_by=title&sort_order=ASC)
 
