@@ -294,6 +294,14 @@ sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 
 
 - **Polígono**: región encerradas por líneas. Ejemplo: provincias, departamentos, radios censales, etc. Permiten medir perímetro y área.
 
+## Aplicaciones de los diferentes formatos {.title-top}
+
+<br><br>
+
+- Los **datos vectoriales** tienden a dominar las ciencias sociales, porque los asentamientos humanos tienden a tener fronteras discretas (limites de países, provincias, departamentos, etc.).
+
+- El **datos ráster** dominan muchas ciencias ambientales, en parte debido a la dependencia de los datos de teledetección (información proveniente de la captura de satelites).
+
 
 ## Sistema de Posicionamiento Global (GPS) {.title-top}
 
@@ -442,11 +450,26 @@ a una altura aproximada de 20.200 km, con trayectorias sincronizadas para cubrir
 
 - permite leer y escribir datos mediante **GDAL**, ejecutar operaciones geométricas con **GEOS** (para coordenadas proyectadas) y realizar transformaciones de coordenadas con **PROJ**.
 
+## Por qué simple feature - *sf*? {.title-top}
+
+<br>
+
+- Lectura y escritura rápida de datos
+- Rendimiento de visualización mejorado
+- Los objetos **sf** se pueden tratar como dataframes en la mayoría de las operaciones
+- Las funciones **sf** se pueden combinar con tubería (|> o %>%) y funcionan bien con la colección de paquetes *tidyverse*.
+
 ## Componentes de un objeto sf {.title-top}
 
 <br>
 
-![](img/01/objeto-sf.PNG){width=100%}
+![](img/01/objeto-sf.PNG){fig-align="center"}
+
+## Tipos de geometrías {.title-top}
+
+<br>
+
+![](img/01/geometrías.PNG){fig-align="center"}
 
 ## Paquete terra {.title-top}
 

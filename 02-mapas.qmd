@@ -23,16 +23,106 @@ library(fontawesome)
 library(tidyverse)
 ```
 
-## Tipos de mapas {.title-top}
+
+## Operaciones con datos de atributos (variables) {.title-top}
+
+- Todo dataframe espacial de clase **sf** tiene una variable donde se ubica la geometría que define lo que representa (punto, línea o polígono)
+
+- Asociada a la geometría siempre hay una variable con el ID de la geometría (que la identifica).
+
+- Los atributos son datos que deseamos visualizar espacial y gráficamente vinculados a esos ID.
+
+- Por lo tanto, la tabla de datos de esas variables (atributos) deben tener el mismo ID que la parte espacial para poder unirlas.
+
+- Ejemplo de ID nomenclados: códigos estadísticos del INDEC en polígonos (provincia, departamento, etc)
+
+
+## Visualización espacial de datos de salud {.title-top}
+
+<br>
+
+Dentro de los formatos vectoriales habitualmente los datos de salud que deseamos visualizar, en forma directa, son agregados o resumidos a un área determinada. Por ejemplo: indicadores pertenecientes a un departamento o provincia, como una tasa o un promedio para un determinado año.
+
+<br>
+
+Cuando se trata de puntos, es posible que la información a presentar no se encuentre agrupada porque puede pertenecer a un caso puntual.
+
+## Mapas de áreas {.title-top}
+
+<br>
+
+- **Mapas de densidad de puntos**: cada área está asociada a un atributo resumido que cuantifica la variable. Los puntos se visualizan al azar sobre el área. Cuantos más puntos haya en un área determinada, mayor será el valor del atributo en esa área. Pueden ser muy engañosos en aplicaciones de salud pública, ya que es fácil que quienes los leen asuman que cada punto representa la ubicación real de un evento. 
+
+- **Mapas de símbolos**: se ubica un símbolo en el centro de cada región y el valor del atributo asociado a cada característica se indica mediante el tamaño del símbolo. También se suele mostrar un gráfico de sectores o de barras por cada área.
+
+- **Mapas coropléticos**
+
+## Ejemplos {.title-top}
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Mapas de densidad de puntos**
+
+<br>
+
+![](img/02/mapa_puntos.PNG){fig-align="center"}
+
+
+
+:::
+
+::: {.column width="50%"}
+
+**Mapas de símbolos**
+
+<br>
+
+![](img/02/mapa_simbolos.PNG){fig-align="center"}
+
+:::
+
+::::
+
 
 
 
 ## Mapas coropléticos {.title-top}
 
+<br>
+
+- Son el tipo más común para la visualización de datos de área.
+
+- Utilizan diferentes combinaciones de colores y patrones para representar diferentes valores de la variable de atributo asociada con cada área.
+
+- Cada área se colorea según la categoría a la que pertenece su valor de atributo.
+
+- Generalmente incluyen una leyenda que determina la escala de colores/intesindades.
+
+- Predominan en estudios de salud publica.
+
+## Escalas {.title-top}
+
+Contínuas
+
+Discretas (regulares, cuantiles, estadísticas jenks, etc)
+
+
+## Ejemplos coropléticos {.title-top}
+
+
+
+
+## Tasas que se pueden comparar: estandarización {.title-top}
 
 
 ## Mapas de puntos {.title-top}
 
+
+## Visualización de capas raster {.title-top}
 
 
 ## Elementos importantes
