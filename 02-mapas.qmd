@@ -312,6 +312,8 @@ Hay dos posibilidades de creación de mapas: salidas estáticas y salidas dinám
 
 ## Paquete tmap {.title-top}
 
+<br>
+
 - Se basa en la gramática de gráficos del **ggplot2** aplicada a mapas
 
 - El código se construye por "capas" unidas con un simbolo **+**
@@ -320,42 +322,86 @@ Hay dos posibilidades de creación de mapas: salidas estáticas y salidas dinám
 
 - La función principal es `tm_shape()` que define los datos de entrada (permite objetos vectoriales y raster)
 
-- Le sigue alguna definición visual asociada a la geometría de la capa. `tm_fill()` para relleno de polígonos, `` 
+- Le sigue alguna definición visual asociada a la geometría de la capa. `tm_fill()` para relleno de polígonos, `tm_borders()` para contornos de polígonos, `tm_polygons()` para polígonos completos, `tm_symbols()` para simbolos en puntos, etc.
+
 
 ## tmap: modo de salidas {.title-top}
 
+<br><br>
+
+Con el paquetes **tmap** hay dos formas de setear la salida (se ejecuta previamente al código del mapa):
+
+- `tmap_mode("plot")`: modo estático (salida como imagen - jpg, png, pdf, etc -)
+
+<br>
+
+- `tmap_mode("view")`: modo interactivo (salida como html dinámico)
 
 ## tmap: escalas  {.title-top}
+
+<br>
+
+Las escalas controlan cómo se representan los valores en el mapa y en la leyenda, y dependen en gran medida de la variable visual seleccionada
+
+- Por defecto, la escala utilizada es `tm_scale()`. Luego hay una familia de funciones para diferentes tipos de datos: `tm_scale_continuous()`, `tm_scale_continuous_log()`, `tm_scale_categorical()`, etc.
+
+- El argumento `style` define el estilo de la escala. En el caso de `tm_scale_intervals()` puede ser: "fixed", "sd", "equal", "pretty", "quantile", "kmeans", "hclust", "bclust", "fisher", "jenks", "dpih", "headtails", "maximum", o "box". Distintas formas de crear intervalos de clase.
+
+- Todas las escalas utilizan las paletas de colores de `cols4all::palettes()`, dependencia que es parte de **tmap**. Para visualizar los colores en una app de shiny: ejecutar `cols4all::c4a_gui()
 
 
 ## tmap: diseño  {.title-top}
 
+El diseño del mapa se refiere a la combinación de todos sus elementos para formar un mapa coherente. Estos elementos incluyen, entre otros, los objetos que se van a representar, la cuadrícula, la barra de escala, el título y los márgenes.
+
+Los elementos de mapa adicionales, como retículas, rosa de los vientos, barras de escala y títulos, tienen sus propias funciones: 
+
+- `tm_graticules()`: incorpora cuadrículas
+
+- `tm_compass()`: setea la flecha del Norte (rosa de los vientos)
+
+- `tm_scalebar()`: agrega barra de escala y cambia su configración
+
+- `tm_title()`: maneja el título y su aspecto estético
+
+- `tm_credits()`: pie de mapa
 
 ## tmap: ejemplo detallado {.title-top}
+
+<br>
+
+```{r, eval=F, echo=T}
+tm_shape(mapa_sf) +
+    tm_polygons(
+        fill = "variable",
+        fill.scale = tm_scale_continuous(values = "-orange_blue_diverging"),
+        fill.legend = tm_legend("", position = tm_pos_in("left", "top"))) + 
+tm_title("Aquí va el títlo con el lugar y el año") +
+tm_compass(position = tm_pos_in("left", "bottom")) +
+tm_scalebar(position = tm_pos_in("left", "bottom")) +
+tm_credits("Fuente de datos", position = tm_pos_in("left", "bottom"))
+```
+
+## tmap: ejemplo detallado {.title-top}
+
+<br>
+
+![](img/02/ejemplo_tmap.PNG){fig-align="center" width="100%"}
 
 
 ## tmap: interactivos  {.title-top}
 
+<br>
 
+Algunas funciones están asociadas a salidas interactivas, es decir son útiles en modo "view" y no funcionan en modo "plot".
 
+Entre ellas encoentramos:
 
+- `tm_basemap()`: capa base del mapa obtenida de un proveedor web -se define dentro de la función-
 
+- Argumentos `group` y `group.control`: agrupa capas del mapa
 
-
-:::: {.columns}
-
-::: {.column width="40%"}
-
-
-
-:::
-
-::: {.column width="60%"}
-
-
-:::
-
-::::
+- Argumentos `popup.vars`, `popup.format` y `hover`: define que dato se muestra al pasar el mouse por la geometría y al hacer click.
 
 
 
