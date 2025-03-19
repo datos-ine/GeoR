@@ -26,13 +26,23 @@ library(tidyverse)
 
 ## Operaciones con datos de atributos (variables) {.title-top}
 
+. . . 
+
 - Todo dataframe espacial de clase **sf** tiene una variable donde se ubica la geometría que define lo que representa (punto, línea o polígono)
+
+. . . 
 
 - Asociada a la geometría siempre hay una variable con el ID de la geometría (que la identifica).
 
+. . . 
+
 - Los atributos son datos que deseamos visualizar espacial y gráficamente vinculados a esos ID.
 
+. . . 
+
 - Por lo tanto, la tabla de datos de esas variables (atributos) deben tener el mismo ID que la parte espacial para poder unirlas.
+
+. . . 
 
 - Ejemplo de ID nomenclados: códigos estadísticos del INDEC en polígonos (provincia, departamento, etc)
 
@@ -43,19 +53,33 @@ library(tidyverse)
 
 Dentro de los formatos vectoriales habitualmente los datos de salud que deseamos visualizar, en forma directa, son agregados o resumidos a un área determinada. Por ejemplo: indicadores pertenecientes a un departamento o provincia, como una tasa o un promedio para un determinado año.
 
+. . .
+
 <br>
 
-Cuando se trata de puntos, es posible que la información a presentar no se encuentre agrupada porque puede pertenecer a un caso puntual.
+Cuando se trata de puntos, es posible que la información a presentar no se encuentre agrupada porque puede pertenecer a un caso puntual. (tener cuidado con la confidencialidad de los datos cuando se trate de individuos - se suelen crear mapas de calor u otra transformación para anonimizar datos)
 
 ## Mapas de áreas {.title-top}
 
 <br>
 
+::: {.fragment .fade-in-then-semi-out}
+
 - **Mapas de densidad de puntos**: cada área está asociada a un atributo resumido que cuantifica la variable. Los puntos se visualizan al azar sobre el área. Cuantos más puntos haya en un área determinada, mayor será el valor del atributo en esa área. Pueden ser muy engañosos en aplicaciones de salud pública, ya que es fácil que quienes los leen asuman que cada punto representa la ubicación real de un evento. 
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
 
 - **Mapas de símbolos**: se ubica un símbolo en el centro de cada región y el valor del atributo asociado a cada característica se indica mediante el tamaño del símbolo. También se suele mostrar un gráfico de sectores o de barras por cada área.
 
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
 - **Mapas coropléticos**
+
+:::
 
 ## Ejemplos {.title-top}
 
@@ -69,7 +93,7 @@ Cuando se trata de puntos, es posible que la información a presentar no se encu
 
 <br>
 
-![](img/02/mapa_puntos.PNG){fig-align="center"}
+![](img/02/mapa_puntos.PNG){fig-align="center" heigth="100%"}
 
 
 
@@ -81,7 +105,7 @@ Cuando se trata de puntos, es posible que la información a presentar no se encu
 
 <br>
 
-![](img/02/mapa_simbolos.PNG){fig-align="center"}
+![](img/02/mapa_simbolos.PNG){fig-align="center" heigth="100%"}
 
 :::
 
@@ -94,47 +118,223 @@ Cuando se trata de puntos, es posible que la información a presentar no se encu
 
 <br>
 
+::: {.fragment .fade-in-then-semi-out}
+
 - Son el tipo más común para la visualización de datos de área.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
 
 - Utilizan diferentes combinaciones de colores y patrones para representar diferentes valores de la variable de atributo asociada con cada área.
 
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
 - Cada área se colorea según la categoría a la que pertenece su valor de atributo.
 
-- Generalmente incluyen una leyenda que determina la escala de colores/intesindades.
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Generalmente incluyen una leyenda que determina la escala de colores/intensindades.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
 
 - Predominan en estudios de salud publica.
 
+:::
+
 ## Escalas {.title-top}
 
-Contínuas
+. . .
 
-Discretas (regulares, cuantiles, estadísticas jenks, etc)
+- **Contínuas**: representan variables numéricas contínuas con colores en gradientes del tono más claro (blanco) al más oscuro (negro).
+
+. . .
+
+- **Discretas**: representan variables categóricas o variables numéricas contínuas categorizadas en intervalos de clase. Estos intervalos se construyen de distintas formas (divisiones regulares, por cuantiles, métodos estadísticos para puntos de corte, etc)
+
+. . .
+
+Entre los métodos más complejos de creación de puntos de corte encontramos:
+
+- **Optimización de Jenks**: agrupa intervalos minimizando la varianza dentro de cada clase y maximizandola entre ellas.
+
+- **kmeans**: utliza de clasificación no supervisada (agrupamiento) de kmeans para determinar los intervalos.
+
+- **hclust**: usa el clustering jerarquico para generar los saltos de intervalos en la escala.
 
 
 ## Ejemplos coropléticos {.title-top}
 
 
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Mapas coropléticos - escala contínua**
+
+<br>
+
+![](img/02/mapa_cor_cont.PNG){fig-align="center" width="100%"}
 
 
-## Tasas que se pueden comparar: estandarización {.title-top}
+
+:::
+
+::: {.column width="50%"}
+
+**Mapas coropléticos - escala discreta**
+
+<br>
+
+![](img/02/mapa_cor_dis.PNG){fig-align="center" width="100%"}
+
+:::
+
+::::
+
+## Elementos visuales: variables {.title-top}
+
+<br>
+
+- color de relleno (se utiliza en polígonos) 
+- color de contorno (se usa tanto en puntos y lineas, como en contornos de polígonos)
+- ancho de línea
+- tipo de línea (contínua o conformada por otros caracteres)
+- tamaño (simbolos, puntos, etc)
+- forma (forma de un simbolo)
+- transparencia (elemento visual que, en general, no se utiliza para representar variables)
+
+## Mapas estáticos e interactivos {.title-top}
+
+<br>
+
+Hay dos posibilidades de creación de mapas: salidas estáticas y salidas dinámicas (web)
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Las **estáticas** suelen utilizar fuentes locales de datos y se guardan como jpg, png o pdf.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Las **dinámicas / interactivas**, necesaria son *web*. Es decir, archivos html, que generalmente conectan con servidores de mapas (fuente externa). Permiten navegar por el mapa, hacer zoom, seleccionar objetos y todas las cosas que el creador de la salida le incorpore. 
+
+:::
 
 
 ## Mapas de puntos {.title-top}
 
+<br>
+
+- Representan observaciones puntuales georeferenciadas con latitud y longitud, o en su defecto ubicadas en un domicilio dentro de una capa "callejera".
+
+. . . 
+
+- Muchas veces no se pueden compartir / publicar debido a la confidencialidad de los datos. Por lo tanto se construyen mapas de calor, densidad de kernel o distintas transformaciones dentro del análisis espacial de patrones de puntos.
+
+. . .
+
+- Exige georeferenciar previamente las observaciones (obtener las coordenadas de cada ubicación).
+
+
+## Ejemplos {.title-top}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Mapas de puntos georreferenciados**
+
+<br>
+
+![](img/02/mapa_puntos_geo.PNG){fig-align="center" width="100%"}
+
+
+
+:::
+
+::: {.column width="50%"}
+
+**Mapas de puntos - mapa de calor**
+
+<br>
+
+![](img/02/mapa_puntos_calor.PNG){fig-align="center" width="100%"}
+
+:::
+
+::::
 
 ## Visualización de capas raster {.title-top}
 
+<br>
 
-## Elementos importantes
+- Se pueden visualizar capas raster únicas o junto a capas vectoriales.
+
+- El paquete **terra** y el paquete **stars** contiene las dos posibilidades. No así **sf** que es solo vectorial.
+
+- No se utiliza mucho en salud, salvo cuando se abordan elementos ambientales como tipo de suelo, temperaturas, etc que se capturan y procesan con imágenes satelitales y fotos areas.
+
+- El procesamiento de las capas raster es totalmente diferente a el caso vectorial, donde tenemos una matriz de elementos y variables (atributos) relacionadas. Aquí es la misma imagen, conformada por pixeles de un determinado tamaño la que se vincula con el atributo. Hay tantas imágenes como atributos / temporalidad se haya capturado. Por ejemplo, cada pixel representa a una temperatura en un momento dado.
+
+## Elementos importantes en un mapa {.title-top}
+
+<br>
+
+. . . 
+
+- **Título adecuado** (que informe sobre tiempo, lugar y persona)
+
+. . . 
+
+- **Leyenda informativa** (que haga entendible el mapa)
+
+. . . 
+
+- **Rosa de los vientos** (representa los puntos cardinales e indica el norte)
+
+. . . 
+
+- **Escala** (indica la relación de distancias de un mapa y las distancias reales)
+
+. . . 
+
+- **Fuente de datos y proyección** (fuente de la información, similar a un gráfico estadístico. Algunos mapas, además, expresan su proyección)
+
+## Paquete tmap {.title-top}
+
+- Se basa en la gramática de gráficos del **ggplot2** aplicada a mapas
+
+- El código se construye por "capas" unidas con un simbolo **+**
+
+- Todas las funciones comienzan con `tm_`
+
+- La función principal es `tm_shape()` que define los datos de entrada (permite objetos vectoriales y raster)
+
+- Le sigue alguna definición visual asociada a la geometría de la capa. `tm_fill()` para relleno de polígonos, `` 
+
+## tmap: modo de salidas {.title-top}
 
 
-## Salidas estáticas
-
-## Salidas dinámicas (web)
+## tmap: escalas  {.title-top}
 
 
+## tmap: diseño  {.title-top}
 
-![](img/01/snow.png){fig-align="center"}
+
+## tmap: ejemplo detallado {.title-top}
+
+
+## tmap: interactivos  {.title-top}
 
 
 
