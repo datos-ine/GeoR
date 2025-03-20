@@ -403,6 +403,13 @@ Entre ellas encoentramos:
 
 - Argumentos `popup.vars`, `popup.format` y `hover`: define que dato se muestra al pasar el mouse por la geometría y al hacer click.
 
+## Exportación {.title-top}
 
+<br>
 
+- La función de exportación es `tm_save()` y permite guardar los mapas estáticos en archivos basados en pixeles como png, jpg o tiff y en formatos vectoriales como pdf, eps o svg.
+
+- También se puede exportar los mapas interactivos como html completos con el argumento `selfcontained = FALSE` en la función `tm_save()`. El html se genera junto a una carpeta local (index_file) con los archivos JavaScript y CSS necesarios (a veces suele ser bastante pesada)
+
+- La función `tm_save()` tiene además varios argumentos que nos permiten adaptar la salida en resolución, escala, alto y ancho del mapa
 
