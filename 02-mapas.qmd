@@ -413,3 +413,35 @@ Entre ellas encoentramos:
 
 - La función `tm_save()` tiene además varios argumentos que nos permiten adaptar la salida en resolución, escala, alto y ancho del mapa
 
+## Paleta de colores {.title-top}
+
+<br>
+
+Existen varios paquetes en R que traen y/o gestionan paleta de colores para mapas.
+
+Entre los mas usados encontramos:
+
+- [RColorBrewer](https://r-graph-gallery.com/38-rcolorbrewers-palettes.html)
+- [rcartotocolor](https://jakubnowosad.com/rcartocolor/)
+- [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+- [paletter](https://r-graph-gallery.com/color-palette-finder)
+- [cols4all](https://cols4all.github.io/cols4all-R/)
+
+## Paleta de colores {.title-top}
+
+- Secuenciales (contínuas)
+  - Sirven para mostrar datos numéricos ordenados, como fechas o valores ordenados
+  - Utiliza colores que varían suavemente de claro a oscuro o viceversa
+- Divergentes (contínuas)
+  - Combina dos paletas secuenciales con un punto final compartido en el valor central 
+  - Se utiliza a menudo para tener un tono para valores "positivos" y otro para valores "negativos" 
+- Discretas (cualitativas)
+  - Permite crear rangos con tamaños desiguales para representar mejor las diferencias en los datos
+  
+## Paleta de colores {.title-top}
+
+<br>
+
+- Paquetes como `cols4all` se integran con tmap (a partir de la versión 4)
+- Muchos de los paquetes contienen paletas compatibles con el daltonismo. Un paquete interensante para comprobar esta compatilidad es [colorblindcheck](https://github.com/Nowosad/colorblindcheck)
+- Las personas con deficiencia visual del color carecen de (al menos) un tipo de tono. En los tres tipos de daltonismo ( deuteranopía , protanopía y tritanopía) , los tonos ausentes son aquellos sensibles principalmente a las longitudes de onda media (verde), larga (rojo) y corta (azul), respectivamente. La percepción del color en estas personas se basa en los dos tipos de tonos restantes. Como resultado, las personas con deuteranopía y protanopía tienen dificultad para distinguir el verde del rojo, mientras que las personas con tritanopía apenas pueden distinguir el azul del amarillo
