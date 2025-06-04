@@ -1,0 +1,209 @@
+---
+title: "Análisis de patrones de puntos"
+subtitle: "Residencia de Epidemiología"
+format: 
+  revealjs:
+    self-contained: true
+    width: 1920
+    height: 1080
+    slide-number: true
+    transition: fade
+    theme: [simple, img/custom.scss]
+    logo: img/INE.gif
+    footer: "Instituto Nacional de Epidemiología"
+---
+
+```{r setup, include=F}
+#| label: setup
+#| include: false
+
+
+library(quarto)
+library(fontawesome)
+library(tidyverse)
+```
+
+
+## Autocorrelación espacial {.title-top}
+
+<br>
+
+La autocorrelación espacial se utiliza para describir el grado en que una variable está correlacionada consigo misma a través del espacio
+
+La autocorrelación espacial positiva ocurre cuando las observaciones con valores similares están más cerca entre sí (es decir, agrupadas). La autocorrelación espacial negativa ocurre cuando las observaciones con valores diferentes están más cerca entre sí (es decir, dispersas)
+
+![](img/04/autocorrelacion_espacial.PNG){fig-align="center"}
+
+## Interpolación espacial {.title-top}
+
+<br>
+
+La interpolación espacial es la actividad de estimar valores de variables espacialmente continuas para ubicaciones espaciales donde no se han observado, basándose en observaciones.
+
+. . . 
+
+La datos asociados a los puntos proporcionan información sobre un fenómeno espacialmente continuo medido en sitios específicos.
+
+. . . 
+
+![](img/04/interpolar1.PNG){fig-align="center"}
+
+## Interpolación espacial {.title-top}
+
+<br>
+
+Ejemplo
+
+![](img/04/Ejemplo_Zinc.PNG){fig-align="center"}
+
+
+
+*Bivand et al. 2013*
+
+## Interpolación espacial {.title-top}
+
+<br>
+
+Podemos clasificar en dos los métodos de interpolación espacial: 
+
+::: {.fragment .fade-in-then-semi-out}
+
+- los que asumen que los cambios de las variables se dan de forma abrupta (polígonos de Thiessen o de Voronoi y la red de triangulación irregular)  
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- los que asumen que los cambios de las variables son graduales (globales, locales y óptimos usando autocovarianza espacial)
+
+:::
+
+## Polígonos de Thiessen o de Voronoi {.title-top}
+
+. . . 
+
+- son uno de los métodos de interpolación más simples, basados en la [distancia euclidiana](https://es.wikipedia.org/wiki/Distancia_euclidiana). 
+
+. . . 
+
+- se crean al unir los puntos entre sí, trazando las mediatrices de los segmentos de unión. Las intersecciones de estas mediatrices determinan una serie de polígonos en un espacio bidimensional alrededor de un conjunto de puntos de control.
+
+. . . 
+
+- los perímetro de los polígonos generados son equidistante a los puntos vecinos y designan su área de influencia.
+
+
+![](img/04/voronoi.PNG){fig-align="center"}
+
+## Polígonos de Thiessen o de Voronoi {.title-top}
+
+<br>
+
+. . .
+
+- En epidemiología, los diagramas de Voronoi pueden utilizarse para correlacionar las fuentes de infección en epidemias.
+
+. . .
+
+- Un diagrama de Voronoi divide un espacio en celdas basándose en la distancia a un conjunto de puntos, donde cada punto dentro de una celda está más cerca de su punto asociado que de cualquier otro punto. 
+
+. . .
+
+- Una de las primeras aplicaciones de los diagramas de Voronoi fue (de alguna forma) implementada por John Snow para estudiar el brote de cólera de 1854 en Broad Street, Soho, Inglaterra
+
+## Ponderación de distancia inversa (IDW) {.title-top}
+
+<br>
+
+- estima valores en ubicaciones desconocidas basándose en valores conocidos en ubicaciones cercanas
+
+- asigna mayor peso a las observaciones más cercanas, suponiendo que las características más cercanas están más relacionadas
+
+- método relativamente simple y rápido, pero puede no ser adecuado para áreas con patrones espaciales complejos
+
+![](img/04/IDW.PNG){fig-align="center"}
+
+## Ponderación de distancia inversa (IDW) {.title-top}
+
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- El método no necesita de variogramas previos.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- El paquete **gstat** aplica el método IDW y nos pide definir:
+  - **formula**: en general `variable ~ 1`
+  - **nmax**: número máximo de vecinos (se establece igual al número total de ubicaciones)
+  - **idp**: potencia de distancia inversa (cuando aumenta se le da menos peso para la estimación a los sitios alejados y por lo tanto mayor a los
+sitios cercanos)
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- La limitación principal es encontrar el r -idp- (potencia) adecuada.
+
+:::
+
+## Densidad de kernel (KDE) {.title-top}
+
+<br>
+
+Transforma matemáticamente un conjunto de puntos georreferenciados en una superficie continua, es decir, en un mapa de densidades que muestra dónde se concentran más los puntos.
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Cada punto se rodea con una “campana gaussiana” bidimensional (kernel). Existen otras distribuciones posibles.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Las campanas se suman. Donde hay muchos puntos cerca unos de otros, las campanas se superponen y la “altura” (densidad) resultante es mayor.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Se obtiene una superficie de densidad. El resultado es un mapa que indica la densidad de puntos en cada zona del área de estudio. Cuanto más alto el valor, mayor es la concentración de puntos.
+
+:::
+
+## Densidad de kernel (KDE) {.title-top}
+
+
+- Se usa para identificar zonas calientes (hotspots) o de concentración.
+
+. . . 
+
+- Es clave el control adecuado del ancho de banda (bandwidth). Este ancho de banda controla cuánto se extiende la influencia de cada punto. Si es muy chico, el mapa queda “picado”; si es muy grande, se suaviza mucho y se pierde detalle.
+
+. . . 
+
+- Existen distintos métodos para determinar el mejor ancho de banda. Visuales (subjetivos), por escala del fenómeno estudiado y automáticos (por ejemplo: regla de Silverman´s)  
+
+![](img/04/kernel.PNG){fig-align="center"}
+
+## Funciones y paquetes en R {.title-top}
+
+<br>
+
+- El paquete **sf**, ya visto, trae muchas funciones de tranformación útiles: como `st_union()`, `st_intersection()`, `st_bbox()`, `st_crop()`, etc.
+
+. . . 
+
+- Para lograr los polígonos de Voronoi también ofrece la función `st_voronoi()` al igual que el paquete **terra**
+
+. . . 
+
+
+- El paquete **gstat** para el modelado, predicción y simulación geoestadística espacial tiene varias funciones interesantes entre ellas una necesaria para poder interpolar por la inversa distancia ponderada, denominada `idw()` 
+
+. . . 
+
+- El paquete **spatstat** para análisis de patrones de puntos espaciales, permite por ejemplo generar densidades de kernel mediante su función `density()`
+

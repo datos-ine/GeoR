@@ -1,0 +1,994 @@
+Año;Mes.de.choque;Rango.horario;Cantidad.de.lesionados;addresses;Coordenada.X;Coordenada.Y;lon;lat;direccion
+2016;Julio;0 a 5:59;1;BERMUDEZ Y REGIMIENTO 11,Rosario,Santa Fe,Argentina;5439934,11;6349189;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ESCALADA CELEDONIO 99,Rosario,Santa Fe,Argentina;5438108,51;6356814,37;-60,6874782;-32,9112252;Escalada 99, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;LINIERS Y PTE PERON,Rosario,Santa Fe,Argentina;5434763,5;6353320,49;-60,6977517;-32,9611573;Liniers & Av. Pres. Perón, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ARIJON 1637,Rosario,Santa Fe,Argentina;5438632,04;6348646,02;-60,656647;-33,003352;Av. Arijon 1637, S2011CAB Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;BARRA Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5433935,7;6354842,29;-60,7065128;-32,9473135;Barra & Montevideo, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;1 DE MAYO Y 3 DE FEBRERO,Rosario,Santa Fe,Argentina;5440972,81;6354119,64;-60,631298;-32,9542036;1 de Mayo & 3 de Febrero, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;EVA PERON Y SOLIS,Rosario,Santa Fe,Argentina;5434193.09;6356243.09;-60,7036502;-32,9346377;Solís & Av. Eva Perón, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ROUILLON Y SEGUI,Rosario,Santa Fe,Argentina;5434460,94;6352245,97;-60,7009875;-32,9708025;Rouillon & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;DORREGO Y PELLEGRINI,Rosario,Santa Fe,Argentina;5439040,52;6353986,09;-60,6519511;-32,9553833;Dorrego & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;RIOJA Y PUEYRREDON,Rosario,Santa Fe,Argentina;5438501,79;6355221,24;-60,6576949;-32,944134;Pueyrredón & Rioja, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;GABOTO Y LAPRIDA,Rosario,Santa Fe,Argentina;5440076,74;6351915,01;-60,6409686;-32,9740335;Laprida & Gaboto, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;NEUQUEN Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433380,27;6355139,26;-60,7124688;-32,9445893;Neuquén & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;GRANADEROS 2960,Rosario,Santa Fe,Argentina;5,43E+15;6,36E+15;-60,7100279;-32,8859848;Camino de los Granaderos 2960, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;E ZEBALLOS Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5437948,18;6354475,67;-60,6636275;-32,9508503;Zeballos & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ESTEBAN DE LUCA Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436976,96;6349487,79;-60,6744179;-32,9957254;Esteban de Luca & Av. Ovidio Lagos, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;SANTA FE Y VERA MUJICA,Rosario,Santa Fe,Argentina;5437667,4;6355682,73;-60,666515;-32,9399496;Vera Mujica & Sta Fe, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;SOLIS BIS 500,Rosario,Santa Fe,Argentina;5434157,06;6357559;-60,7040821;-32,9229183;Solís Bis 500, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;RONDEAU 4300,Rosario,Santa Fe,Argentina;5434599,89;6362903,9;-60,6983153;-32,8745923;Bv. Rondeau 4300, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;BUENOS AIRES Y RIOJA,Rosario,Santa Fe,Argentina;5440804,5;6354720;-60,6330487;-32,9487899;Rioja & Buenos Aires, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;BROWN Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5438359,15;6356462,07;-60,6590884;-32,9329605;Brown & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;KHANTUTA Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439139,3;6347696,67;-60,651323;-33,0120193;Khantuta & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ALEM Y SEGUI,Rosario,Santa Fe,Argentina;5440502,7;6351164,26;-60,6365565;-32,9809293;Leandro N. Alem & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;GARAY Y ROUILLON,Rosario,Santa Fe,Argentina;5434439,84;6352769,89;-60,7011872;-32,9660308;Garay & Rouillon, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;MONTEAGUDO Y VELEZ SARSFIELD,Rosario,Santa Fe,Argentina;5437565,14;6357373,17;-60,6675038;-32,9246916;Monteagudo & Vélez Sársfield, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ALBERT SABIN Y RUBEN DARIO,Rosario,Santa Fe,Argentina;5435758,56;6357704,53;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;MATHEU Y RONDEAU,Rosario,Santa Fe,Argentina;5435035,15;6361378,2;-60,6943188;-32,8884252;Matheu & Bv. Rondeau, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;OVIDIO LAGOS Y SEGUI,Rosario,Santa Fe,Argentina;5437424,48;6351797,02;-60,669305;-32,9749343;Bv. Seguí & Av. Ovidio Lagos, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;PUEYRREDON Y TUCUMAN,Rosario,Santa Fe,Argentina;5438633,79;6355863,25;-60,6561899;-32,9383457;Pueyrredón & Tucumán, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;BELGRANO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5440618,05;6355597,17;-60,6352624;-32,9410021;Av. San Martín & Av. Belgrano, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ABANDERADO GRANDOLI Y BIEDMA,Rosario,Santa Fe,Argentina;5441283,42;6350736,8;-60,6282114;-32,9847335;Av. Abanderado Grandoli & Cnel. M. Biedma, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;3 DE FEBRERO Y SUIPACHA,Rosario,Santa Fe,Argentina;5437744,6;6354774,27;-60,6657759;-32,9481772;Suipacha & 3 de Febrero, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;CONSTITUCION Y DR RIVAS,Rosario,Santa Fe,Argentina;5436147,5;6351528,73;-60,6830874;-32,9773094;Constitución & Dr. Riva, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ITUZAINGO Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433415,2;6354295,43;-60,7120503;-32,9521997;Ituzaingó & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;J CASALS Y SANGUINETTI,Rosario,Santa Fe,Argentina;5434788,56;6352122,22;-60,6975467;-32,9718921;J. de Casal & Sanguinetti, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;25 DE MAYO Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5432314,79;6357797,78;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;EVA PERON 6000,Rosario,Santa Fe,Argentina;5434070,86;6356247,4;-60,7048425;-32,9344244;Av. Eva Perón 6000, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;IRIONDO Y PTE QUINTANA,Rosario,Santa Fe,Argentina;5436555,92;6351577,62;-60,6787186;-32,9768954;Iriondo & Pres. Quintana, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ENTRE RIOS Y TUCUMAN,Rosario,Santa Fe,Argentina;5440167,99;6355546,49;-60,6397698;-32,9413035;Tucumán & Entre Ríos, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;AMEGHINO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439618,92;6350415,6;-60,6459409;-32,9875661;Ameghino & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;EVA PERON Y WILDE,Rosario,Santa Fe,Argentina;5430870,25;6356926,32;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;LARREA Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5434825,97;6354876,82;-60,6969913;-32,9470301;Larrea & Montevideo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;25  DE MAYO Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436741,95;6348141,68;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;CASIANO CASAS Y WASHINGTON,Rosario,Santa Fe,Argentina;5434435,06;6359706,28;-60,7007434;-32,9034699;Washington & Av. Casiano Casas, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;BERUTI Y RIOBAMBA,Rosario,Santa Fe,Argentina;5441638,12;6352789,04;-60,6242629;-32,9662539;Riobamba & Berruti, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;DORREGO Y SEGUI,Rosario,Santa Fe,Argentina;5438543,16;6351566,96;-60,6574672;-32,9771816;Dorrego & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;CASIANO CASAS Y F NETRI,Rosario,Santa Fe,Argentina;5434587,92;6359573,36;-60,6991439;-32,9046236;Netri & Av. Casiano Casas, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ITALIA Y SAN JUAN,Rosario,Santa Fe,Argentina;5439330,93;6354751,88;-60,648822;-32,9484604;San Juan & Italia, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;BELGRANO Y SARGENTO CABRAL,Rosario,Santa Fe,Argentina;5440716,36;6355339,25;-60,6341066;-32,9430418;Sgto Cabral & Av. Belgrano, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;AYOLAS Y ABANDERADO GRANDOLI,Rosario,Santa Fe,Argentina;5441321,11;6351260,28;-60,628169;-32,98733;Av. Abanderado Grandoli 4041, S2001FAC Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;MENDOZA Y PERU,Rosario,Santa Fe,Argentina;5433473,03;6355626,1;-60,7113985;-32,9401302;Perú & Mendoza, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ARIJON Y OROÑO,Rosario,Santa Fe,Argentina;5437858,29;6348633,53;-60,6651576;-33,0034992;Av. Arijon & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;CATAMARCA Y FRANCIA,Rosario,Santa Fe,Argentina;5437896,56;6356152,67;-60,6641701;-32,9356796;Catamarca & Av. Francia, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;GUALEGUAY Y URQUIZA,Rosario,Santa Fe,Argentina;5435869,08;6356299,05;-60,6857357;-32,9342586;Gualeguay & Urquiza, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;DR RIVA Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439686,98;6350800,13;-60,6453309;-32,9840576;Dr. Riva & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;OROÑO Y SEGUI,Rosario,Santa Fe,Argentina;5438161,8;6351644,86;-60,6614377;-32,9762975;Bv. Seguí & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;27 DE FEBRERO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439979,86;6352596,8;-60,6420133;-32,9679238;Av. San Martín & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;J M GUTIERREZ Y OWEN,Rosario,Santa Fe,Argentina;5437632,49;6349621,57;-60,6673111;-32,994594;Owen & J. M. Gutiérrez, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;9 DE JULIO Y SARMIENTO,Rosario,Santa Fe,Argentina;5440154,56;6354157,48;-60,6400111;-32,9538281;9 de Julio & Sarmiento, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59 ;1;CONSTITUCION Y SEGUI,Rosario,Santa Fe,Argentina;5436251,54;6352038,91;-60,6819216;-32,9726609;Constitución & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ANCHORENA Y BALCARCE,Rosario,Santa Fe,Argentina;5437986,04;6349221,51;-60,6635602;-32,9982286;Anchorena & Balcarce, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;3 DE FEBRERO Y RODRIGUEZ,Rosario,Santa Fe,Argentina;5438254,23;6354669,21;-60,6603221;-32,9491244;Rodríguez & 3 de Febrero, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BROWN Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5438359,15;6356462,07;-60,6590884;-32,9329605;Brown & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;3;ESPAÑA Y VIRASORO,Rosario,Santa Fe,Argentina;5439007,09;6352533,34;-60,6524087;-32,9684114;Virasoro & España, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GOMENSORO Y ROCA,Rosario,Santa Fe,Argentina;5439098.58;6352315.22;-60,6514753;-32,9703928;Gomensoro & Pte. Roca, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LAPRIDA Y PASCO,Rosario,Santa Fe,Argentina;5440391,73;6353443,71;-60,637535;-32,9602523;Pasco & Laprida, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;EVA PERON Y WILDE,Rosario,Santa Fe,Argentina;5430870,25;6356926,32;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;1 DE MAYO Y SEGUI,Rosario,Santa Fe,Argentina;5440373,71;6351190,78;-60,6379209;-32,9806729;1 de Mayo & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;ALZUGARAY Y BERMUDEZ,Rosario,Santa Fe,Argentina;5439999,26;6347615,09;-60,6421323;-33,0128105;Alzugaray & Av Bermúdez, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN JUAN 5300,Rosario,Santa Fe,Argentina;5434903,73;6355600,78;-60,6959692;-32,9406477;San Juan 5300, S2008BOH Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;DONADO Y MORRISON,Rosario,Santa Fe,Argentina;5431949,22;6357250,87;-60,7275337;-32,9254761;Av. Morrison & Donado Bis, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CONSTITUCION,Rosario,Santa Fe,Argentina;;;-60,6784773;-32,9589657;Constitución, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CAMILO ALDAO Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5434944,25;6354881,41;-60,6957031;-32,9469858;Montevideo & Camilo Aldao, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;TTE AGNETA Y URQUIZA,Rosario,Santa Fe,Argentina;5434522,81;6356422,76;-60,7001184;-32,9331094;Tte. Agneta & Urquiza, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BOMAN Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436899,59;6349163,75;-60,6750132;-32,9986885;Boman & Av. Ovidio Lagos, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN MARTIN 3200,Rosario,Santa Fe,Argentina;5439841,37;6351817,08;-60,6438203;-32,9748688;Av. San Martín 3200, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;25  DE MAYO Y J J PASO,Rosario,Santa Fe,Argentina;5432314,79;6357797,78;-60,5647778;-33,0790196;J. J. Paso & 1 de Mayo, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;1 DE MAYO Y 3 DE FEBRERO,Rosario,Santa Fe,Argentina;5440972,81;6354119,64;-60,631298;-32,9542036;1 de Mayo & 3 de Febrero, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MONTEVIDEO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5440243,29;6353871,93;-60,6391022;-32,956385;Montevideo & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;OROÑO Y PELLEGRINI,Rosario,Santa Fe,Argentina;5438658,82;6354063,85;-60,659988;-32,969051;Bv. Oroño 2970, S2001SPO Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARIJON Y MARIANO MORENO,Rosario,Santa Fe,Argentina;5438142,2;6348645,71;-60,6619297;-33,0034146;Mariano Moreno & Av. Arijon, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BAIGORRIA Y MOLINA,Rosario,Santa Fe,Argentina;5434061,2;6360778,83;-60,70475;-32,8937717;Molina & Baigorria, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ACEVEDO ING ARTURO Y FRANCIA,Rosario,Santa Fe,Argentina;5436714,84;6350765,1;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MITRE Y TUCUMAN,Rosario,Santa Fe,Argentina;5440300,68;6355518,72;-60,6383889;-32,9415873;Mitre & Tucumán, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AVELLANEDA Y GABOTO,Rosario,Santa Fe,Argentina;5435873,95;6352780,13;-60,6859876;-32,9659843;Gaboto & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GODOY 7400,Rosario,Santa Fe,Argentina;5432645,74;6352061,04;-60,7209526;-32,9359852;Sta Fe 7400, S2008ANL Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GAMBARTES Y KENNEDY,Rosario,Santa Fe,Argentina;5433591,05;6361238,3;-60,7097553;-32,889635;Av. J. F. Kennedy & Gambartes, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AYACUCHO Y REGIMIENTO 11,Rosario,Santa Fe,Argentina;5440519,7;6349213,95;-60,6364411;-32,9984153;Regimiento 11 & Ayacucho, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GENOVA 2200,Rosario,Santa Fe,Argentina;5434955,67;6358393,58;-60,6953155;-32,9155126;Av. Genova 2200, S2013BTO Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PUEYRREDON Y URIBURU,Rosario,Santa Fe,Argentina;5437418,81;6349973,75;-60,6695629;-32,9914457;Pueyrredón & Av. Uriburu, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MAGALLANES Y PELLEGRINI,Rosario,Santa Fe,Argentina;5434155,16;6354724,49;-60,70415;-32,9484296;Magallanes & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CALVO Y SORRENTO,Rosario,Santa Fe,Argentina;5434266,36;6359258,6;-60,7027455;-32,9075117;Calvo & Av. Sorrento, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PUEYRREDON Y RIVADAVIA,Rosario,Santa Fe,Argentina;5438793,19;6356640,31;-60,7041059;-32,8618559;Rivadavia & Pueyrredón, S2152 Granadero Baigorria, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;FRANCIA 3800,Rosario,Santa Fe,Argentina;5436986,05;6351608,2;-60,6744079;-32,9764712;Av. Francia 3800, S2004HYP Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;25 DE MAYO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439056,55;6347208,15;-60,6520208;-33,0157223;Av. San Martín & 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AVELLANEDA Y BIEDMA,Rosario,Santa Fe,Argentina;5435691,175;6351887,135;-60,6878796;-32,9740804;Cnel. M. Biedma & Bv. Avellaneda, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;27 DE FEBRERO Y OROÑO,Rosario,Santa Fe,Argentina;5438422,74;6352919,97;-60,6585086;-32,9648633;Bv. 27 de Febrero & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CASIANO CASAS Y SORRENTO,Rosario,Santa Fe,Argentina;5434910,76;6359288,38;-60,6956737;-32,9072974;Av. Casiano Casas & Av. Sorrento, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;FRANCIA 200 BIS,Rosario,Santa Fe,Argentina;5.438.094.257.610.750;6.357.250.209.544.440;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BELGRANO Y SARGENTO CABRAL,Rosario,Santa Fe,Argentina;5440716,36;6355339,25;-60,6341066;-32,9430418;Sgto Cabral & Av. Belgrano, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CORRIENTES Y SEGUI,Rosario,Santa Fe,Argentina;5439186,74;6351434,68;-60,6506027;-32,9784104;Corrientes & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MARIANO MORENO Y RIOJA,Rosario,Santa Fe,Argentina;5439135,97;6355091,62;-60,6508514;-32,9453821;Rioja & Mariano Moreno, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;PAVON Y REGIMIENTO 11,Rosario,Santa Fe,Argentina;5440726,19;6349222,5;-60,6342235;-32,9983728;Pavón & Regimiento 11, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;DORREGO 1900,Rosario,Santa Fe,Argentina;5438971,16;6353722,26;-60,6525852;-32,9576624;Dorrego 1900, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SALTA 3039,Rosario,Santa Fe,Argentina;5438002,47;6356249,91;-60,6629541;-32,9348151;Salta 3039, S2002JKI Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RIVAROLA Y REP DEL SALVADOR,Rosario,Santa Fe,Argentina;5433354,62;6352785,75;-60,7128407;-32,9658117;Republic del Salvador & Av. Rivarola, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;F NETRI Y SORRENTO,Rosario,Santa Fe,Argentina;5434314,27;6359260,24;-60,7021243;-32,9075464;Netri & Av. Sorrento, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;27 DE FEBRERO Y BUENOS AIRES,Rosario,Santa Fe,Argentina;5440353,79;6352522,72;-60,6380286;-32,9685397;Buenos Aires & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;VERA MUJICA 1450,Rosario,Santa Fe,Argentina;5437435,85;6354632,03;-60,669053;-32,9492959;Vera Mujica 1450, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RICCHIERI Y SALTA,Rosario,Santa Fe,Argentina;5438178,02;6356228,99;-60,6610485;-32,9350335;Riccheri & Salta, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;DANTE ALIGHIERI Y OROÑO,Rosario,Santa Fe,Argentina;5438492,56;6353258,54;-60,6546173;-32,948112;Bv. Oroño 1160, S2000DSY Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RIO DE JANEIRO Y RIOBAMBA,Rosario,Santa Fe,Argentina;5435983,62;6353953,62;-60,6846768;-32,9554533;Río de Janeiro & Riobamba, S2003 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BELGRANO Y LAPRIDA,Rosario,Santa Fe,Argentina;5440835,1;6355162,62;-60,6327086;-32,9448251;Laprida & Av. Belgrano, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LAVALLE Y SAAVEDRA,Rosario,Santa Fe,Argentina;5435896,17;6352245,2;-60,68573;-32,9708394;Lavalle & Saavedra, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALVEAR Y SAAVEDRA,Rosario,Santa Fe,Argentina;5438061,27;6351798,04;-60,6625777;-32,9749876;Alvear & Saavedra, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RIVADAVIA Y RODRIGUEZ,Rosario,Santa Fe,Argentina;5438688,23;6356662,35;-60,6558466;-32,9311443;Rodríguez & B. Rivadavia, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MONTECARLO Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436329,96;6345975,24;-60,6814911;-33,0273902;Montecarlo & Av. Ovidio Lagos, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALVEAR,Rosario,Santa Fe,Argentina;;;-60,6185989;-33,0574351;Alvear, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CASTINONO 900,Rosario,Santa Fe,Argentina;5435047,5;6360349,23;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARIJON Y BALCARCE,Rosario,Santa Fe,Argentina;5438010,76;6348640,22;-60,6633225;-33,0034627;Balcarce & Av. Arijon, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;DONIZETTI Y SORRENTO,Rosario,Santa Fe,Argentina;5435019,63;6359286,6;-60,6946113;-32,9072462;Donizetti & Av. Sorrento, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARIJON Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439315,27;6348694,63;-60,6494128;-33,0030362;Av. Arijon & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MARGIS Y NUESTRA SRA DEL ROSARIO,Rosario,Santa Fe,Argentina;5438681,09;6349018,26;-60,632557;-32,94742;Buenos Aires 789, S2000CEB Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CALLAO Y TUCUMAN,Rosario,Santa Fe,Argentina;5438379,46;6355915,75;-60,6588716;-32,9378651;Callao & Tucumán, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;LAPRIDA Y RUEDA,Rosario,Santa Fe,Argentina;5440129,32;6352169,99;-60,6403872;-32,9717703;Rueda & Laprida, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;27 DE FEBRERO Y MATIENZO,Rosario,Santa Fe,Argentina;5435115,54;6353578,8;-60,6939776;-32,9587945;Matienzo & Bv. 27 de Febrero, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;INT LAMAS Y SORRENTO,Rosario,Santa Fe,Argentina;5435091,42;6359289,32;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;LINIERS Y PTE PERON,Rosario,Santa Fe,Argentina;5434763,5;6353320,49;-60,6977517;-32,9611573;Liniers & Av. Pres. Perón, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;EVA PERON 5200,Rosario,Santa Fe,Argentina;5435014,47;6356088,92;-60,6938563;-32,9362114;Av. Eva Perón 5200, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;MONTEVIDEO Y VALPARAISO,Rosario,Santa Fe,Argentina;5436012,97;6354743,1;-60,6842986;-32,9483054;Valparaiso & Montevideo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GARZON Y LA REPUBLICA,Rosario,Santa Fe,Argentina;5433939,58;6358049,02;-60,7062059;-32,9184259;La República & Garzón, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CORRIENTES Y SANTA FE,Rosario,Santa Fe,Argentina;5439963,5;6355211,31;-60,6420053;-32,9443187;Sta Fe & Corrientes, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BIEDMA Y SAN NICOLAS,Rosario,Santa Fe,Argentina;5436327,1;6351757,06;-60,6811389;-32,9752518;Cnel. M. Biedma & San Nicolás, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RODRIGUEZ Y SAN LUIS,Rosario,Santa Fe,Argentina;5438340,25;6355085,2;-60,6593714;-32,9453419;Rodríguez & San Luis, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;PARAGUAY Y RIOBAMBA,Rosario,Santa Fe,Argentina;5439424,83;6353243,77;-60,6479974;-32,9619865;Riobamba & Paraguay, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PROVINCIAS UNIDAS Y VELEZ SARSFIELD,Rosario,Santa Fe,Argentina;5433288,75;6357196,18;-60,7133167;-32,9260002;Vélez Sársfield & Av. Provincias Unidas Bis, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;JORGE NEWBERY Y SANCHEZ DE LORIA,Rosario,Santa Fe,Argentina;5431419,84;6359130,02;-60,7331597;-32,9084508;Sánchez de Loria Bis & Av. Jorge Newbery, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARIJON Y SANTIAGO,Rosario,Santa Fe,Argentina;5437607,3;6348622,58;-60,6676701;-33,003612;Santiago & Av. Arijon, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;IRIONDO Y SEGUI,Rosario,Santa Fe,Argentina;5436634,16;6351960;-60,6778252;-32,9734731;Iriondo & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AURORA Y FRANCIA,Rosario,Santa Fe,Argentina;5436653,7;6349071,87;-60,6777658;-32,9994793;Aurora & Av. Francia, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AVELLANEDA 2700,Rosario,Santa Fe,Argentina;5436001,98;6353277,76;-60,633242;-33,0094365;Avellaneda 2700, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CORRIENTES Y RIOBAMBA,Rosario,Santa Fe,Argentina;5439553,97;6353217,1;-60,6465309;-32,9622832;Riobamba & Corrientes, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ITUZAINGO Y SAN NICOLAS,Rosario,Santa Fe,Argentina;5436800,01;6354049,97;-60,6759421;-32,9546125;Ituzaingo & San Nicolás, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LAVALLE Y TUCUMAN,Rosario,Santa Fe,Argentina;5436724,11;6356257,18;-60,6766164;-32,9346986;Lavalle & Tucumán, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;FUHR 1200,Rosario,Santa Fe,Argentina;5434711,64;6355515,09;-60,6979811;-32,9414803;Fuhr 1200, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CAFFERATA Y OCAMPO,Rosario,Santa Fe,Argentina;5436795,85;6353386,4;-60,6760044;-32,9605856;Ocampo & Cafferata, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;CAFERATA C Y PELLEGRINI,Rosario,Santa Fe,Argentina;5437006,86;6354405,27;-60,6737122;-32,9513423;Cafferata & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CERRITO Y SAN NICOLAS,Rosario,Santa Fe,Argentina;5436773,61;6353922,52;-60,6762118;-32,9557369;Cerrito & San Nicolás, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN MARTIN Y URIBURU,Rosario,Santa Fe,Argentina;5439557,84;6350066,98;-60,6467357;-32,9907385;Av. San Martín & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LA PAZ Y PARAGUAY,Rosario,Santa Fe,Argentina;5439398,09;6353116,61;-60,6482643;-32,9631476;La Paz & Paraguay, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CASABLANCA Y IRIONDO,Rosario,Santa Fe,Argentina;5436620,68;6351892,15;-60,6779995;-32,9740466;Casablanca & Iriondo, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LAPRIDA Y MENDOZA,Rosario,Santa Fe,Argentina;5440594,06;6354337,07;-60,6353197;-32,9522376;Laprida & Mendoza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;FELIPE MORE Y PELLEGRINI,Rosario,Santa Fe,Argentina;5435157,06;6354763,36;-60,6934376;-32,9480351;Felipe Moré & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PARAGUAY Y SAN LORENZO,Rosario,Santa Fe,Argentina;5439856,32;6355342,06;-60,6431305;-32,9431392;Paraguay & San Lorenzo, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PARAGUAY Y WHEELWRIGHT,Rosario,Santa Fe,Argentina;5440004,9;6356059,12;-60,6415044;-32,936668;Av. Wheelwright & Paraguay, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MITRE 1028,Rosario,Santa Fe,Argentina;5440114,19;6354685,71;-60,6403305;-32,9491263;Mitre 1028, S2000COV Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;CASIANO CASAS Y SORRENTO,Rosario,Santa Fe,Argentina;5434910,76;6359288,38;-60,6956737;-32,9072974;Av. Casiano Casas & Av. Sorrento, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;J J PASO Y VENEZUELA,Rosario,Santa Fe,Argentina;5432148,14;6357792,19;-60,7254057;-32,9205881;Venezuela & Juan José Paso, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;JUAN PABLO II Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436750,81;6348244,89;-60,6767227;-33,0069715;Juan Pablo II & Av. Ovidio Lagos, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;DORREGO Y SAN LORENZO,Rosario,Santa Fe,Argentina;5439341,51;6355446,2;-60,6486401;-32,9421758;Dorrego & San Lorenzo, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BALCARCE Y VIRASORO,Rosario,Santa Fe,Argentina;5438498,94;6352637,61;-60,6579385;-32,9674281;Balcarce & Virasoro, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;25 DE MAYO Y JUAN B JUSTO,Rosario,Santa Fe,Argentina;5432281,57;6358390,53;-60,5151133;-33,151516;1° de Mayo & Juan B. Justo, Arroyo Seco, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BROWN Y ITALIA,Rosario,Santa Fe,Argentina;5439627,38;6356200,43;-60,6455159;-32,935374;Brown & Italia, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALVEAR Y SAN DIEGO,Rosario,Santa Fe,Argentina;5438978,16;6356321,17;-60,611393;-33,0186043;Calle Alvear & Av. San Diego, Villa Gdor. Galvez, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MARIANO MORENO Y MENDOZA,Rosario,Santa Fe,Argentina;5439045,62;6354650,22;-60,6518618;-32,9493614;Mariano Moreno & Mendoza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARIJON Y SANTIAGO,Rosario,Santa Fe,Argentina;5437607,3;6348622,58;-60,6676701;-33,003612;Santiago & Av. Arijon, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;OVIDIO LAGOS Y SAN LORENZO,Rosario,Santa Fe,Argentina;5438197,89;6355680,82;-60,6608623;-32,9399529;San Lorenzo & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;IRIONDO Y PASCO,Rosario,Santa Fe,Argentina;5437080,89;6354124,09;-60,6729421;-32,9539479;Pasco & Iriondo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LAPRIDA 800,Rosario,Santa Fe,Argentina;5440706,05;6354871,29;-60,633884;-32,9473373;Laprida 800, S2000CFH Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;3;FRANCIA Y NUESTRA SRA DEL ROSARIO,Rosario,Santa Fe,Argentina;5436660,54;6348909,16;-60,6776914;-33,0009631;Av. Ntra Sra del Rosario & Av. Francia, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BAIGORRIA 1751,Rosario,Santa Fe,Argentina;5433973,101;6360759,997;-60,7056255;-32,8939474;Baigorria 1751, S2005DGK Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MITRE Y PELLEGRINI,Rosario,Santa Fe,Argentina;5439947,53;6353799,95;-60,642228;-32,9569516;Mitre & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;EVA PERON 7800,Rosario,Santa Fe,Argentina;5431735,2;6356730,61;-60,7297671;-32,9299323;Av. Eva Perón 7800, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARIJON Y JUAN PABLO II,Rosario,Santa Fe,Argentina;5436232.39;6348566.55;-60,6826454;-33,0038839;Av. Arijon & Juan Pablo II, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;RODRIGUEZ Y SEGUI,Rosario,Santa Fe,Argentina;5437653,42;6351749,74;-60,6669824;-32,9754832;Rodríguez & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;COCHABAMBA Y OROÑO,Rosario,Santa Fe,Argentina;5438635,51;6353938,16;-60,656202;-32,9556589;Cochabamba & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;25 DE MAYO Y CORDOBA,Rosario,Santa Fe,Argentina;;;-60,7828367;-32,853284;Córdoba & 25 de Mayo, S2143 Ibarlucea, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BUENOS AIRES Y VIAMONTE,Rosario,Santa Fe,Argentina;5440406,01;6352776,91;-60,6374382;-32,9663071;Viamonte & Buenos Aires, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;BENEGAS Y TARRAGONA,Rosario,Santa Fe,Argentina;5431313,13;6356631,17;-60,7344236;-32,9310299;Benegas & Tarragona, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;JUAN XXIII Y ROUILLON,Rosario,Santa Fe,Argentina;5434470495;6.351.981.225.000.000;-60,7010397;-32,9731068;Juan XXIII & Rouillon, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;DERQUI Y PERU,Rosario,Santa Fe,Argentina;5433461;6355872,58;-60,7114868;-32,9380074;Derqui & Perú, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;25 DE MAYO Y EVA PERON,Rosario,Santa Fe,Argentina;5432339,37;6356628,37;-60,875424;-33,016812;Urquiza & 25 de Mayo, Zavalla, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AVELLANEDA Y COCHABAMBA,Rosario,Santa Fe,Argentina;5436215,19;6354436,02;-60,6820741;-32,9510922;Cochabamba & Bv. Avellaneda, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LAVALLE Y RIOBAMBA,Rosario,Santa Fe,Argentina;5436237,35;6353901,12;-60,6819541;-32,9559382;Lavalle & Riobamba, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;OVIDIO LAGOS 5400,Rosario,Santa Fe,Argentina;5436894,63;6348907;-60,675934;-33,001565;Av. Ovidio Lagos 5400, S2011MYP Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;DORREGO Y RIOJA,Rosario,Santa Fe,Argentina;5439263,1;6355065,32;-60,6494872;-32,9456061;Dorrego & Rioja, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;1 DE MAYO Y RUEDA,Rosario,Santa Fe,Argentina;5440556,61;6352081,87;-60,6358852;-32,9726086;1 de Mayo & Rueda, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALBERT SABIN Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5435560,62;6357933,73;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;HUERTA GRANDE Y JUAN PABLO II,Rosario,Santa Fe,Argentina;5433626.02;6361873.88;-60,7094151;-32,883866;Huerta Grande & Juan Pablo II, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALBERDI BIS Y VELEZ SARSFIELD,Rosario,Santa Fe,Argentina;5436595,1;6357340,11;-60,6819847;-32,9250374;Mar del Plata & Vélez Sársfield, S2013 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARENALES Y JUNIN,Rosario,Santa Fe,Argentina;;;-60,6691713;-32,926863;Junín 501, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;27 DE FEBRERO Y BUENOS AIRES,Rosario,Santa Fe,Argentina;5440353,79;6352522,72;-60,6380286;-32,9685397;Buenos Aires & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;J J PEREZ Y MATHEU,Rosario,Santa Fe,Argentina;5431707,74;6361271,75;-60,7298808;-32,8891823;J. J. Pérez & Matheu, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MENDOZA,Rosario,Santa Fe,Argentina;;;-60,6808747;-32,9441179;Mendoza, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALBERINI Y CALDERON,Rosario,Santa Fe,Argentina;5431562,77;6362187,2;-60,7313658;-32,8809235;Alberini & Calderón, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AGUSTIN ALVAREZ Y RONDEAU,Rosario,Santa Fe,Argentina;5434901,77;6361963,42;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CARLOS GARDEL Y SAN JOSE DE CALASANZ,Rosario,Santa Fe,Argentina;5429704,81;6355542,05;-60,7516469;-32,9406507;Carlos Gardel & Av. San José de Calasanz, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CALLAO Y URQUIZA,Rosario,Santa Fe,Argentina;5438352,82;6355786,16;-60,6591692;-32,9390438;Callao & Urquiza, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CERRITO Y VERA MUJICA,Rosario,Santa Fe,Argentina;5437282,92;6353817,41;-60,6707946;-32,9567166;Cerrito & Vera Mujica, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SARMIENTO Y URIBURU,Rosario,Santa Fe,Argentina;5439306,97;6350056,05;-60,6493752;-32,9908309;Sarmiento & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BIEDMA Y FRANCIA,Rosario,Santa Fe,Argentina;5436963,36;6351626,1;-60,674405;-32,9764597;Cnel. M. Biedma & Av. Francia, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CALLAO Y COULIN,Rosario,Santa Fe,Argentina;5437235,23;6350375,19;-60,6714963;-32,9877549;Coulin & Callao, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RIOBAMBA Y SARMIENTO,Rosario,Santa Fe,Argentina;5439947,09;6353135,92;-60,6423991;-32,9630038;Riobamba & Sarmiento, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MITRE Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5439973,9;6353927,22;-60,6419743;-32,9559122;Mitre & Montevideo, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;27 DE FEBRERO Y LINIERS,Rosario,Santa Fe,Argentina;5434754,1;6353565,74;-60,6978197;-32,9589208;Liniers & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CALLAO Y CURIE,Rosario,Santa Fe,Argentina;5437669,51;6352476,47;-60,6667508;-32,9688461;Curie & Callao, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CENTENARIO Y SADI CARNOT,Rosario,Santa Fe,Argentina;5439381,63;6348562,04;-60,6486675;-33,0042344;Sadi Carnot & Centenario, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;OCAMPO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5440006,68;6352725,96;-60,6418042;-32,9667032;Ocampo & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;J B JUSTO 6900,Rosario,Santa Fe,Argentina;5433041,32;6358435,15;-60,7157654;-32,9150099;Juan B. Justo 6900, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BUENOS AIRES Y LAMADRID,Rosario,Santa Fe,Argentina;5439703,68;6349367,36;-60,6451567;-32,9970009;Buenos Aires & Lamadrid, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GORRITI Y SOLIS,Rosario,Santa Fe,Argentina;5434148,46;6357416,92;-60,7040343;-32,924091;Solís Bis & Gorriti, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;1 DE MAYO Y ITUZAINGO,Rosario,Santa Fe,Argentina;5440791,09;6353228,37;-60,6333945;-32,9621988;Ituzaingo & 1 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PELLEGRINI 1800,Rosario,Santa Fe,Argentina;5439150,33;6353940,02;-60,6505929;-32,9554823;Av. Pellegrini 1800, S2000BUS Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SEGUI 2800,Rosario,Santa Fe,Argentina;5437396,8;6351777,64;-60,6694681;-32,9749076;Bv. Seguí 2800, S2003CIT Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LAPRIDA Y SANCHEZ DE BUSTAMANTE,Rosario,Santa Fe,Argentina;5439534,22;6348822,01;-60,6470255;-33,001906;Sánchez de Bustamante & Laprida, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAMILO ALDAO Y ESPAÑOL,Rosario,Santa Fe,Argentina;5434946,54;6354822,76;-60,6956901;-32,9475389;Español & Camilo Aldao, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;3;JUNIN Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433295,33;6357022,8;-60,7131414;-32,9275887;Av. Provincias Unidas Bis & Junín, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SEGUI Y SUIPACHA,Rosario,Santa Fe,Argentina;5437143,65;6351854,92;-60,6724083;-32,9744782;Suipacha & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORDOBA Y MITRE,Rosario,Santa Fe,Argentina;5440194,59;6355007,44;-60,6394711;-32,9461637;Mitre & Córdoba, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ENTRE RIOS 500,Rosario,Santa Fe,Argentina;5440124,35;6355408,92;-60,6400867;-32,9425002;Entre Ríos 500, S2000CRJ Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DARRAGUEIRA Y SUPERI,Rosario,Santa Fe,Argentina;5434973,21;6360672,03;-60,694955;-32,8947884;Darregueira & Superí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GARZON 600 BIS,Rosario,Santa Fe,Argentina;5433936,64;6357702,22;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARIANO MORENO Y RIOJA,Rosario,Santa Fe,Argentina;5439135,97;6355091,62;-60,6508514;-32,9453821;Rioja & Mariano Moreno, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CERRITO Y LAVALLE,Rosario,Santa Fe,Argentina;5436263,58;6354027,77;-60,6816631;-32,9548164;Cerrito & Lavalle, S2003 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BOLIVIA Y JOSE INGENIEROS,Rosario,Santa Fe,Argentina;5433057,02;6358179,5;-60,7156868;-32,9171829;Bolivia Bis & José Ingenieros, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BUENOS AIRES Y SEGUI,Rosario,Santa Fe,Argentina;5440091,35;6351248,73;-60,6409172;-32,9801469;Buenos Aires & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GABOTO Y OROÑO,Rosario,Santa Fe,Argentina;5438292,15;6352280,8;-60,6601734;-32,9706244;Gaboto & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;1 DE MAYO Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5440894,17;6353737,46;-60,6321609;-32,9576533;1 de Mayo & Montevideo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SARMIENTO Y MENDOZA,Rosario,Santa Fe,Argentina;5440207,94;6354418,19;-60,6394425;-32,9514777;Sarmiento & Mendoza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAFFERATA Y SAN LORENZO,Rosario,Santa Fe,Argentina;5437306,99;6355864,66;-60,6703833;-32,9382766;San Lorenzo & Cafferata, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y RONDEAU,Rosario,Santa Fe,Argentina;5434564,02;6363175,83;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ARIJON Y OROÑO,Rosario,Santa Fe,Argentina;5437858,29;6348633,53;-60,6651576;-33,0034992;Av. Arijon & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;REPUBLICA DE IRAK Y UNION,Rosario,Santa Fe,Argentina;5434063,89;6361551,75;-60,7045351;-32,8868786;Unión 2900, S2005FBF Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y LAVALLE,Rosario,Santa Fe,Argentina;5436472,14;6355037,04;-60,6794231;-32,9456999;Lavalle & 3 de Febrero, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;24 DE SEPTIEMBRE Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5437399,18;6351669,39;-60,6696293;-32,9761436;24 de Septiembre & Av. Ovidio Lagos, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ITUZAINGO Y LAPRIDA,Rosario,Santa Fe,Argentina;5440365,21;6353315,92;-60,637843;-32,9614528;Ituzaingo & Laprida, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;27 DE FEBRERO Y ALEM,Rosario,Santa Fe,Argentina;5440764,24;6352438,45;-60,6336333;-32,9694462;Leandro N. Alem & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SARMIENTO Y SAVIO,Rosario,Santa Fe,Argentina;5439329,86;6349422,16;-60,6491644;-32,9964949;Savio & Sarmiento, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CALLAO Y TUCUMAN,Rosario,Santa Fe,Argentina;5438379,46;6355915,75;-60,6588716;-32,9378651;Callao & Tucumán, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;FRONDIZI A 799,Rosario,Santa Fe,Argentina;5.436.512.576.555.860;6.359.353.459.824.860;-60,6774609;-32,9102175;Av. Pres. Arturo Frondizi, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DIAZ VELEZ Y SUIZA,Rosario,Santa Fe,Argentina;;;-60,6079331;-33,0112038;Pje. Díaz Vélez, S2124 Villa Gdor. Galvez, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PUEYRREDON Y RIOJA,Rosario,Santa Fe,Argentina;5438501,79;6355221,24;-60,6576949;-32,944134;Pueyrredón & Rioja, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PTE PERON,Rosario,Santa Fe,Argentina;;;-60,7053094;-32,9649409;Av. Pres. Perón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;14114 Y PECAN,Rosario,Santa Fe,Argentina;5431535,02;6358958,1;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALVEAR Y OLEGARIO ANDRADE,Rosario,Santa Fe,Argentina;5438978,16;6356321,17;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PROVINCIAS UNIDAS Y RIVAROLA MANO HACIA EL SUR,Rosario,Santa Fe,Argentina;5433475,02;6352791,35;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LIMA Y RIOJA,Rosario,Santa Fe,Argentina;5436081,9;6355721,63;-60,6835082;-32,9394998;Lima & Rioja, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;FELIPE MORE Y JUNIN,Rosario,Santa Fe,Argentina;5435095,77;6357093,09;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ITALIA Y MENDOZA,Rosario,Santa Fe,Argentina;5439299,26;6354599,34;-60,6491416;-32,9497919;Italia & Mendoza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y RIOJA,Rosario,Santa Fe,Argentina;5439907,41;6354932,11;-60,6426235;-32,9467996;Rioja & Corrientes, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;27 DE FEBRERO Y ALEM,Rosario,Santa Fe,Argentina;5440764,24;6352438,45;-60,6336333;-32,9694462;Leandro N. Alem & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESPINILLO Y SEGUI,Rosario,Santa Fe,Argentina;5434642,77;6352254,52;-60,6991083;-32,9707615;Espinillo & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAREZ CELMAN Y LA REPUBLICA,Rosario,Santa Fe,Argentina;5429533,37;6357877,7;-60,7533858;-32,9197076;Juárez Celman Bis & La República, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;RONDEAU Y WASHINGTON,Rosario,Santa Fe,Argentina;5435410,58;6359963,72;-60,6903906;-32,9012107;Washington & Bv. Rondeau, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;FRAGA Y VELEZ SARSFIELD,Rosario,Santa Fe,Argentina;5433511,9;6357204,26;-60,7108698;-32,9259948;Fraga Bis & Vélez Sársfield, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;CAMILO ALDAO 3300,Rosario,Santa Fe,Argentina;5435015,65;6352649,45;-60,6949456;-32,9669978;Camilo Aldao 3300, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;1 DE MAYO Y CORDOBA,Rosario,Santa Fe,Argentina;5441101,58;6354798,32;-60,6298766;-32,9481094;1 de Mayo & Córdoba, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y DORREGO,Rosario,Santa Fe,Argentina;5439143,48;6354487,45;-60,6508284;-32,9507917;Dorrego & 3 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y EVA PERON,Rosario,Santa Fe,Argentina;5432339,37;6356628,37;-60,875424;-33,016812;Urquiza & 25 de Mayo, Zavalla, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GENOVA 7600,Rosario,Santa Fe,Argentina;5432110,01;6358277,28;-60,7255723;-32,9163444;Av. Genova 7600, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SARMIENTO Y SEGUI,Rosario,Santa Fe,Argentina;5439579,82;6351353,9;-60,6464278;-32,9789904;Sarmiento & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;NEUQUEN Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433380,27;6355139,26;-60,7124688;-32,9445893;Neuquén & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;MAIPU Y SEGUI,Rosario,Santa Fe,Argentina;5439836,62;6351301,11;-60,6436276;-32,9796502;Maipú & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y PELLEGRINI,Rosario,Santa Fe,Argentina;5439684,94;6353853,84;-60,6450717;-32,9565759;Corrientes & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LINIERS Y PELLEGRINI,Rosario,Santa Fe,Argentina;5434708,36;6354745,94;-60,6982684;-32,9482542;Liniers & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DORREGO Y E ZEBALLOS,Rosario,Santa Fe,Argentina;5439093,05;6354240,41;-60,6513769;-32,9530251;Zeballos & Dorrego, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BUENOS AIRES Y SAN LUIS,Rosario,Santa Fe,Argentina;5440776,85;6354585,41;-60,6333908;-32,9500002;San Luis & Buenos Aires, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MENDOZA 4600,Rosario,Santa Fe,Argentina;5435732,52;6355347,21;-60,6872953;-32,9429401;Mendoza 4600, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAN JOSE PASO 5600,Rosario,Santa Fe,Argentina;5434445,07;6357903,24;-60,7008546;-32,9198624;Juan José Paso 5600, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CASTELLANOS Y DEAN FUNES,Rosario,Santa Fe,Argentina;5436202,62;6352448,03;-60,6824262;-32,9690115;Castellanos & Deán Funes, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y JORGE NEWERY,Rosario,Santa Fe,Argentina;5432107,5;6359164,94;-60,6653437;-32,9624955;Av. Ovidio Lagos 2501, S2000HYI Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MAIPU 3540,Rosario,Santa Fe,Argentina;5439837,73;6351381,45;-60,6435243;-32,9788537;Maipú 3540, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LIMA Y PTE PERON,Rosario,Santa Fe,Argentina;5435655,22;6353652,59;-60,6882148;-32,9580663;Lima & Av. Pres. Perón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;CENTENO Y FRANCIA,Rosario,Santa Fe,Argentina;5436884,81;6351244,6;-60,6751503;-32,9799274;Centeno & Av. Francia, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;RODRIGUEZ Y SAN LORENZO,Rosario,Santa Fe,Argentina;5438452,33;6355628,24;-60,6581468;-32,9404476;Rodríguez & San Lorenzo, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BERMUDEZ Y REGIMIENTO 11,Rosario,Santa Fe,Argentina;5439934,11;6349189;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y 27 DE FEBRERO,Rosario,Santa Fe,Argentina;5432600,986;6353467,857;-60,6211404;-32,9699903;Bv. 27 de Febrero & Av. Circunvalación 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALVEAR Y SAN JUAN,Rosario,Santa Fe,Argentina;5438696,35;6354881,98;-60,655647;-32,947215;Alvear & San Juan, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;OLAVARRIA,Rosario,Santa Fe,Argentina;;;-60,7046339;-32,9146804;Olavarría, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LARREA Y LEJARZA,Rosario,Santa Fe,Argentina;5434908,03;6352714,98;-60,696244;-32,9665387;Lejarza & Larrea, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALBERT SABIN Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5435560,62;6357933,73;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y GRAL MOSCONI,Rosario,Santa Fe,Argentina;5435634,5;6350829,71;-60,6887804;-32,9836551;Mosconi & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;BERMUDEZ Y HILARION DE LA QUINTANA,Rosario,Santa Fe,Argentina;5439942,49;6348953,27;-60,6426279;-33,0007422;Av Bermúdez & Hilarión de la Quintana, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GARAY,Rosario,Santa Fe,Argentina;;;-60,668841;-32,9702614;Garay, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y URIBURU,Rosario,Santa Fe,Argentina;5438900,46;6350038,36;-60,6537407;-32,9908367;Corrientes & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARIANO MORENO Y SAAVEDRA,Rosario,Santa Fe,Argentina;5438442,88;6351720,07;-60,6585042;-32,9757094;Saavedra & Mariano Moreno, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PROVINCIAS UNIDAS Y SORRENTO,Rosario,Santa Fe,Argentina;5433193,25;6359199,13;-60,7138682;-32,9080236;Av. Provincias Unidas & Av. Sorrento, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GARIBALDI Y LAPRIDA,Rosario,Santa Fe,Argentina;5439788,46;6350513,54;-60,6441792;-32,9866519;Garibaldi & Laprida, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAFFERATA Y SAAVEDRA,Rosario,Santa Fe,Argentina;5436532,31;6352113,83;-60,678892;-32,9720471;Saavedra & Cafferata, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GARAY Y VALPARAISO,Rosario,Santa Fe,Argentina;5435592;6352708,75;-60,6889191;-32,9666409;Valparaiso & Garay, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESTEBAN DE LUCA Y PAVON,Rosario,Santa Fe,Argentina;5440708,22;6349650,99;-60,6343921;-32,9944957;E. de Luca & Pavón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LAMADRID,Rosario,Santa Fe,Argentina;;;-60,6642216;-32,9975939;Lamadrid, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GORRITI Y NICARAGUA,Rosario,Santa Fe,Argentina;5432523,21;6357351,09;-60,7214145;-32,9245738;Gorriti & Calle Nicaragua, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAVIA Y FREYRE,Rosario,Santa Fe,Argentina;5433615,27;6360554,21;-60,7095293;-32,8957794;Cavia & Freyre, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CONSTITUCION Y ITUZAINGO,Rosario,Santa Fe,Argentina;5436672,45;6354076,3;-60,6772794;-32,9543473;Ituzaingo & Constitución, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;FRANCIA Y SEGUI,Rosario,Santa Fe,Argentina;5437015,88;6351881,28;-60,6738569;-32,9742199;Av. Francia & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAN JOSE PASO Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433251,09;6357831,13;-60,71359;-32,920869;Avenida Provincias Unidas 665 bis, 2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BUENOS AIRES Y MR ROSS,Rosario,Santa Fe,Argentina;5439880,76;6350228,69;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALVEAR Y SAN LUIS,Rosario,Santa Fe,Argentina;5438722,07;6355006,5;-60,6553457;-32,9460727;Alvear & San Luis, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DEL HUERTO Y ENTRE RIOS,Rosario,Santa Fe,Argentina;5440250,82;6355939,4;-60,6388884;-32,9377896;Av. del Huerto & Entre Ríos, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;9 DE JULIO Y AVELLANEDA,Rosario,Santa Fe,Argentina;5436323,57;6354945,94;-60,6810459;-32,9464952;9 de Julio & Bv. Avellaneda, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y RIO DE JANEIRO,Rosario,Santa Fe,Argentina;5436217,84;6355090,3;-60,6821133;-32,9452076;Río de Janeiro & 3 de Febrero, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PELLEGRINI 1200,Rosario,Santa Fe,Argentina;5439929,66;6353780,08;-60,6426727;-32,9567185;Av. Pellegrini 1200, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LINIERS Y SAN JUAN,Rosario,Santa Fe,Argentina;5434676;6355576,97;-60,6985016;-32,9407043;Liniers & San Juan, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALSINA Y GABOTO,Rosario,Santa Fe,Argentina;5436128,08;6352727,7;-60,6832313;-32,9664993;Alsina & Gaboto, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PARAGUAY Y VIRASORO,Rosario,Santa Fe,Argentina;5439266,76;6352480;-60,6497527;-32,9688884;Virasoro & Paraguay, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y MENDOZA,Rosario,Santa Fe,Argentina;5439816,31;6354495,58;-60,6436304;-32,9507805;Corrientes & Mendoza, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;INTENDENTE LAMAS Y SORRENTO,Rosario,Santa Fe,Argentina;5435091.42;6359289.32;-60,693839;-32,9072228;Intendente Lamas & Av. Sorrento, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CASTAGNINO Y DARRAGUEIRA,Rosario,Santa Fe,Argentina;5435061,37;6360337,38;-60,6940695;-32,8978179;Castagnino & Darregueira, S2005 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;27 DE FEBRERO Y MATIENZO,Rosario,Santa Fe,Argentina;5435115,54;6353578,8;-60,6939776;-32,9587945;Matienzo & Bv. 27 de Febrero, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAN PABLO II Y PTE PERON,Rosario,Santa Fe,Argentina;5433034,54;6352275,77;-60,6741429;-32,956478;Av. Pres. Perón 3461, S2003FYC Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;3;HUERTA GRANDE Y LOS COCOS,Rosario,Santa Fe,Argentina;5433739,92;6361879,36;-60,7081334;-32,883828;Los Cocos & Huerta Grande, S2005 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PASCO 6764,Rosario,Santa Fe,Argentina;5433332,31;6354445,77;-60,7129765;-32,9508801;Pasco 6764, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;AYOLAS Y JUAN MANUEL DE ROSAS,Rosario,Santa Fe,Argentina;5440275,83;6351475,91;-60,6389765;-32,9779997;Juan Manuel de Rosas & Ayolas, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CATAMARCA Y ENTRE RIOS,Rosario,Santa Fe,Argentina;5440194,77;6355674,38;-60,6394985;-32,9401562;Catamarca & Entre Ríos, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA 4600,Rosario,Santa Fe,Argentina;5435650,64;6349856,39;-60,633242;-33,0094365;Avellaneda 4600, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y ALEM,Rosario,Santa Fe,Argentina;5441103,14;6354095,67;-60,6299075;-32,9544497;3 de Febrero & Leandro N. Alem, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ADUANA Y GENOVA,Rosario,Santa Fe,Argentina;5427824;6358094,89;-60,7716104;-32,9176421;Aduana & Av. Genova, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MITRE Y URQUIZA,Rosario,Santa Fe,Argentina;5440274,03;6355390,28;-60,6386826;-32,9427965;Mitre & Urquiza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GRAL SAVIO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439445,24;6349427,07;-60,6478868;-32,9964582;Savio & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;NUESTRA SRA DEL ROSARIO Y MORENO,Rosario,Santa Fe,Argentina;5438128,41;6348970,39;-60,653608;-32,9431529;Bv. Oroño 770, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESPAÑA Y SEGUI,Rosario,Santa Fe,Argentina;5438797,6;6351514,67;-60,6547291;-32,9776681;España & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MATIENZO Y SAN LORENZO,Rosario,Santa Fe,Argentina;5435008,32;6356320,04;-60,694947;-32,9340265;San Lorenzo & Matienzo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;9 DE JULIO Y SAN NICOLAS,Rosario,Santa Fe,Argentina;5436957,71;6354814,26;-60,6742618;-32,9477385;9 de Julio & San Nicolás, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LAPRIDA Y SEGUI,Rosario,Santa Fe,Argentina;5439946,28;6351278,63;-60,6424283;-32,9797133;Laprida & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SUIPACHA Y URQUIZA,Rosario,Santa Fe,Argentina;5437970,45;6355865,03;-60,6632972;-32,9383062;Suipacha & Urquiza, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;REP DEL SALVADOR Y RUEDA,Rosario,Santa Fe,Argentina;5433343,39;6353115,65;-60,71296;-32,9631284;Republic del Salvador & Rueda, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARIANO MORENO Y URQUIZA,Rosario,Santa Fe,Argentina;5439240,83;6355603,89;-60,6497137;-32,9407359;Mariano Moreno & Urquiza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y LA VIA,Rosario,Santa Fe,Argentina;5436732,97;6356834,83;-60,6866253;-32,9688809;Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;27 DE FEBRERO Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5437678,63;6353069,53;-60,6666947;-32,9635447;Av. Ovidio Lagos & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PELLEGRINI Y VERA MUJICA,Rosario,Santa Fe,Argentina;5437388,39;6354326,66;-60,6696826;-32,9520897;Vera Mujica & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;2106 Y BATTLE ORDOÑEZ,Rosario,Santa Fe,Argentina;5435765,42;6347894,45;-60,6873911;-33,0100402;Calle 2106 & Av. Battle Y Ordóñez, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;COULIN Y FRANCIA,Rosario,Santa Fe,Argentina;5436726,95;6350479,87;-60,6770363;-32,9867775;Coulin & Av. Francia, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BALCARCE Y SALTA,Rosario,Santa Fe,Argentina;5439194,93;6356019,63;-60,650194;-32,9369887;Balcarce & Salta, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SANTIAGO,Rosario,Santa Fe,Argentina;;;-60,656214;-32,9437905;Santiago, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439056,55;6347208,15;-60,6520208;-33,0157223;Av. San Martín & 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LAPRIDA Y SARMIENTO,Rosario,Santa Fe,Argentina;;;-60,8844966;-33,0211415;Sarmiento & Laprida, Zavalla, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JOSE MERROSO Y JUAN B JUSTO,Rosario,Santa Fe,Argentina;;;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESPAÑA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5439296,28;6353933,58;-60,6492069;-32,9557338;España & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;OVIDIO LAGOS Y URIBURU,Rosario,Santa Fe,Argentina;5437062,95;6349957,47;-60,6733648;-32,9915803;Av. Ovidio Lagos & Av. Uriburu, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y URIBURU,Rosario,Santa Fe,Argentina;5434425,19;6349866,32;-60,6226047;-32,9889576;Av. Uriburu & Av. Circunvalación 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SIN DATOS,Rosario,Santa Fe,Argentina;;;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BOUCHARD Y GAZCON,Rosario,Santa Fe,Argentina;5431923,45;6361156,17;-60,7275838;-32,890287;Gazcon & Bv. Bouchard, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y PELLEGRINI,Rosario,Santa Fe,Argentina;54.324.812.418.575;63.546.621.871.275;-60,6557083;-33,0323029;Av. Pellegrini & 25 de Mayo, Villa Gdor. Galvez, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y RIOJA,Rosario,Santa Fe,Argentina;5439907,41;6354932,11;-60,6426235;-32,9467996;Rioja & Corrientes, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BATTLE ORDOÑEZ Y OROÑO,Rosario,Santa Fe,Argentina;5437889,55;6347976,22;-60,6627864;-33,0099343;Av Batlle y Ordoñez y Bv Oroño, City Center, S2000DSI Rosario, Argentina
+2016;Julio;12:00 a 17:59;1;DEAN FUNES Y ENTRE RIOS,Rosario,Santa Fe,Argentina;5439395,65;6351789,4;-60,6482969;-32,9751269;Deán Funes & Entre Ríos, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;PTE PERON Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433484,76;6352547,61;-60,7114245;-32,9680483;Av. Provincias Unidas & Av. Pres. Perón, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y OCAMPO,Rosario,Santa Fe,Argentina;5439474,8;6352835,67;-60,647378;-32,9657063;Ocampo & Corrientes, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESPAÑA 1300,Rosario,Santa Fe,Argentina;5439381,46;6354426,51;-60,6481172;-32,9512841;España 1300, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y SERVANDO BAYO,Rosario,Santa Fe,Argentina;5435835,25;6355168,94;-60,6861645;-32,9444712;Servando Bayo & 3 de Febrero, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CONSTITUCION Y GARAY,Rosario,Santa Fe,Argentina;5436356,01;6352548,3;-60,6807645;-32,9681109;Constitución & Garay, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CALLAO Y SANTA FE,Rosario,Santa Fe,Argentina;5438304,5;6355551,16;-60,6597147;-32,9411571;Callao & Sta Fe, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;ENTRE RIOS Y SEGUI,Rosario,Santa Fe,Argentina;5439317,54;6351407,85;-60,6491924;-32,9786761;Entre Ríos & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5436946,73;6357992,77;-60,6740043;-32,9190407;Juan José Paso & Bv. Avellaneda Bis, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SAAVEDRA Y TTE AGNETA,Rosario,Santa Fe,Argentina;5434680,7;6352389,98;-60,6987336;-32,9694786;Tte. Agneta & Saavedra, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MINETTI Y TTE AGNETA,Rosario,Santa Fe,Argentina;5434501,09;6356984,86;-60,7002878;-32,9280459;Minetti & Tte. Agneta Bis, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y PTE QUINTANA,Rosario,Santa Fe,Argentina;5435665,31;6351760,32;-60,6881807;-32,9752207;Pres. Quintana & Bv. Avellaneda, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALEM Y DEAN FUNES,Rosario,Santa Fe,Argentina;5440580,99;6351545,71;-60,6356602;-32,9774022;Deán Funes & Leandro N. Alem, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALVAREZ CONDARCO Y LA REPUBLICA,Rosario,Santa Fe,Argentina;5429311,66;6357869,61;-60,7560113;-32,9197803;Álvarez Condarco Bis & La República, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESCALADA,Rosario,Santa Fe,Argentina;;;-60,6887831;-32,9103907;Escalada, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DORREGO Y SAN LORENZO,Rosario,Santa Fe,Argentina;5439341,51;6355446,2;-60,6486401;-32,9421758;Dorrego & San Lorenzo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAFFERATA Y VIAMONTE,Rosario,Santa Fe,Argentina;5436822,25;6353513,9;-60,6757164;-32,9594356;Viamonte & Cafferata, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LUIS CARBALLO 101,Rosario,Santa Fe,Argentina;5437847,89;6357429,03;-60,663659;-32,9243905;Luis Cándido Carballo 101, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GARZON Y RIVERO,Rosario,Santa Fe,Argentina;5434159,27;6351793,43;-60,7042985;-32,9748236;Rivero & Garzón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;RIOJA Y SUIPACHA,Rosario,Santa Fe,Argentina;5437864,55;6355352,6;-60,6645464;-32,9429068;Suipacha & Rioja, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;G COLOMBRES Y RIVAROLA,Rosario,Santa Fe,Argentina;5432243;6352735,91;-60,7247854;-32,9662032;Dr. G. Colombres & Av. Rivarola, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CASIANO CASAS Y COMERCIO,Rosario,Santa Fe,Argentina;5434722,13;6359456,74;-60,697781;-32,9057739;Comercio & Av. Casiano Casas, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y ESPAÑA,Rosario,Santa Fe,Argentina;5438628,72;6347253,34;-60,7149672;-32,8412316;España & 25 de Mayo, Granadero Baigorria, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALSINA 2800,Rosario,Santa Fe,Argentina;5436191,26;6353106,74;-60,682341;-32,9630783;Alsina 2800, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MITRE Y SAN JUAN,Rosario,Santa Fe,Argentina;5440109,87;6354592,09;-60,6404728;-32,9499041;San Juan & Mitre, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;NICARAGUA Y SAN LORENZO,Rosario,Santa Fe,Argentina;5432570,04;6356224,52;-60,7210059;-32,934798;Calle Nicaragua & San Lorenzo, S2008 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DERQUI Y GUATEMALA,Rosario,Santa Fe,Argentina;5432910,82;6355850,7;-60,7173891;-32,9381959;Derqui & Guatemala, S2008 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GORRITI 6300,Rosario,Santa Fe,Argentina;5433698,94;6357409,74;-60,7087327;-32,9242698;Gorriti 6300, S2007BQZ Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALCORTA Y DR RIVA,Rosario,Santa Fe,Argentina;5437483,76;6351253,69;-60,6687961;-32,9798487;Alcorta & Dr. Riva, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;TENIENTE Y VIAMONTE,Rosario,Santa Fe,Argentina;5434624,15;6353820,73;-60,6402597;-32,965791;Viamonte, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PARAGUAY Y SAN LORENZO,Rosario,Santa Fe,Argentina;5439856,32;6355342,06;-60,6431305;-32,9431392;Paraguay & San Lorenzo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BUENOS AIRES Y NUESTRA SRA DEL ROSARIO,Rosario,Santa Fe,Argentina;5439716,73;6349061,95;-60,6450756;-32,9997462;Av. Ntra Sra del Rosario & Buenos Aires, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BATTLE ORDOÑEZ Y PARAGUAY,Rosario,Santa Fe,Argentina;5438845,15;6348028,15;-60,6544402;-33,0090982;Paraguay & Av. Battle Y Ordóñez, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALVAREZ CONDARCO Y SANTA COLOMA,Rosario,Santa Fe,Argentina;5429271,01;6359470,06;-60,7560557;-32,9053145;Av. Sta Coloma & Álvarez Condarco Bis, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PROVINCIAS UNIDAS Y ZUVIRIA,Rosario,Santa Fe,Argentina;5433338,88;6355987,55;-60,7128337;-32,9369512;Zuviría & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAFFERATA Y SALTA,Rosario,Santa Fe,Argentina;5437414,67;6356386,46;-60,6692344;-32,9335907;Salta & Cafferata, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5432314,79;6357797,78;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LA PAZ Y PEDRO LINO FUNES,Rosario,Santa Fe,Argentina;5434494,25;6353945,99;-60,700579;-32,9554162;La Paz & Pedro Lino Funes, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;OVIDIO LAGOS Y URUGUAY,Rosario,Santa Fe,Argentina;5437475,65;6352052;-60,6687586;-32,9726349;Uruguay & Av. Ovidio Lagos, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CENTENO Y FRANCIA,Rosario,Santa Fe,Argentina;5436884,81;6351244,6;-60,6751503;-32,9799274;Centeno & Av. Francia, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BELGRANO Y DE LA LIBERTAD,Rosario,Santa Fe,Argentina;5441234,65;6354594,88;-60,8976827;-33,1723728;Av. Libertad & Belgrano, Muñoz, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARIANO MORENO Y MENDOZA,Rosario,Santa Fe,Argentina;5439045,62;6354650,22;-60,6518618;-32,9493614;Mariano Moreno & Mendoza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ARIJON Y PTE ROCA,Rosario,Santa Fe,Argentina;5438671,54;6348667,82;-60,6563763;-33,0032539;Pte Roca & Av. Arijon, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SUPERI 1300,Rosario,Santa Fe,Argentina;5434563,36;6360579,7;-60,6992284;-32,8957086;Superí 1300, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALVAREZ CONDARCO Y EVA PERON,Rosario,Santa Fe,Argentina;5429210,38;6357175,54;-60,7568367;-32,9259651;Álvarez Condarco Bis & Av. Eva Perón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;CAMILO ALDAO Y LEGARZA,Rosario,Santa Fe,Argentina;5435028,15;6352718,82;-60,6949643;-32,9664969;Lejarza & Camilo Aldao, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BALCARCE Y JUJUY,Rosario,Santa Fe,Argentina;5439221,47;6356151,72;-60,649887;-32,9358469;Balcarce & Jujuy, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PELLEGRINI Y SOLIS,Rosario,Santa Fe,Argentina;5434264,44;6354728,76;-60,7030168;-32,9483075;Solís & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAMILO ALDAO Y GARAY,Rosario,Santa Fe,Argentina;5435025,38;6352792,23;-60,6949612;-32,9658254;Garay & Camilo Aldao, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;NUESTRA SRA DEL ROSARIO Y SERRANO,Rosario,Santa Fe,Argentina;5440945,72;6349113,52;-60,6318932;-32,9993486;Serrano & Av. Ntra Sra del Rosario, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PELLEGRINI Y PERU,Rosario,Santa Fe,Argentina;5433512,26;6354699,55;-60,7110193;-32,9486307;Perú & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BALCARCE 60,Rosario,Santa Fe,Argentina;5439217,46;6356205,28;-60,6497735;-32,9353911;Balcarce 60, S2000DNB Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;RIVAROLA 7600,Rosario,Santa Fe,Argentina;5432452,64;6352761,52;-60,7225324;-32,9661504;Av. Rivarola 7600, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BALCARCE Y URUGUAY,Rosario,Santa Fe,Argentina;5438341,24;6351873,43;-60,6595681;-32,9743155;Balcarce & Uruguay, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CONSTITUCION Y SAN LORENZO,Rosario,Santa Fe,Argentina;5437052,26;6355917,19;-60,6730991;-32,9377633;Constitución & San Lorenzo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MAIPU Y PELLEGRINI,Rosario,Santa Fe,Argentina;5440334,32;6353720,5;-60,6381138;-32,9577177;Maipú & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PALESTINA 1600,Rosario,Santa Fe,Argentina;5434047,83;6361676,04;-60,7047005;-32,8857923;Palestina 1600, S2005BVH Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GALVEZ Y MARIANO MORENO,Rosario,Santa Fe,Argentina;5438652,87;6352739,1;-60,6563106;-32,9665113;Gálvez & Mariano Moreno, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BAIGORRIA Y RONDEAU,Rosario,Santa Fe,Argentina;5435127,09;6361033,77;-60,6933408;-32,8915391;Bv. Rondeau & Baigorria, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BRASIL Y COCHABAMBA,Rosario,Santa Fe,Argentina;5432755,7;6354538;-60,7191603;-32,95001;Brasil & Cochabamba, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GENOVA Y WILDE,Rosario,Santa Fe,Argentina;5430836,99;6358214,1;-60,7394179;-32,9167215;Wilde & Av. Genova, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AMENABAR Y LAPRIDA,Rosario,Santa Fe,Argentina;5440103,11;6352042,44;-60,6406873;-32,9729082;Laprida & Amenabar, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SAN MARTIN 2422,Rosario,Santa Fe,Argentina;5440012,72;6352830,05;-60,641655;-32,9658633;Av. San Martín 2422, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;OROÑO Y URIBURU,Rosario,Santa Fe,Argentina;5437809,62;6349972,48;-60,659988;-32,969051;Bv. Oroño 2970, S2001SPO Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BELGRANO A Y NTRA SRA DEL ROSARIO,Rosario,Santa Fe,Argentina;5442271,99;6349164,33;-60,6180463;-32,9989295;Belgrano & Av. Ntra Sra del Rosario, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ENTRE RIOS Y GABOTO,Rosario,Santa Fe,Argentina;5439448,55;6352044,3;-60,6477298;-32,9728449;Gaboto & Entre Ríos, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALEM Y RIOJA,Rosario,Santa Fe,Argentina;5441211,99;6354631,68;-60,5688092;-33,0753268;Alem & La Rioja, Pueblo Esther, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;AVELLANEDA Y LUIS CARBALLO,Rosario,Santa Fe,Argentina;5436880,35;6357668,52;-60,6747595;-32,9220231;Luis Cándido Carballo & Bv. Avellaneda Bis, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;1 DE MAYO Y COCHABAMBA,Rosario,Santa Fe,Argentina;5440842,92;6353482,89;-60,6327095;-32,959942;Cochabamba & 1 de Mayo, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;9 DE JULIO Y ITALIA,Rosario,Santa Fe,Argentina;5439246,75;6354343,87;-60,6497279;-32,9521196;9 de Julio & Italia, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y GALVEZ,Rosario,Santa Fe,Argentina;5439422,36;6352580,58;-60,6479731;-32,968002;Gálvez & Corrientes, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y DORREGO,Rosario,Santa Fe,Argentina;5439143,48;6354487,45;-60,6508284;-32,9507917;Dorrego & 3 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;CAMINO DE LOS GRANADERO Y PALESTIN,Rosario,Santa Fe,Argentina;5433548,65;6361639,07;-60,710036;-32,8859664;Palestina & Camino de los Granaderos, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LINIERS Y SAN JUAN,Rosario,Santa Fe,Argentina;5434676;6355576,97;-60,6985016;-32,9407043;Liniers & San Juan, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;AVELLANEDA Y RIOJA,Rosario,Santa Fe,Argentina;5436463,84;6355642,38;-60,6793811;-32,9402461;Rioja & Bv. Avellaneda, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y LA PAZ,Rosario,Santa Fe,Argentina;5436083,99;6353799,87;-60,6835575;-32,9567922;La Paz & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;9 DE JULIO Y BUENOS AIRES,Rosario,Santa Fe,Argentina;5440664,57;6354044,25;-60,6346499;-32,9549042;9 de Julio & Buenos Aires, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PTE PERON Y SERVANDO BAYO,Rosario,Santa Fe,Argentina;5435518,2;6353632,88;-60,6896525;-32,9582072;Servando Bayo & Av. Pres. Perón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PROVINCIAS UNIDAS 3100,Rosario,Santa Fe,Argentina;5433494,03;6352856,2;-60,7116468;-32,964956;Av. Provincias Unidas 3100, S2009EBZ Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAN JOSE PASO Y PEDRO LINO FUNES,Rosario,Santa Fe,Argentina;5434336,63;6357883,98;-60,7020101;-32,9198902;Pedro Lino Funes Bis & Juan José Paso, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA ,Rosario,Santa Fe,Argentina;;;-60,6336095;-33,0101999;Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;27 DE FEBRERO Y CULLEN,Rosario,Santa Fe,Argentina;5433772,06;6353513,55;-60,7083346;-32,959345;Cullen & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;FRANCIA Y HILARION DE LA QUINTANA,Rosario,Santa Fe,Argentina;5436664,17;6348821,43;-60,677657;-33,0017478;Hilarión de la Quintana & Av. Francia, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MAIZTEGUI Y PINTOR MUSTO,Rosario,Santa Fe,Argentina;5434661,7;6363081;-60,6918821;-32,8727671;Maiztegui & Pintor Musto, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y JUNIN,Rosario,Santa Fe,Argentina;5436775,37;6357156,72;-60,6760518;-32,9265929;Junín & Bv. Avellaneda Bis, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BELGRANO Y RIOJA,Rosario,Santa Fe,Argentina;5441211,99;6354631,68;-60,6889419;-32,9385134;Rioja, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y URIBURU,Rosario,Santa Fe,Argentina;5434425,19;6349866,32;-60,6226047;-32,9889576;Av. Uriburu & Av. Circunvalación 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GARZON Y GHANDI,Rosario,Santa Fe,Argentina;5433938,48;6357286,57;-60,7062901;-32,9252857;Gandhi & Garzón, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ANCHORIS 1500,Rosario,Santa Fe,Argentina;5434632,96;6360026,39;-60,6988247;-32,900743;Anchoris 1500, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;J J PASO Y VENEZUELA,Rosario,Santa Fe,Argentina;5432148,14;6357792,19;-60,7254057;-32,9205881;Venezuela & Juan José Paso, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BECQUER Y CEPEDA,Rosario,Santa Fe,Argentina;5441546,95;6350514,08;-60,6253582;-32,986764;Becquer & Cepeda, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARCOS PAZ 5600,Rosario,Santa Fe,Argentina;5434540,4;6355810,86;-60,6998814;-32,9387441;Marcos Paz 5600, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;27 DE FEBRERO Y CHACABUCO,Rosario,Santa Fe,Argentina;5441279,2;6352332,74;-60,6281056;-32,9704031;Chacabuco & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALVAREZ THOMAS Y CASTAGNINO,Rosario,Santa Fe,Argentina;5435729,28;6360514,59;-60,6869142;-32,8962414;Castagnino & Álvarez Thomas, S2005 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;EVA PERON Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433317,92;6356424,01;-60,7129361;-32,9330412;Av. Provincias Unidas & Av. Eva Perón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;9 DE JULIO Y ALVEAR,Rosario,Santa Fe,Argentina;5438611,87;6354473,07;-60,6565602;-32,9508735;Alvear & 9 de Julio, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y SIPE SIPE,Rosario,Santa Fe,Argentina;5433969,7;6362842,5;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SALTA 2600,Rosario,Santa Fe,Argentina;5438550,19;6356167,49;-60,6571707;-32,9355985;Salta 2600, S2000JKR Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y URIBURU,Rosario,Santa Fe,Argentina;5434425,19;6349866,32;-60,6226047;-32,9889576;Av. Uriburu & Av. Circunvalación 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;529 Y AYACUCHO,Rosario,Santa Fe,Argentina;5440600,49;6347733,09;-60,635643;-33,0118019;Pje. 529 & Ayacucho, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;RICCHIERI Y SANTA FE,Rosario,Santa Fe,Argentina;5438049;6355603,94;-60,6624606;-32,9406662;Riccheri & Sta Fe, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARIANO MORENO 5800,Rosario,Santa Fe,Argentina;5.438.162.071.100.040;6.348.545.427.583.210;-60,6619016;-33,0044238;Mariano Moreno 5800, S2011LSR Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AYACUCHO Y REGIMIENTO 11,Rosario,Santa Fe,Argentina;5440519,7;6349213,95;-60,6364411;-32,9984153;Regimiento 11 & Ayacucho, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MAIPU Y PELLEGRINI,Rosario,Santa Fe,Argentina;5440334,32;6353720,5;-60,6381138;-32,9577177;Maipú & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARADONA JOSE IGNACIO Y LA REPUBLICA,Rosario,Santa Fe,Argentina;5429733.43;6357885.23;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;PELLEGRINI Y RODRIGUEZ,Rosario,Santa Fe,Argentina;5438151,19;6354170,87;-60,6614835;-32,9536544;Rodríguez & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARGIS B Y URIBURU,Rosario,Santa Fe,Argentina;5438120,63;6350004,33;-60,6620667;-32,9912225;Margis & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BOLIVIA Y VELEZ SARSFIELD,Rosario,Santa Fe,Argentina;5433173,45;6357191,23;-60,7145314;-32,9260197;Bolivia Bis & Vélez Sársfield, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;CASTELLANOS Y SAAVEDRA,Rosario,Santa Fe,Argentina;5436149,76;6352192,83;-60,6830078;-32,9713327;Castellanos & Saavedra, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;IRURTIA 7038,Rosario,Santa Fe,Argentina;5433085,37;6352695,99;-60,7157232;-32,9667377;Irurtia 7038, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;503 Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439091;6347363,37;-60,6518538;-33,0149839;Calle 503 & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;J J PASO Y TARRAGONA,Rosario,Santa Fe,Argentina;5431261,46;6357757,12;-60,734801;-32,9208215;Tarragona Bis & Juan José Paso, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;COCHABAMBA Y OROÑO,Rosario,Santa Fe,Argentina;5438635,51;6353938,16;-60,656202;-32,9556589;Cochabamba & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALSINA Y SEGUI,Rosario,Santa Fe,Argentina;5435996,94;6352091,41;-60,6846501;-32,9721463;Alsina & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;OVIDIO LAGOS 6600,Rosario,Santa Fe,Argentina;5436584,85;6347376,43;-60,6784107;-33,0137012;Av. Ovidio Lagos 6600, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAN B JUSTO Y MUÑIZ,Rosario,Santa Fe,Argentina;5435639.16;6358526.92;-60,6880505;-32,9142224;Muñiz & Juan B. Justo, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PTE PERON 8000,Rosario,Santa Fe,Argentina;5431972,36;6351604,89;-60,7269574;-32,9751602;Av. Pres. Perón 8000, S2010ACQ Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PELLEGRINI Y SAN MARTIN,Rosario,Santa Fe,Argentina;5440215,94;6353744,88;-60,6393996;-32,9575979;Av. San Martín & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;ALVAREZ CONDARCO Y LA REPUBLICA,Rosario,Santa Fe,Argentina;5429311,66;6357869,61;-60,7560113;-32,9197803;Álvarez Condarco Bis & La República, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;NUESTRA SRA DEL ROSARIO Y SALVA,Rosario,Santa Fe,Argentina;5440157,06;6349080,3;-60,6403395;-32,9996071;Salva & Av. Ntra Sra del Rosario, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y SARMIENTO,Rosario,Santa Fe,Argentina;5440179,08;6354274,7;-60,6397636;-32,9527953;3 de Febrero & Sarmiento, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PUEYRREDON Y SEGUI,Rosario,Santa Fe,Argentina;5437780,02;6351723,59;-60,6656205;-32,9757279;Pueyrredón & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;AVELLANEDA 4910,Rosario,Santa Fe,Argentina;5435599,92;6349450,41;-60,6887943;-32,9965522;Bv. Avellaneda 4910, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;DORREGO Y LAMADRID,Rosario,Santa Fe,Argentina;5438245,88;6349304,35;-60,6607544;-32,9974777;Dorrego & Lamadrid, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;3;9 DE JULIO Y CONSTITUCION,Rosario,Santa Fe,Argentina;5436830,2;6354840,58;-60,6755443;-32,9474343;Constitución & 9 de Julio, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAFFERATA Y SANTA FE,Rosario,Santa Fe,Argentina;5437285,69;6355761,45;-60,6706368;-32,9391893;Sta Fe & Cafferata, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y MARCOS PAZ,Rosario,Santa Fe,Argentina;5436388,66;6355277,66;-60,6802263;-32,9435015;Marcos Paz & Bv. Avellaneda, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ECHEVERRIA Y LUIS CARBALLO,Rosario,Santa Fe,Argentina;5437120,04;6357679,63;-60,6722884;-32,9218403;E. Echeverría & Luis Cándido Carballo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CERRITO Y ROUILLON,Rosario,Santa Fe,Argentina;5434384,62;6354207,01;-60,7017264;-32,9530872;Cerrito & Rouillon, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MACIEL Y RONDEAU,Rosario,Santa Fe,Argentina;5435486,27;6359676,63;-60,6896158;-32,9038204;Maciel & Bv. Rondeau, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ITALIA Y CORDOBA,Rosario,Santa Fe,Argentina;5439416,1;6355166,88;-60,6478583;-32,9447168;Italia & Córdoba, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CATAMARCA Y ESPAÑA,Rosario,Santa Fe,Argentina;5439676,15;6355785,63;-60,6450418;-32,9391262;Catamarca & España, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ALBERT SABIN Y DON ORIONE,Rosario,Santa Fe,Argentina;5435960,3;6357538,96;-60,6846844;-32,9231151;Beato Don Luis Orione & Av. Sabin, S2013 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BLANDENGUES Y DRAGONES DE ROSARIO,Rosario,Santa Fe,Argentina;5439180,55;6347468,65;-60,6508863;-33,0141046;Drag. Rosario & Blandengues, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BAIGORRIA Y RONDEAU,Rosario,Santa Fe,Argentina;5435127,09;6361033,77;-60,6933408;-32,8915391;Bv. Rondeau & Baigorria, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;DANTE ALIGHIERI 2400,Rosario,Santa Fe,Argentina;5438240,42;6353183,08;-60,7049363;-32,8473786;Dante Alighieri 2400, S2152DXB Granadero Baigorria, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y CANDIDO CARBALLO,Rosario,Santa Fe,Argentina;5436880,35;6357668,52;-60,6747595;-32,9220231;Luis Cándido Carballo & Bv. Avellaneda Bis, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BAIGORRIA Y BOEDO,Rosario,Santa Fe,Argentina;5433905,37;6360772,47;-60,7063794;-32,8938287;Boedo & Baigorria, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OVIDIO LAGOS Y SEGUI,Rosario,Santa Fe,Argentina;5437424,48;6351797,02;-60,669305;-32,9749343;Bv. Seguí & Av. Ovidio Lagos, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CHACABUCO Y RIOBAMBA,Rosario,Santa Fe,Argentina;5441384,6;6352841;-60,6269767;-32,965753;Riobamba & Chacabuco, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LAVALLE Y SEGUI,Rosario,Santa Fe,Argentina;5435870,47;6352117,49;-60,6859914;-32,9719148;Lavalle & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ALEM Y RIOBAMBA,Rosario,Santa Fe,Argentina;5440868,66;6352946,8;-60,6324765;-32,9648159;Riobamba & Leandro N. Alem, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y DERQUI,Rosario,Santa Fe,Argentina;;;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;27 DE FEBRERO Y VERA MUJICA,Rosario,Santa Fe,Argentina;5437151,125;6353181,08;-60,6722493;-32,9624924;Vera Mujica & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OROÑO Y SANCHO PANZA,Rosario,Santa Fe,Argentina;5437834,86;6349157,55;-60,6650456;-32,9987788;Sancho Panza & Bv. Oroño, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AO ROSARIO,Rosario,Santa Fe,Argentina;;;-60,6333338;-32,9466336;Sta Fe 778, S2000ATH Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CORRIENTES Y SAN LUIS,Rosario,Santa Fe,Argentina;5439871,06;6354761,52;-60,643002;-32,9482905;San Luis & Corrientes, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;DE ANGELIS Y LA REPUBLICA,Rosario,Santa Fe,Argentina;5434623.19;6358076;-60,6989059;-32,9182101;De Angelis & La República, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;GABOTO Y OROÑO,Rosario,Santa Fe,Argentina;5438292,15;6352280,8;-60,6601734;-32,9706244;Gaboto & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BATTLE ORDOÑEZ Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439200,95;6348040,37;-60,6837589;-33,0099166;Av. Battle Y Ordóñez, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BOLIVIA Y CERRITO,Rosario,Santa Fe,Argentina;5433305,05;6354165,09;-60,7132611;-32,9534219;Bolivia & Cerrito, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OROÑO Y TUCUMAN,Rosario,Santa Fe,Argentina;5439013,65;6355785,29;-60,6522292;-32,939056;Tucumán & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5432314,79;6357797,78;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ALBERT SABIN Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5435560,62;6357933,73;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FRAGA Y JOSE INGENIEROS,Rosario,Santa Fe,Argentina;5433440,14;6358194,62;-60,71157;-32,9170753;Fraga Bis & José Ingenieros, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA 4351,Rosario,Santa Fe,Argentina;5.435.638.422.942.100;6.351.154.721.870.390;-60,6892046;-32,983511;Bv. Avellaneda 4351, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GENOVA Y CABAL,Rosario,Santa Fe,Argentina;5434260,47;6358347,07;-60,702807;-32,9157389;Cabal & Av. Genova, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CENTENO Y NECOCHEA,Rosario,Santa Fe,Argentina;5440757,46;6350447,9;-60,6338355;-32,9873245;Necochea & Centeno, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SORRENTO 900,Rosario,Santa Fe,Argentina;5435313,87;6359313,33;-60,6912776;-32,9071968;Av. Sorrento 900, S2013SOU Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ESPAÑA 6400,Rosario,Santa Fe,Argentina;5438595,6;6347669,84;-60,6570004;-33,012162;España 6400, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;IRIONDO Y PASCO,Rosario,Santa Fe,Argentina;5437080,89;6354124,09;-60,6729421;-32,9539479;Pasco & Iriondo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MARIANO MORENO Y RIOJA,Rosario,Santa Fe,Argentina;5439135,97;6355091,62;-60,6508514;-32,9453821;Rioja & Mariano Moreno, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;BATTLE ORDOÑEZ Y LEIVA,Rosario,Santa Fe,Argentina;5440411,83;6348082,81;-60,6376534;-33,0086004;Leiva & Av. Battle Y Ordóñez, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;27 DE FEBRERO Y SOLIS,Rosario,Santa Fe,Argentina;5434307,08;6353533,48;-60,702636;-32,9590712;Solís & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JORGE NEWBERY,Rosario,Santa Fe,Argentina;;;-60,7493701;-32,9088824;Av. Jorge Newbery, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BOLIVIA Y JUAN B JUSTO,Rosario,Santa Fe,Argentina;5433047,86;6358420,4;-60,7157654;-32,9150099;Bolivia Bis & Juan B. Justo, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;BUENOS AIRES Y SEGUI,Rosario,Santa Fe,Argentina;5440091,35;6351248,73;-60,6409172;-32,9801469;Buenos Aires & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OROÑO 4300,Rosario,Santa Fe,Argentina;5437999,55;6350735,12;-60,6636324;-32,9845346;Bv. Oroño 4300, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AYOLAS Y GRANDOLI,Rosario,Santa Fe,Argentina;5441321,11;6351260,28;-60,6324347;-32,9791907;Ayolas 141, S2001PMC Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;EUDORO CARRASCO Y PUCCIO,Rosario,Santa Fe,Argentina;5435823,48;6360834,85;-60,68822;-32,877448;Av. Eudoro Carrasco 3875, 2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GRAL SAVIO Y SARMIENTO,Rosario,Santa Fe,Argentina;5439329,86;6349422,16;-60,6491644;-32,9964949;Savio & Sarmiento, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y NUESTRA SRA DEL ROSARIO,Rosario,Santa Fe,Argentina;5435737.29;6348870.85;-60,632557;-32,94742;Buenos Aires 789, S2000CEB Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;RIVAROLA 7700,Rosario,Santa Fe,Argentina;5432346,2;6352756,35;-60,7235651;-32,9661669;Av. Rivarola 7700, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FRENCH Y RUIZ,Rosario,Santa Fe,Argentina;5431823,48;6357649,72;-60,7288681;-32,9218893;Ruiz & French, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PELLEGRINI Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433399,41;6354695,72;-60,7123158;-32,9486565;Av. Provincias Unidas & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BALCARCE Y TUCUMAN,Rosario,Santa Fe,Argentina;5439140,8;6355759,53;-60,6507543;-32,9393235;Balcarce & Tucumán, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO,Rosario,Santa Fe,Argentina;;;-60,6949036;-32,8715034;25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;9 DE JULIO Y SAN NICOLAS,Rosario,Santa Fe,Argentina;5436957,71;6354814,26;-60,6742618;-32,9477385;9 de Julio & San Nicolás, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MENDEZ Y RIVAROLA,Rosario,Santa Fe,Argentina;5433009,92;6352769,59;-60,7165156;-32,965898;Méndez & Av. Rivarola, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MAZZAGLIA Y SAAVEDRA,Rosario,Santa Fe,Argentina;5440183,69;6351361,84;-60,6400136;-32,9790236;Mazzaglia & Saavedra, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;27 DE FEBRERO Y GARZON,Rosario,Santa Fe,Argentina;5434092,48;6353525,48;-60,7049027;-32,9592568;Garzón & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;EVA PERON 6100,Rosario,Santa Fe,Argentina;5433962,27;6356269,83;-60,7059655;-32,9342202;Av. Eva Perón 6100, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BELGRANO Y PELLEGRINI,Rosario,Santa Fe,Argentina;5441934,86;6353392,62;-60,7126263;-32,9485364;Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN B JUSTO Y MUÑIZ,Rosario,Santa Fe,Argentina;5435639.16;6358526.92;-60,6880505;-32,9142224;Muñiz & Juan B. Justo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SUPERI 2100,Rosario,Santa Fe,Argentina;5433514,31;6360451,9;-60,7105128;-32,8968112;Superí 2100, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GARIBALDI Y VERA MUJICA,Rosario,Santa Fe,Argentina;5436731,82;6351142,93;-60,676855;-32,9808038;Garibaldi & Vera Mujica, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAFFERATA Y PTE PERON,Rosario,Santa Fe,Argentina;5436887,83;6353830,52;-60,6749923;-32,9565298;Cafferata & Av. Pres. Perón, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BATTLE ORDOÑEZ Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436705,7;6347934,02;-60,6774123;-33,0097345;Av. Battle Y Ordóñez & Av. Ovidio Lagos, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FOREST Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433374,695;6355257,72;-60,7124211;-32,943527;Forest & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PEREZ BULNES 5900,Rosario,Santa Fe,Argentina;5434222,55;6355426,15;-60,7033043;-32,942225;Pérez Bulnes 5900, S2008CMH Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;J M DE ROSAS Y URIBURU,Rosario,Santa Fe,Argentina;5439993,18;6350086,18;-60,6420129;-32,9904629;Juan Manuel de Rosas & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GALVEZ Y NECOCHEA,Rosario,Santa Fe,Argentina;5441124,61;6352230,86;-60,6297545;-32,9712853;Galvez & Necochea, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y SORRENTO,Rosario,Santa Fe,Argentina;5432252,79;6359162,11;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CASILDA 5420,Rosario,Santa Fe,Argentina;5.434.738.535.497.280;6.356.922.801.582.740;-60,6979895;-32,9286329;Casilda 5420, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ECUADOR Y VOLTA,Rosario,Santa Fe,Argentina;5433222,47;6353572,38;-60,7142135;-32,9587557;Volta & Ecuador, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AMENABAR Y AVELLANEDA,Rosario,Santa Fe,Argentina;5435900,24;6352907,82;-60,6857041;-32,9648313;Amenabar & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BUENOS AIRES Y HILARION DE LA QUINTANA,Rosario,Santa Fe,Argentina;5439721,38;6348944,07;-60,6450116;-33,0008131;Hilarión de la Quintana & Buenos Aires, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;COCHABAMBA Y MARIANO MORENO,Rosario,Santa Fe,Argentina;5438888,8;6353884,56;-60,653595;-32,9562226;Cochabamba & Mariano Moreno, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAFFERATA Y SEGUI,Rosario,Santa Fe,Argentina;5436506,48;6351986,33;-60,6791884;-32,9731547;Cafferata & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUNIN Y MONTEAGUDO,Rosario,Santa Fe,Argentina;5437571,52;6357175,04;-60,6674456;-32,9263885;Monteagudo & Junín, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;1 DE MAYO Y MENDOZA,Rosario,Santa Fe,Argentina;5441000,4;6354255,05;-60,63099;-32,9529946;1 de Mayo & Mendoza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ITALIA Y SAAVEDRA,Rosario,Santa Fe,Argentina;5438695,71;6351668,11;-60,6558081;-32,9762111;Saavedra & Italia, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN PABLO II Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439070,1;6347284,46;-60,6513323;-33,0158286;A San Martín & Juan Pablo II, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ALBERT SABIN Y GORRITI,Rosario,Santa Fe,Argentina;5436005,9;6357487,31;-60,6843118;-32,9235451;Gorriti & Av. Sabin, S2013 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y OCAMPO,Rosario,Santa Fe,Argentina;5436031,29;6353544,39;-60,6842412;-32,9591253;Ocampo & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN XXIII Y ROUILLON,Rosario,Santa Fe,Argentina;5434470495;6.351.981.225.000.000;-60,7010397;-32,9731068;Juan XXIII & Rouillon, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;3 DE FEBRERO Y ANDREU,Rosario,Santa Fe,Argentina;5441610,04;6354012,51;-60,6136932;-33,0126877;3 de Febrero & Int. Andreu, Villa Gdor. Galvez, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BELGRANO Y TUCUMAN,Rosario,Santa Fe,Argentina;5440677,57;6355443,1;-60,6343578;-32,9423696;Tucumán & Av. Belgrano, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PTE PERON 4295,Rosario,Santa Fe,Argentina;5435806,72;6353653,08;-60,6865754;-32,9579884;Av. Pres. Perón 4295, S2003FYK Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;27 DE FEBRERO Y OROÑO,Rosario,Santa Fe,Argentina;5438422,74;6352919,97;-60,6585086;-32,9648633;Bv. 27 de Febrero & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA 3300,Rosario,Santa Fe,Argentina;5435844,13;6352514,81;-60,6865852;-32,9682724;Bv. Avellaneda 3300, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CULLEN Y PELLEGRINI,Rosario,Santa Fe,Argentina;5433721,88;6354707,67;-60,7087368;-32,9484591;Cullen & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SAN MARTIN 3100,Rosario,Santa Fe,Argentina;5439867,47;6351944,68;-60,6434328;-32,9736204;Av. San Martín 3100, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA 2750,Rosario,Santa Fe,Argentina;5435939,57;6353222,41;-60,6848247;-32,9620024;Bv. Avellaneda 2750, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CARLOS COLOMBRES Y NANSEN,Rosario,Santa Fe,Argentina;;;-60,6783977;-32,9089431;Nansen & Av. Carlos Colombres, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BAIGORRIA Y CASIANO CASAS,Rosario,Santa Fe,Argentina;5432977,9;6360756,43;-60,7163514;-32,8939135;Av. Casiano Casas & Baigorria, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;ABANDERADO GRANDOLI Y PTE QUINTANA,Rosario,Santa Fe,Argentina;5441279,79;6350607,17;-60,6281741;-32,9858986;Av. Abanderado Grandoli & Pres. Quintana, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ESTANISLAO LOPEZ Y FRANCIA,Rosario,Santa Fe,Argentina;5438139,33;6357311,57;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MONTEVIDEO Y PEDRO LINO FUNES,Rosario,Santa Fe,Argentina;5434457,5;6354862,5;-60,7009387;-32,9471627;Pedro Lino Funes & Montevideo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;HILARION DE LA QUINTANA Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439357,6;6348928,95;-60,6489366;-33,0009319;Hilarión de la Quintana & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;HUMBERTO PRIMERO Y REPUBLICA DOMINICANA,Rosario,Santa Fe,Argentina;5435483,01;6356784,12;-60,6898343;-32,9298858;Republic Dominicana & Humberto Primo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAMILO ALDAO Y LEJARZA,Rosario,Santa Fe,Argentina;5435028,15;6352718,82;-60,6949643;-32,9664969;Lejarza & Camilo Aldao, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SEGUI Y ITALIA,Rosario,Santa Fe,Argentina;5438670,02;6351540,86;-60,6561095;-32,9774233;Italia & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SAN JUAN Y VERA MUJICA,Rosario,Santa Fe,Argentina;5437551,1;6355118,11;-60,6678732;-32,9449723;San Juan & Vera Mujica, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GORRITI 5570,Rosario,Santa Fe,Argentina;5434518,67;6357445,97;-60,7001449;-32,9239373;Gorriti 5570, S2007BQJ Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PROVINCIAS UNIDAS Y ZUVIRIA,Rosario,Santa Fe,Argentina;5433338,88;6355987,55;-60,7128337;-32,9369512;Zuviría & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ARGENTINO Y SARRATEA,Rosario,Santa Fe,Argentina;5430676,76;6357343,22;-60,7411644;-32,924563;Sarratea & Bv. Argentino, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;27 DE FEBRERO Y CAMPBELL,Rosario,Santa Fe,Argentina;5433878,8;6353517,51;-60,7071969;-32,9593126;Campbell & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BELGRANO Y RIOJA,Rosario,Santa Fe,Argentina;5441211,99;6354631,68;-60,6889419;-32,9385134;Rioja, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;NUESTRA SRA DEL ROSARIO Y TEMPORELI,Rosario,Santa Fe,Argentina;5441152,23;6349137,41;-60,632557;-32,94742;Buenos Aires 789, S2000CEB Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y MENDOZA,Rosario,Santa Fe,Argentina;5432430,88;6355584,28;-60,63099;-32,9529946;1 de Mayo & Mendoza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAMINO DE LOS GRANADEROS Y PALESTINA,Rosario,Santa Fe,Argentina;5433548,65;6361639,07;-60,710036;-32,8859664;Palestina & Camino de los Granaderos, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OROÑO Y SEGUI,Rosario,Santa Fe,Argentina;5438161,8;6351644,86;-60,6614377;-32,9762975;Bv. Seguí & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AYACUCHO Y MARCO POLO,Rosario,Santa Fe,Argentina;5440596,74;6347868,61;-60,635722;-33,0105421;Marco Polo & Ayacucho, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PELLEGRINI 1300,Rosario,Santa Fe,Argentina;5439797,85;6353807,14;-60,6437511;-32,9565603;Av. Pellegrini 1300, S2000BUN Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;HOLLYWOOD Y PIRIAPOLIS,Rosario,Santa Fe,Argentina;5435916,12;6345611,04;-60,6858693;-33,0302922;Piriapolis & Hollywood, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;CAMILO ALDAO Y DEAN FUNES,Rosario,Santa Fe,Argentina;5435030,12;6352662,96;-60,6949452;-32,967008;Deán Funes & Camilo Aldao, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ARIJON Y SERRANO,Rosario,Santa Fe,Argentina;5440959,82;6348764,06;-60,6317804;-33,0025201;Serrano & Av. Arijon, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ENTRE RIOS Y GALVEZ,Rosario,Santa Fe,Argentina;5439553,61;6352553,58;-60,6465732;-32,9682634;Gálvez & Entre Ríos, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439056,55;6347208,15;-60,6520208;-33,0157223;Av. San Martín & 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;27 DE FEBRERO Y ORONO,Rosario,Santa Fe,Argentina;5438422,74;6352919,97;-60,6585086;-32,9648633;Bv. 27 de Febrero & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ITALIA Y URUGUAY,Rosario,Santa Fe,Argentina;5438721,98;6351795,24;-60,6554821;-32,9750468;Uruguay & Italia, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;EVA PERON Y WILDE,Rosario,Santa Fe,Argentina;543.087.466.375;6356926305;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GARIBALDI Y NECOCHEA,Rosario,Santa Fe,Argentina;5440731,18;6350319,76;-60,6341211;-32,9884705;Necochea & Garibaldi, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y MENDOZA,Rosario,Santa Fe,Argentina;5432430,88;6355584,28;-60,63099;-32,9529946;1 de Mayo & Mendoza, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5432314,79;6357797,78;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;3;JORGE CURA Y PUEYRREDON,Rosario,Santa Fe,Argentina;5437898,05;6352296,69;-60,6642949;-32,9704941;Av. Jorge Cura & Pueyrredón, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CALLAO Y URIBURU,Rosario,Santa Fe,Argentina;5437151,35;6349961,86;-60,6724503;-32,9915382;Callao & Av. Uriburu, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SAN MARTIN 2600,Rosario,Santa Fe,Argentina;5439995,72;6352571,47;-60,6420162;-32,9679349;Av. San Martín 2600, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BOEDO Y SUPERI,Rosario,Santa Fe,Argentina;5433921,67;6360459,98;-60,7062458;-32,8966464;Boedo & Superí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GALVEZ Y LINIERS,Rosario,Santa Fe,Argentina;5434759,31;6353431,72;-60,6977663;-32,9600977;Liniers & Gálvez, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PROVINCIAS UNIDAS Y SEGUI,Rosario,Santa Fe,Argentina;5433497,26;6352210,62;-60,7114123;-32,970998;Av. Provincias Unidas & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;NUESTRA SRA DEL ROSARIO Y PTE ROCA,Rosario,Santa Fe,Argentina;5438652,09;6348992,39;-60,6564782;-33,0002849;Pte Roca & Av. Ntra Sra del Rosario, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GENOVA Y GARCIA DEL COSSIO,Rosario,Santa Fe,Argentina;5430152,89;6358187,58;-60,7467405;-32,9169236;García del Cossio & Av. Genova, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;EVA PERON 6600,Rosario,Santa Fe,Argentina;5433419,57;6356382,09;-60,7117472;-32,9331783;Av. Eva Perón 6600, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LA PAZ Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433430,59;6353904,23;-60,7119103;-32,9557478;La Paz & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LA SALLE Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433273,96;6357588,17;-60,7134227;-32,9225328;De la Salle & Av. Provincias Unidas Bis, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LARRECHEA Y MOLINA,Rosario,Santa Fe,Argentina;5434088,6;6360271,06;-60,7044887;-32,898323;Molina & Larrechea, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y SORRENTO,Rosario,Santa Fe,Argentina;5432252,79;6359162,11;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;RIOBAMBA 5900,Rosario,Santa Fe,Argentina;5434275,02;6354085,11;-60,7028221;-32,954304;Riobamba 5900, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;CRESPO Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5437287,17;6354479,32;-60,6707459;-32,9507338;Crespo & Montevideo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CORDOBA Y ITALIA,Rosario,Santa Fe,Argentina;5439416,1;6355166,88;-60,6478583;-32,9447168;Italia & Córdoba, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AMENABAR Y CALLAO,Rosario,Santa Fe,Argentina;5437682,63;6352540,33;-60,6666136;-32,968246;Callao & Amenabar, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;3;PROVINCIAS UNIDAS Y WHITE,Rosario,Santa Fe,Argentina;5433363,505;6355495,87;-60,7124843;-32,941362;White & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;HILARION DE LA QUINTANA Y OROÑO,Rosario,Santa Fe,Argentina;5437848,49;6348852,66;-60,6652591;-33,0015414;Hilarión de la Quintana & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LAS PALMERAS Y URUGUAY,Rosario,Santa Fe,Argentina;5431422,17;6352400,21;-60,7335658;-32,9691352;Uruguay & Av. de Las Palmeras, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SAN MARTIN Y URIBURU,Rosario,Santa Fe,Argentina;5439557,84;6350066,98;-60,6467357;-32,9907385;Av. San Martín & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MOLINA Y SUPERI,Rosario,Santa Fe,Argentina;5434077,66;6360468,44;-60,704594;-32,8965748;Molina & Superí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y JUNIN,Rosario,Santa Fe,Argentina;5436775,37;6357156,72;-60,6760518;-32,9265929;Junín & Bv. Avellaneda Bis, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ALEM Y SEGUI,Rosario,Santa Fe,Argentina;5440502,7;6351164,26;-60,6365565;-32,9809293;Leandro N. Alem & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GENOVA 2300,Rosario,Santa Fe,Argentina;5.434.908.376.062.830;6.358.361.735.181.290;-60,697202;-32,9155475;Av. Genova 2300, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SAN MARTIN 1134,Rosario,Santa Fe,Argentina;5440357;6354489,75;-60,6378207;-32,9508359;Av. San Martín 1134, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN B JUSTO 7600,Rosario,Santa Fe,Argentina;5432122,18;6358399,33;-60,7256005;-32,9152698;Juan B. Justo 7600, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;OVIDIO LAGOS Y SEGUI,Rosario,Santa Fe,Argentina;5437424,48;6351797,02;-60,669305;-32,9749343;Bv. Seguí & Av. Ovidio Lagos, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;VICENTE MEDINA 6641,Rosario,Santa Fe,Argentina;5435536,37;6347200,25;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BARRA Y ZUVIRIA,Rosario,Santa Fe,Argentina;5433882,97;6356008,41;-60,7069911;-32,9368035;Zuviría & Barra, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CHACABUCO Y COCHABAMBA,Rosario,Santa Fe,Argentina;5441488,69;6353350,52;-60,6257994;-32,9611657;Cochabamba & Chacabuco, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;RONDEAU Y WASHINGTON,Rosario,Santa Fe,Argentina;5435410,58;6359963,72;-60,6903906;-32,9012107;Washington & Bv. Rondeau, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ARIJON Y ITALIA,Rosario,Santa Fe,Argentina;5438405,74;6348656,67;-60,6591275;-33,0033293;Italia & Av. Arijon, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;BATTLE ORDOÑEZ Y BUENOS AIRES,Rosario,Santa Fe,Argentina;5439759,25;6348055,34;-60,6446586;-33,0088009;Buenos Aires & Av. Battle Y Ordóñez, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;KHANTUTA Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439139,3;6347696,67;-60,651323;-33,0120193;Khantuta & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y RIVAROLA,Rosario,Santa Fe,Argentina;5432769,18;6352761,75;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN JOSE PASO Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433251,09;6357831,13;-60,71359;-32,920869;Avenida Provincias Unidas 665 bis, 2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MEJICO Y MENDOZA,Rosario,Santa Fe,Argentina;5432816,49;6355599,94;-60,718417;-32,9403453;Mejico & Mendoza, S2008 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;F FRIAS Y PAGO DE LOS ARROYOS,Rosario,Santa Fe,Argentina;5439252,94;6347700,52;-60,6501177;-33,0120085;Pago de los Arroyos & Frías, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FLAMMARION Y PATRIA,Rosario,Santa Fe,Argentina;5438611,57;6349064,1;-60,6568992;-32,9996654;Patria & Flammarion, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LINIERS Y MENDOZA,Rosario,Santa Fe,Argentina;5434666,42;6355550,69;-60,6987236;-32,9409584;Liniers & Mendoza, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ALBERDI Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5436174,44;6357957,89;-60,6824449;-32,9193213;Av. Alberdi & Juan José Paso, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PROVINCIAS UNIDAS Y SAN LORENZO,Rosario,Santa Fe,Argentina;5433326,37;6356253,66;-60,7129584;-32,9345252;San Lorenzo & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FRANCIA Y PTE QUINTANA,Rosario,Santa Fe,Argentina;5436937,22;6351499,145;-60,6745782;-32,9776324;Pres. Quintana & Av. Francia, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PREVISION Y HOGAR,Rosario,Santa Fe,Argentina;;;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN CANALS Y OROÑO,Rosario,Santa Fe,Argentina;5437924,325;6350498,715;-60,6574568;-32,9877619;España 4496, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;EUDORO CARRASCO Y MARTIN FIERRO,Rosario,Santa Fe,Argentina;5435582,79;6362751,14;-60,688255;-32,876036;Martín Fierro & Av. Eudoro Carrasco, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ITALIA Y PTE QUINTANA,Rosario,Santa Fe,Argentina;5438591,42;6351158,34;-60,6569656;-32,9807712;Pres. Quintana & Italia, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;VERA MUJICA Y VIRASORO,Rosario,Santa Fe,Argentina;5437098,29;6352925,98;-60,67283;-32,9647558;Virasoro & Vera Mujica, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BIEDMA Y CORRIENTES,Rosario,Santa Fe,Argentina;5439133,84;6351179,26;-60,6511599;-32,9806241;Cnel. M. Biedma & Corrientes, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CASIANO CASAS Y CAVIA,Rosario,Santa Fe,Argentina;5433718,88;6359892,51;-60,7085018;-32,9017989;Cavia & Av. Casiano Casas, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CULLEN Y VIAMONTE,Rosario,Santa Fe,Argentina;5433761,07;6353787,3;-60,7084551;-32,9568376;Viamonte & Cullen, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439056,55;6347208,15;-60,6520208;-33,0157223;Av. San Martín & 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GARIBALDI Y IRIONDO,Rosario,Santa Fe,Argentina;5436477,21;6351195,33;-60,6795442;-32,9803335;Garibaldi & Iriondo, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y SORRENTO,Rosario,Santa Fe,Argentina;5432252,79;6359162,11;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CASTELLANOS Y CORDOBA,Rosario,Santa Fe,Argentina;5436872,7;6355690,86;-60,6750349;-32,9398084;Castellanos & Córdoba, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;3 DE FEBRERO Y ALVEAR,Rosario,Santa Fe,Argentina;5438636,13;6354590,49;-60,6562258;-32,9498305;Alvear & 3 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439056,55;6347208,15;-60,6520208;-33,0157223;Av. San Martín & 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;5;SORRENTO 1600,Rosario,Santa Fe,Argentina;5434308,97;6359275,07;-60,688774;-32,9071136;Av. Sorrento 1600, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ENTRE RIOS Y URIBURU,Rosario,Santa Fe,Argentina;5439035,95;6350044,19;-60,6522822;-32,9908032;Entre Ríos & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BAIGORRIA Y MOLINA,Rosario,Santa Fe,Argentina;5434061,2;6360778,83;-60,70475;-32,8937717;Molina & Baigorria, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ALSINA Y DEAN FUNES,Rosario,Santa Fe,Argentina;5436075,59;6352474,23;-60,6837456;-32,9687752;Alsina & Deán Funes, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;ESPAÑA Y SEGUI,Rosario,Santa Fe,Argentina;5438797,6;6351514,67;-60,6547291;-32,9776681;España & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CALLAO Y PTE QUINTANA,Rosario,Santa Fe,Argentina;5437447,06;6351394,21;-60,6691917;-32,9785836;Callao & Pres. Quintana, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;3 DE FEBRERO Y AVELLANEDA,Rosario,Santa Fe,Argentina;5436344,66;6355064,22;-60,6806652;-32,9454596;3 de Febrero & Bv. Avellaneda, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;PROVINCIAS UNIDAS Y RIO NEGRO,Rosario,Santa Fe,Argentina;5433387,77;6354968,7;-60,7123986;-32,9460691;Diagonal Río Negro & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PTE PERON 7600,Rosario,Santa Fe,Argentina;5432477,46;6351961,292;-60,7214979;-32,9730604;Av. Pres. Perón 7600, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ABANDERADO GRANDOLI Y CENTENO,Rosario,Santa Fe,Argentina;5441267,96;6350342,25;-60,6284134;-32,9882888;Av. Abanderado Grandoli & Centeno, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BUENOS AIRES Y SEGUI,Rosario,Santa Fe,Argentina;5440091,35;6351248,73;-60,6409172;-32,9801469;Buenos Aires & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CENTRAL ARGENTINO 202,Rosario,Santa Fe,Argentina;5.437.675.043.055.220;6.356.891.610.246.310;-60,6657952;-32,9292326;Central Argentino 202, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y BIEDMA,Rosario,Santa Fe,Argentina;5435691,17;6351887,13;-60,6878796;-32,9740804;Cnel. M. Biedma & Bv. Avellaneda, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y VIRASORO,Rosario,Santa Fe,Argentina;5435952,73;6353162,59;-60,6849831;-32,9625774;Virasoro & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ENTRE RIOS Y TUCUMAN,Rosario,Santa Fe,Argentina;5440167,99;6355546,49;-60,6397698;-32,9413035;Tucumán & Entre Ríos, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN CANALS Y MITRE,Rosario,Santa Fe,Argentina;5439214,03;6350233,07;-60,6574568;-32,9877619;España 4496, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ROULLON 3800,Rosario,Santa Fe,Argentina;5434457,03;6351967,11;-60,70104;-32,9730939;Rouillon 3800, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;JUAN JOSE PASO Y OLAVARRIA,Rosario,Santa Fe,Argentina;5434112,12;6357875,12;-60,7044155;-32,919971;Olavarría & Juan José Paso, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ESMERALDA Y GARAY,Rosario,Santa Fe,Argentina;5441248,87;6351540,76;-60,6285041;-32,9774741;Esmeralda & Garay, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FRENCH Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433270,91;6357667,07;-60,7133438;-32,9218137;French & Av. Provincias Unidas Bis, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;COCHABAMBA Y MARIANO MORENO,Rosario,Santa Fe,Argentina;5438888,8;6353884,56;-60,653595;-32,9562226;Cochabamba & Mariano Moreno, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SARMIENTO Y SEGUI,Rosario,Santa Fe,Argentina;5439579,82;6351353,9;-60,6464278;-32,9789904;Sarmiento & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAMPBELL Y JUAN B JUSTO,Rosario,Santa Fe,Argentina;5433665,06;6358444,77;-60,7090038;-32,9148113;Campbell & Juan B. Justo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;ARIJON 1200,Rosario,Santa Fe,Argentina;5439212,25;6348670,17;-60,6502428;-33,0029081;Av. Arijon 1200, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PTE ROCA Y SAN LORENZO,Rosario,Santa Fe,Argentina;5439725,54;6355367,8;-60,6445305;-32,9428912;Pte. Roca & San Lorenzo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5432314,79;6357797,78;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AU ROSARIO CORDOBA,Rosario,Santa Fe,Argentina;;;-60,740899;-32,9491021;Au Córdoba - Rosario, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y 27 DE FEBRERO,Rosario,Santa Fe,Argentina;5432600,99;6353467,86;-60,6211404;-32,9699903;Bv. 27 de Febrero & Av. Circunvalación 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MONTEVIDEO 6200,Rosario,Santa Fe,Argentina;5433924,39;6354856,86;-60,7066257;-32,9472144;Montevideo 6200, S2008DPZ Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;BERTOLE Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433469,08;6352883,87;-60,7116468;-32,964956;Bertole & Av. Provincias Unidas, S2009 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;OVIDIO LAGOS Y URIBURU,Rosario,Santa Fe,Argentina;5437062,95;6349957,47;-60,6733648;-32,9915803;Av. Ovidio Lagos & Av. Uriburu, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;OVIDIO LAGOS Y URQUIZA,Rosario,Santa Fe,Argentina;5438225,07;6355812,51;-60,6605418;-32,9387856;Urquiza & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;CIRCUNVALACION BIS Y URUGUAY,Rosario,Santa Fe,Argentina;;;-60,7222007;-32,9063402;Avenida Circunvalación 25 de mayo 1810 bis, 2000 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;CORDOBA Y MORENO,Rosario,Santa Fe,Argentina;5439162,13;6355219,75;-60,6496895;-32,9436573;Plaza San Martín, Mariano Moreno, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;ESTEBAN DE LUCA Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436976,96;6349487,79;-60,6744179;-32,9957254;Esteban de Luca & Av. Ovidio Lagos, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;MORE FELIPE Y URQUIZA,Rosario,Santa Fe,Argentina;5435120;6356446,5;-60,6937194;-32,9329094;Felipe Moré & Urquiza, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;RONDEAU 2700,Rosario,Santa Fe,Argentina;5434999,7;6361381,59;-60,6941229;-32,8883947;Bv. Rondeau 2700, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;GABOTO Y MATIENZO,Rosario,Santa Fe,Argentina;5435140,09;6352926,01;-60,6937108;-32,9646265;Gaboto & Matienzo, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;IRIONDO Y QUINTANA,Rosario,Santa Fe,Argentina;5436262,58;6348803,39;-60,6787186;-32,9768954;Iriondo & Pres. Quintana, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;AVELLANEDA Y GARAY,Rosario,Santa Fe,Argentina;5435848,28;6352655,41;-60,6862944;-32,9671112;Garay & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;URIBURU Y ORONO,Rosario,Santa Fe,Argentina;5437809,62;6349972,48;-60,667561;-32,991441;Av. Uriburu 2365, S2004CPE Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;URIBURU 1800,Rosario,Santa Fe,Argentina;5438350,51;6349991,03;-60,6595555;-32,9910325;Av. Uriburu 1800, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;27 DE FEBRERO Y SAN NICOLAS,Rosario,Santa Fe,Argentina;5436641,75;6353285,82;-60,6776877;-32,9614413;San Nicolás & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;SALTA Y SUIPACHA,Rosario,Santa Fe,Argentina;5438050,99;6356255,21;-60,6624032;-32,9348009;Suipacha & Salta, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;OVIDIO LAGOS Y SAN LORENZO,Rosario,Santa Fe,Argentina;5438197,89;6355680,82;-60,6608623;-32,9399529;San Lorenzo & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALSINA Y SAN LORENZO,Rosario,Santa Fe,Argentina;5436797,85;6355969,66;-60,67584;-32,9372895;Alsina & San Lorenzo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;LUIS CARBALLO Y MADRES PLAZA 25 DE MAYO,Rosario,Santa Fe,Argentina;;;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BELGRANO Y SGTO CABRAL,Rosario,Santa Fe,Argentina;5440716,364;6355339,253;-60,6341066;-32,9430418;Sgto Cabral & Av. Belgrano, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SANTIAGO Y 27 DE FEBRERO,Rosario,Santa Fe,Argentina;5438296,09;6352946,13;-60,6613314;-32,9643613;Santiago & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;ALVEAR Y CORDOBA,Rosario,Santa Fe,Argentina;5438782,08;6355296,99;-60,65464;-32,9434782;Alvear & Córdoba, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN LORENZO Y SARMIENTO,Rosario,Santa Fe,Argentina;5440372,12;6355227,57;-60,6376346;-32,9442155;Sarmiento & San Lorenzo, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;TUCUMAN Y FELIPE MORE,Rosario,Santa Fe,Argentina;5435116.21;6356543.64;-60,6937843;-32,9320508;Felipe Moré & Tucumán, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SARMIENTO Y TUCUMAN,Rosario,Santa Fe,Argentina;5440424,85;6355487,49;-60,6370328;-32,9418588;Sarmiento & Tucumán, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;OVIDIO LAGOS Y SANTA FE,Rosario,Santa Fe,Argentina;5438176,58;6355577,58;-60,6610912;-32,9409027;Sta Fe & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;25 DE MAYO Y URIBURU,Rosario,Santa Fe,Argentina;5434425,19;6349866,32;-60,6226047;-32,9889576;Av. Uriburu & Av. Circunvalación 25 de Mayo, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LIMA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5435859,24;6354641,93;-60,685927;-32,9491689;Lima & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;JUAN PABLO II Y PTE PERON,Rosario,Santa Fe,Argentina;5433034,535;6352275,765;-60,6741429;-32,956478;Av. Pres. Perón 3461, S2003FYC Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CARRASCO Y MAGALLANES,Rosario,Santa Fe,Argentina;5434025,54;6357786,16;-60,7053413;-32,92078;Magallanes Bis & G. Carrasco, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;URUGUAY Y RODRIGUEZ,Rosario,Santa Fe,Argentina;5437705,53;6352004,53;-60,6663551;-32,9730954;Rodríguez & Uruguay, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;GRANDOLI Y J M GUTIERREZ,Rosario,Santa Fe,Argentina;5441244,5;6349775,61;-60,6287574;-32,9933995;Juan María Gutiérrez & Av. Abanderado Grandoli, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;NECOCHEA Y URIBURU,Rosario,Santa Fe,Argentina;5440692,55;6350125,27;-60,6345492;-32,9903067;Necochea & Av. Uriburu, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CAFERATA C Y OCAMPO,Rosario,Santa Fe,Argentina;5436795,85;6353386,4;-60,6760044;-32,9605856;Ocampo & Cafferata, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN LUIS 2400,Rosario,Santa Fe,Argentina;5438585,02;6355050,07;-60,6566601;-32,9458959;San Luis 2400, S2000KPF Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN LUIS 2400,Rosario,Santa Fe,Argentina;5438585,02;6355050,07;-60,6566601;-32,9458959;San Luis 2400, S2000KPF Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CONSTITUCION Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5436777,52;6354584,53;-60,6761469;-32,9497798;Constitución & Montevideo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN NICOLAS Y CERRITO,Rosario,Santa Fe,Argentina;5440111,21;6353235,17;-60,6762118;-32,9557369;Cerrito & San Nicolás, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;COCHABAMBA Y DORREGO,Rosario,Santa Fe,Argentina;5439014,93;6353858,74;-60,6522403;-32,956475;Cochabamba & Dorrego, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LA PAZ Y PARAGUAY,Rosario,Santa Fe,Argentina;5439398,09;6353116,61;-60,6482643;-32,9631476;La Paz & Paraguay, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CAFERATA C Y SAN LORENZO,Rosario,Santa Fe,Argentina;5437306,99;6355864,66;-60,6703833;-32,9382766;San Lorenzo & Cafferata, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;RONDEAU 1400,Rosario,Santa Fe,Argentina;5435337,96;6360107,5;-60,6906236;-32,8998913;Bv. Rondeau 1400, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BIEDMA Y FRANCIA,Rosario,Santa Fe,Argentina;5436963,36;6351626,105;-60,674405;-32,9764597;Cnel. M. Biedma & Av. Francia, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GABOTO Y MITRE,Rosario,Santa Fe,Argentina;5439581,33;6352017;-60,6462884;-32,9731063;Mitre & Gaboto, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BUENOS AIRES Y DEAN FUNES,Rosario,Santa Fe,Argentina;5440169,73;6351630,17;-60,640119;-32,9765782;Buenos Aires & Deán Funes, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BUENOS AIRES Y DEAN FUNES,Rosario,Santa Fe,Argentina;5440169,73;6351630,17;-60,640119;-32,9765782;Buenos Aires & Deán Funes, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN LUIS 4600,Rosario,Santa Fe,Argentina;5435790,39;6355627,37;-60,6866171;-32,9404725;San Luis 4600, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;COCHABAMBA Y CORRIENTES,Rosario,Santa Fe,Argentina;5439658,49;6353726,74;-60,6453596;-32,9576885;Cochabamba & Corrientes, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;DORREGO Y MENDOZA,Rosario,Santa Fe,Argentina;5439172,24;6354624,85;-60,6505111;-32,9495841;Dorrego & Mendoza, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;COLON Y VIRASORO,Rosario,Santa Fe,Argentina;5440970,9;6352129,2;-60,631407;-32,9721966;Colón & Virasoro, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;529 Y MAGNANO,Rosario,Santa Fe,Argentina;5440292,81;6347558,85;-60,6389744;-33,0133428;Magnano & Pje. 529, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ECHEVERRIA Y JUNIN,Rosario,Santa Fe,Argentina;5437138,73;6357159,6;-60,6721346;-32,9265099;E. Echeverría & Junín, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BUENOS AIRES Y CORDOBA,Rosario,Santa Fe,Argentina;5440831,76;6354857,19;-60,6327459;-32,9475627;Buenos Aires & Córdoba, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;IRIONDO Y RIOBAMBA,Rosario,Santa Fe,Argentina;5437001,94;6353742,93;-60,6737845;-32,9573983;Iriondo & Riobamba, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GRANDOLI FLORUARDO Y GAZCON,Rosario,Santa Fe,Argentina;5431942.03;6361518.95;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MENDOZA Y PARAGUAY,Rosario,Santa Fe,Argentina;5439687,75;6354521,41;-60,6450096;-32,9505704;Paraguay & Mendoza, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESPANA Y URQUIZA,Rosario,Santa Fe,Argentina;5439621,96;6355525,04;-60,6456052;-32,941476;España & Urquiza, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CALLAO Y TUCUMAN,Rosario,Santa Fe,Argentina;5438379,46;6355915,75;-60,6588716;-32,9378651;Callao & Tucumán, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y ROSAS,Rosario,Santa Fe,Argentina;5440828,89;6354146,96;-60,6875601;-32,9442195;P. Rosas & 3 de Febrero, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;BATTLE ORDOÑEZ Y ARTEAGA,Rosario,Santa Fe,Argentina;5439869,06;6348060,01;-60,6434727;-33,008763;Arteaga & Av. Battle Y Ordóñez, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y SAN LUIS,Rosario,Santa Fe,Argentina;5439871,06;6354761,52;-60,643002;-32,9482905;San Luis & Corrientes, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;RONDEAU,Rosario,Santa Fe,Argentina;;;-60,6927902;-32,8929572;Bv. Rondeau, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;ARIJON Y ESPANA,Rosario,Santa Fe,Argentina;5438544,61;6348662,54;-60,6576131;-33,0032948;España & Av. Arijon, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PARAGUAY 2400,Rosario,Santa Fe,Argentina;5439354,41;6352979,85;-60,648553;-32,9643277;Paraguay 2400, S2000FZP Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PARAGUAY 2400,Rosario,Santa Fe,Argentina;5439354,41;6352979,85;-60,648553;-32,9643277;Paraguay 2400, S2000FZP Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DORREGO Y RIOJA,Rosario,Santa Fe,Argentina;5439263,1;6355065,32;-60,6494872;-32,9456061;Dorrego & Rioja, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CRESPO Y TUCUMAN,Rosario,Santa Fe,Argentina;5437615,1;6356073,05;-60,6670553;-32,9364161;Crespo & Tucumán, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PARAGUAY Y MILAN,Rosario,Santa Fe,Argentina;5438795,61;6350185,8;-60,654824;-32,9895649;Milan & Paraguay, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MITRE Y RIOJA,Rosario,Santa Fe,Argentina;5440167,19;6354871,73;-60,6398471;-32,9474018;Rioja & Mitre, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;J J PASO Y OTONE,Rosario,Santa Fe,Argentina;5434443.44;6357888.16;-60,7008546;-32,9198624;Virginio Ottone & Juan José Paso, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PASCO Y SARMIENTO,Rosario,Santa Fe,Argentina;5440025,19;6353519,18;-60,641439;-32,9595745;Pasco & Sarmiento, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PTE ROCA Y TUCUMAN,Rosario,Santa Fe,Argentina;5439778,9;6355628,07;-60,6439164;-32,9405719;Pte. Roca & Tucumán, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;BERMUDEZ Y LAMADRID,Rosario,Santa Fe,Argentina;5439925,52;6349376,54;-60,6428072;-32,9969351;Av Bermúdez & Lamadrid, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5436241,37;6354563,1;-60,6818314;-32,9500153;Bv. Avellaneda & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BALCARCE Y JUJUY,Rosario,Santa Fe,Argentina;5439221,47;6356151,72;-60,649887;-32,9358469;Balcarce & Jujuy, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;FRANCIA Y GARAY,Rosario,Santa Fe,Argentina;5437120,66;6352390,57;-60,6726764;-32,9695744;Garay & Av. Francia, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARCOS PAZ Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433350,06;6355748,86;-60,7127352;-32,9391348;Marcos Paz & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MITRE Y OCAMPO,Rosario,Santa Fe,Argentina;5439738,19;6352781,36;-60,644668;-32,9661907;Ocampo & Mitre, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MATIENZO Y PTE PERON,Rosario,Santa Fe,Argentina;5435116,78;6353534,06;-60,6939801;-32,9590831;Matienzo & Av. Pres. Perón, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PASCO Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433409,78;6354433,79;-60,7120847;-32,9510172;Pasco & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SANTIAGO Y 27 DE FEBRERO,Rosario,Santa Fe,Argentina;5438168,89;6352972,11;-60,6613314;-32,9643613;Santiago & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;COCHABAMBA Y NECOCHEA,Rosario,Santa Fe,Argentina;5441360,84;6353376,88;-60,627192;-32,9609344;Cochabamba & Necochea, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;27 DE FEBRERO Y ROSAS,Rosario,Santa Fe,Argentina;5440486,6;6352495,47;-60,6365975;-32,9689097;Juan Manuel de Rosas & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESPAÑA Y RIOJA,Rosario,Santa Fe,Argentina;5439516,87;6355012,86;-60,6468222;-32,9460611;Rioja & España, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ORONO 6000,Rosario,Santa Fe,Argentina;5437909,75;6348190,81;-60,6670154;-33,007403;Bv. Oroño 6000, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CARRASCO Y PEDRO LINO FUNES,Rosario,Santa Fe,Argentina;5434340,65;6357797,89;-60,7019821;-32,9206886;Pedro Lino Funes Bis & G. Carrasco, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;27 DE FEBRERO Y JUAN PABLO II,Rosario,Santa Fe,Argentina;5432653,23;6353471,24;-60,7203518;-32,9596309;Juan Pablo II & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;JUJUY Y FRANCIA,Rosario,Santa Fe,Argentina;5437950,26;6356413,56;-60,6635719;-32,9333566;Jujuy & Av. Francia, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BOLIVIA Y MENDOZA,Rosario,Santa Fe,Argentina;5433243,99;6355616,94;-60,7138367;-32,9402313;Bolivia & Mendoza, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MORRISON Y WILDE,Rosario,Santa Fe,Argentina;5430875,46;6357208,27;-60,7390323;-32,9257719;Av. Morrison & Blvd. Wilde, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CULLEN Y GORRITI,Rosario,Santa Fe,Argentina;5433612,69;6357391,48;-60,7097774;-32,924337;Gorriti & Cullen, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GARIBALDI Y OROÑO,Rosario,Santa Fe,Argentina;5438003,53;6350880,49;-60,6631766;-32,9832533;Garibaldi & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALBERDI BIS Y GORRITI,Rosario,Santa Fe,Argentina;5436482,94;6357505,09;-60,6820946;-32,9235344;Mar del Plata & Gorriti, S2013 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DORREGO Y SAN JUAN,Rosario,Santa Fe,Argentina;5439203,59;6354778,18;-60,650154;-32,9482005;Dorrego & San Juan, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;DE LA QUINTANA HILARION 2131,Rosario,Santa Fe,Argentina;54.379.602.967.605.600;6.348.842.415.045.680;-60,6638749;-33,0015832;Hilarión de la Quintana 2131, S2001AQC Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JOSE INGENIEROS Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433232,89;6358186,44;-60,7137548;-32,9171252;José Ingenieros & Av. Provincias Unidas Bis, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SEGUI 3505,Rosario,Santa Fe,Argentina;5436489,33;6351964,77;-60,6792754;-32,9732311;Bv. Seguí 3505, S2003CJE Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;J J PASO Y SORRENTO,Rosario,Santa Fe,Argentina;;;-60,7210276;-32,8931893;Bv. J. Granel, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;CENTENO Y CORRIENTES,Rosario,Santa Fe,Argentina;5439055,67;6350797,12;-60,6519964;-32,9840719;Centeno & Corrientes, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAN PABLO II Y IRURTIA,Rosario,Santa Fe,Argentina;5432860,53;6352670,36;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESTANISLAO LOPEZ Y FRANCIA,Rosario,Santa Fe,Argentina;5438139,33;6357311,57;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BRANDONI Y MARIANO MORENO,Rosario,Santa Fe,Argentina;5438156,36;6348317,2;-60,6618075;-33,0063584;Brandoni & Mariano Moreno, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;J J PASO Y SABIN,Rosario,Santa Fe,Argentina;5435560,62;6357933,73;-60,6891259;-32,9195396;Av. Sabin & Juan José Paso, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;BIANCOFIORI Y RIVAROLA,Rosario,Santa Fe,Argentina;5433240.86;6352780.49;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ENTRE RIOS Y SAAVEDRA,Rosario,Santa Fe,Argentina;5439343,48;6351534,87;-60,6488793;-32,9774386;Saavedra & Entre Ríos, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GARAY Y VALPARAISO,Rosario,Santa Fe,Argentina;5435592;6352708,75;-60,6889191;-32,9666409;Valparaiso & Garay, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SAN MARTIN 3702,Rosario,Santa Fe,Argentina;5.439.726.977.616.920;6.351.181.723.063.010;-60,643935;-32,974843;Av. San Martín 3702, S2001HUO Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN PABLO II 4000,Rosario,Santa Fe,Argentina;5433393,24;6351531,73;-60,670191;-33,011201;Juan Pablo II 4000, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;MITRE Y OCAMPO,Rosario,Santa Fe,Argentina;5439738,19;6352781,36;-60,644668;-32,9661907;Ocampo & Mitre, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;3;GORRITI Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433281,85;6357380,15;-60,713363;-32,9243612;Gorriti & Av. Provincias Unidas Bis, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ARIJON Y DORREGO,Rosario,Santa Fe,Argentina;5438274,1;6348651,24;-60,6605088;-33,0033664;Dorrego & Av. Arijon, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OROÑO Y SANCHO PANZA,Rosario,Santa Fe,Argentina;5437834,86;6349157,55;-60,6650456;-32,9987788;Sancho Panza & Bv. Oroño, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUJUY Y VERA MUJICA,Rosario,Santa Fe,Argentina;5437824,14;6356439,98;-60,6648484;-32,9331344;Jujuy & Vera Mujica, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PTE PERON 7800,Rosario,Santa Fe,Argentina;5432269,43;6351836,37;-60,7297671;-32,9299323;Av. Eva Perón 7800, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CORRIENTES Y RIOJA,Rosario,Santa Fe,Argentina;5439907,41;6354932,11;-60,6426235;-32,9467996;Rioja & Corrientes, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y JUAN PABLO II,Rosario,Santa Fe,Argentina;5433897,14;6355974,94;-60,7223564;-32,9008087;25 de Mayo & Juan Pablo II, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BUENOS AIRES Y PATRICIOS,Rosario,Santa Fe,Argentina;5439768,3;6347833,59;-60,6445574;-33,0108326;Patricios & Buenos Aires, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ABANDERADO GRANDOLI Y QUINTANA,Rosario,Santa Fe,Argentina;5441279,79;6350607,17;-60,6281741;-32,9858986;Av. Abanderado Grandoli & Pres. Quintana, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GRANDOLI Y URIBURU,Rosario,Santa Fe,Argentina;5441259,59;6350142,06;-60,6284038;-32,9901077;Av. Abanderado Grandoli & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SARMIENTO Y VIAMONTE,Rosario,Santa Fe,Argentina;5439894,57;6352882,14;-60,6430006;-32,9652933;Viamonte & Sarmiento, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MADRE CABRINI Y TURIN,Rosario,Santa Fe,Argentina;5438212,41;6348428,15;-60,661189;-33,0053844;Turín & Madre Cabrini, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;ECUADOR Y EVA PERON,Rosario,Santa Fe,Argentina;5433093495;6356470.48;-60,7153892;-32,9325318;Ecuador & Av. Eva Perón, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y LUIS CARBALLO,Rosario,Santa Fe,Argentina;5436880,35;6357668,52;-60,6747595;-32,9220231;Luis Cándido Carballo & Bv. Avellaneda Bis, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MORENO Y COCHABAMBA,Rosario,Santa Fe,Argentina;5438888,8;6353884,56;-60,6535529;-32,9561938;S2000DWX, Cochabamba 1970-1998, S2000DWX Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAUPOLICAN Y HUNGRIA,Rosario,Santa Fe,Argentina;5440777,82;6347996,87;-60,6339946;-33,0094246;Hungría & Caupolican, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PEREZ BULNES Y SOLIS,Rosario,Santa Fe,Argentina;5434233,83;6355411,59;-60,7032933;-32,9422245;Pérez Bulnes & Solís, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FRANCIA Y RIOJA,Rosario,Santa Fe,Argentina;5437736,94;6355378,92;-60,665751;-32,9427088;Rioja & Av. Francia, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SAN LUIS Y SUCRE,Rosario,Santa Fe,Argentina;5435410,98;6355690,05;-60,6906828;-32,9397408;Sucre & San Luis, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MENDOZA Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433358,09;6355622,41;-60,713587;-32,928377;Av. Provincias Unidas Bis 151, S2007HIA Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;IVANOWSKI Y NECOCHEA,Rosario,Santa Fe,Argentina;5440801,3;6350662,84;-60,628975;-32,967337;Necochea 2356, S2000FJN Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ALEM Y BIEDMA,Rosario,Santa Fe,Argentina;5440448,61;6350908,58;-60,637091;-32,9831654;Cnel. M. Biedma & Leandro N. Alem, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;GUARDIA MORADA Y VIOLETA,Rosario,Santa Fe,Argentina;5438463,07;6346829,31;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;MONTEVIDEO Y VERA MUJICA,Rosario,Santa Fe,Argentina;5437414,36;6354453,06;-60,6693673;-32,95096;Vera Mujica & Montevideo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BATTLE ORDOÑEZ Y OROÑO,Rosario,Santa Fe,Argentina;5437889,55;6347976,22;-60,6627864;-33,0099343;Av Batlle y Ordoñez y Bv Oroño, City Center, S2000DSI Rosario, Argentina
+2016;Julio;18:00 a 23:59;1;ASUNCION Y PERU,Rosario,Santa Fe,Argentina;5433538,93;6353996,2;-60,7108325;-32,9548995;Asunción & Perú, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OROÑO Y SAN LUIS,Rosario,Santa Fe,Argentina;5438848,14;6354980,52;-60,6538395;-32,9463767;San Luis & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;GARIBALDI 600,Rosario,Santa Fe,Argentina;5440062,41;6350472,2;-60,6412509;-32,9871983;Garibaldi 600, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ESTANISLAO ZEBALLO Y LAVALLE,Rosario,Santa Fe,Argentina;5436421,36;6354790,76;-60,673949;-32,9439009;San Juan 3652, S2002OVJ Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;9 DE JULIO Y AVELLANEDA,Rosario,Santa Fe,Argentina;5436323,57;6354945,94;-60,6810459;-32,9464952;9 de Julio & Bv. Avellaneda, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LOVALVO Y MORCILLO,Rosario,Santa Fe,Argentina;5438012,36;6354028,39;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;SARMIENTO Y SEGUI,Rosario,Santa Fe,Argentina;5439579,82;6351353,9;-60,6464278;-32,9789904;Sarmiento & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;CASTELLANOS Y SEGUI,Rosario,Santa Fe,Argentina;5436124,29;6352065,15;-60,6833094;-32,9724017;Castellanos & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;PROVINCIAS UNIDAS Y PTE PERON,Rosario,Santa Fe,Argentina;5433484,76;6352547,61;-60,7114245;-32,9680483;Av. Provincias Unidas & Av. Pres. Perón, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MARADONA Y ROUILLON,Rosario,Santa Fe,Argentina;5434499,1;6351262,76;-60,7007754;-32,9796308;Dr. E. Maradona & Rouillon, S2010 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;ESPAÑA Y ITUZAINGO,Rosario,Santa Fe,Argentina;5439216,71;6353552,26;-60,650089;-32,9592382;Ituzaingo & España, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y TRAVESIA,Rosario,Santa Fe,Argentina;5436721,2;6356903,32;-60,676926;-32,928925;Av. Sabin 107, S2013SUB Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MORENO Y RIOJA,Rosario,Santa Fe,Argentina;5439135,97;6355091,62;-60,6726608;-32,9391905;Cafferata, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;PUEYRREDON Y RIOJA,Rosario,Santa Fe,Argentina;5438501,79;6355221,24;-60,6576949;-32,944134;Pueyrredón & Rioja, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;AVELLANEDA 4500,Rosario,Santa Fe,Argentina;543.564.869.148.475;6.350.973.089.208.500;-60,6885748;-32,9835631;Bv. Avellaneda 4500, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;1709 Y COLOMBRES GUILLERMO,Rosario,Santa Fe,Argentina;5432218.7;6353310.52;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;FRAGA 1200,Rosario,Santa Fe,Argentina;5433577,11;6355377,67;-60,7101369;-32,9424334;Fraga 1200, S2008IEB Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;COLOMBRES Y RIVAROLA,Rosario,Santa Fe,Argentina;5432243;6352735.91;-60,7247854;-32,9662032;Dr. G. Colombres & Av. Rivarola, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESPINOZA Y ROULLON,Rosario,Santa Fe,Argentina;5434487,34;6351585;-60,7008971;-32,9766671;E. Espinosa & Rouillon, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CRESPO Y SAAVEDRA,Rosario,Santa Fe,Argentina;5436787,24;6352061,18;-60,6761944;-32,972531;Crespo & Saavedra, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;24 DE SEPTIEMBRE Y RODRIGUEZ,Rosario,Santa Fe,Argentina;5437626,76;6351622,54;-60,6672558;-32,9765702;Rodríguez & 24 de Septiembre, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;25 DE MAYO Y JUAN B JUSTO,Rosario,Santa Fe,Argentina;5432281,57;6358390,53;-60,5151133;-33,151516;1° de Mayo & Juan B. Justo, Arroyo Seco, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AYACUCHO Y BATTLE ORDOÑEZ,Rosario,Santa Fe,Argentina;5440587,86;6348090,26;-60,6357998;-33,0085765;Ayacucho & Av. Battle Y Ordóñez, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ITALIA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5439167,72;6353959,99;-60,6505795;-32,9554844;Italia & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;IRIONDO Y PELLEGRINI,Rosario,Santa Fe,Argentina;5437133,71;6354379,15;-60,6723812;-32,9515822;Iriondo & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GARIBALDI Y PUEYRREDON,Rosario,Santa Fe,Argentina;5437622,24;6350959,11;-60,6673089;-32,9825133;Pueyrredón & Garibaldi, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;MITRE Y SEGUI,Rosario,Santa Fe,Argentina;5439451,02;6351380,38;-60,6478318;-32,9787178;Mitre & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAFFERATA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5437006,86;6354405,27;-60,6737122;-32,9513423;Cafferata & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ALBERDI Y VELEZ SARFIELD,Rosario,Santa Fe,Argentina;5436595.1;6.357.340.109.999.990;-60,6777808;-32,9249469;Vélez Sársfield & Av. Alberdi, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y GABOTO,Rosario,Santa Fe,Argentina;5435873,95;6352780,13;-60,6859876;-32,9659843;Gaboto & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;3 DE FEBRERO Y CAFFERATA,Rosario,Santa Fe,Argentina;5437109,63;6354905,4;-60,6725754;-32,9469553;3 de Febrero & Cafferata, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;COPACABANA Y PUNTA DEL INDIO,Rosario,Santa Fe,Argentina;5435795,48;6345866,6;-60,6872323;-33,0283138;Punta del Indio & Copacabana, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SANGUINETTI 5600,Rosario,Santa Fe,Argentina;54.346.628.451.602.900;6.352.102.174.011.220;-60,6990501;-32,9719535;Sanguinetti 5600, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CONSTITUCION 4200,Rosario,Santa Fe,Argentina;5436079,05;6351270,63;-60,6836575;-32,9796038;Constitución 4200, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PASCUAL ROSAS Y RIOBAMBA,Rosario,Santa Fe,Argentina;5435473,18;6354058,97;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;PELLEGRINI Y VERA MUJICA,Rosario,Santa Fe,Argentina;5437388,39;6354326,66;-60,6696826;-32,9520897;Vera Mujica & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LAVALLE Y PELLEGRINI,Rosario,Santa Fe,Argentina;5.436.368.994.999.990;6354536.74;-60,6804657;-32,9501289;Lavalle & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;1737 Y LARRALDE,Rosario,Santa Fe,Argentina;5432121,04;6353024,01;-60,7260973;-32,9635558;Calle 1737 & Crisólogo Larralde, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CAFFERATA Y SEGUI,Rosario,Santa Fe,Argentina;5436506,48;6351986,33;-60,6791884;-32,9731547;Cafferata & Bv. Seguí, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;KANTUTA Y PTE ROCA,Rosario,Santa Fe,Argentina;5438737,55;6347684,13;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ESTUDIANTE Y JUAN PABLO II,Rosario,Santa Fe,Argentina;5432585,63;6353826,35;-60,7210508;-32,9564064;Estudiante Aguilar & Juan Pablo II, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;3 DE FEBRERO Y MORENO,Rosario,Santa Fe,Argentina;5439017,58;6354513,2;-60,6596685;-32,9492489;3 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN B JUSTO Y JUAN PABLO II,Rosario,Santa Fe,Argentina;5432353,01;6358393,15;-60,7232104;-32,9151868;Juan B. Justo & Juan Pablo II, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CABILDO Y HUNGRIA,Rosario,Santa Fe,Argentina;5440783,77;6348277,15;-60,6336973;-33,0068774;Hungría & Cabildo, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;OROÑO Y URIBURU,Rosario,Santa Fe,Argentina;5437809,62;6349972,48;-60,659988;-32,969051;Bv. Oroño 2970, S2001SPO Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ENTRE RIOS Y SAN LUIS,Rosario,Santa Fe,Argentina;5440001,97;6354733,33;-60,6415945;-32,9485351;San Luis & Entre Ríos, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CASTELLANOS Y PELLEGRINI,Rosario,Santa Fe,Argentina;5436624,33;6354484,11;-60,6777868;-32,9506377;Castellanos & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CORDOBA Y MARIANO MORENO,Rosario,Santa Fe,Argentina;5439162,13;6355219,75;-60,6505917;-32,944205;Mariano Moreno & Córdoba, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAMILO Y PELLEGRINI,Rosario,Santa Fe,Argentina;5434948,89;6354755,29;-60,6956607;-32,9481824;Camilo Aldao & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PASCO 500,Rosario,Santa Fe,Argentina;5440812,45;6353372,2;-60,6330266;-32,9610833;Pasco 500, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;9 DE JULIO Y AVELLANEDA,Rosario,Santa Fe,Argentina;5436323,57;6354945,94;-60,6810459;-32,9464952;9 de Julio & Bv. Avellaneda, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;27 DE FEBRERO Y AVELLANADA,Rosario,Santa Fe,Argentina;5436005,01;6353416,74;-60,6844566;-32,9603225;Bv. 27 de Febrero & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SEGUI 500,Rosario,Santa Fe,Argentina;5440353,27;6351167,72;-60,6378886;-32,9805033;Bv. Seguí 500, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y DEAN FUNES,Rosario,Santa Fe,Argentina;5435821,62;6352526,16;-60,6864623;-32,9682936;Deán Funes & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA 4400,Rosario,Santa Fe,Argentina;5.435.633.076.611.200;635.097.214.437.274;-60,6886029;-32,9817314;Bv. Avellaneda 4400, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;SAN MARTIN Y SEGUI,Rosario,Santa Fe,Argentina;5439769,76;6351314,94;-60,6444328;-32,979512;Av. San Martín & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;ORIONE Y SABINI,Rosario,Santa Fe,Argentina;5435960,3;6357538,96;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GABOTO Y PARAGUAY,Rosario,Santa Fe,Argentina;5439188,54;6352097,82;-60,6505919;-32,9723106;Gaboto & Paraguay, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AVELLANEDA Y OCAMPO,Rosario,Santa Fe,Argentina;5436031,29;6353544,39;-60,6842412;-32,9591253;Ocampo & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;JUAN XXIII Y PTE PERON,Rosario,Santa Fe,Argentina;5432425.31;6351896.94;-60,68585;-32,9494649;Av. Pellegrini 1751, S2000BUE Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;MONTEVIDEO Y RODRIGUEZ,Rosario,Santa Fe,Argentina;5438177,02;6354295,81;-60,6611756;-32,9524703;Rodríguez & Montevideo, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;27 DE FEBRERO Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433447,29;6353501,45;-60,7118836;-32,9593272;Av. Provincias Unidas & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;1805 6091,Rosario,Santa Fe,Argentina;5434160,35;6352041,6;-60,7043062;-32,9724327;Pje. 1805 6091, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;FRENCH Y GARZON,Rosario,Santa Fe,Argentina;5433922,08;6357692,62;-60,7064396;-32,921648;French & Garzón, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;LARREA Y SANTA FE,Rosario,Santa Fe,Argentina;5434773,21;6356179,49;-60,6974805;-32,9352943;Larrea & Sta Fe, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;LARREA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5434828,84;6354750,63;-60,6969834;-32,948134;Larrea & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;AVELLANEDA Y URUGUAY,Rosario,Santa Fe,Argentina;5435795,37;6352398,5;-60,6868794;-32,9694202;Uruguay & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LINIERS Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5434696,13;6354871,81;-60,6982944;-32,9470797;Liniers & Montevideo, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5436241,37;6354563,1;-60,6818314;-32,9500153;Bv. Avellaneda & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CASIANO CASAS Y CAVIA,Rosario,Santa Fe,Argentina;5433718,88;6359892,51;-60,7085018;-32,9017989;Cavia & Av. Casiano Casas, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CASILDA Y FELIPE MORE,Rosario,Santa Fe,Argentina;5435102;6356921.75;-60,6938777;-32,9286148;Casilda & Felipe Moré, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FRANCIA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5437515,15;6354300,52;-60,6683585;-32,9524336;Av. Francia & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALSINA Y CENTENO,Rosario,Santa Fe,Argentina;5435867,08;6351454,06;-60,6860582;-32,9779755;Alsina & Centeno, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALEM Y BIEDMA,Rosario,Santa Fe,Argentina;5440448,61;6350908,58;-60,637091;-32,9831654;Cnel. M. Biedma & Leandro N. Alem, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PROVINCIAS UNIDAS Y SEGUI,Rosario,Santa Fe,Argentina;5433497,26;6352210,62;-60,7114123;-32,970998;Av. Provincias Unidas & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;FRANCIA Y PELLEGRINI,Rosario,Santa Fe,Argentina;5437515,15;6354300,52;-60,6683585;-32,9524336;Av. Francia & Av. Pellegrini, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;CAFFERATA Y SAAVEDRA,Rosario,Santa Fe,Argentina;5436532,31;6352113,83;-60,678892;-32,9720471;Saavedra & Cafferata, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;GODOY Y MATIENZO,Rosario,Santa Fe,Argentina;5435116,78;6353534,06;-60,6948869;-32,9352116;Sta Fe & Matienzo, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BIEDMA Y IRIONDO,Rosario,Santa Fe,Argentina;5436582,06;6351704,58;-60,6784082;-32,9757487;Iriondo & Cnel. M. Biedma, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;27 DE FEBRERO Y PTE PERON,Rosario,Santa Fe,Argentina;5435240,26;6353587,56;-60,6916438;-32,9585724;Av. Pres. Perón & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;24 DE SETIEMBRE Y RODRIGUEZ,Rosario,Santa Fe,Argentina;5437626,76;6351622,54;-60,6672558;-32,9765702;Rodríguez & 24 de Septiembre, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CERRITO Y GUATEMALA,Rosario,Santa Fe,Argentina;5432985,52;6354152,48;-60,7167009;-32,9534852;Guatemala & Cerrito, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RODRIGUEZ Y URQUIZA,Rosario,Santa Fe,Argentina;5438479,48;6355760,04;-60,6578493;-32,9392803;Rodríguez & Urquiza, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AVELLANEDA Y URUGUAY,Rosario,Santa Fe,Argentina;5435795,37;6352398,5;-60,6868794;-32,9694202;Uruguay & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;25 DE MAYO Y JUAN PABLO II,Rosario,Santa Fe,Argentina;5433897,14;6355974,94;-60,7223564;-32,9008087;25 de Mayo & Juan Pablo II, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RICCHIERI 1545,Rosario,Santa Fe,Argentina;5437823,63;6354441,8;-60,664936;-32,9509475;Riccheri 1545, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PROVINCIAS UNIDAS Y ZUVIRIA,Rosario,Santa Fe,Argentina;5433338885;6355987.55;-60,7128337;-32,9369512;Zuviría & Av. Provincias Unidas, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;DR RIVAS Y ROUILLON,Rosario,Santa Fe,Argentina;5434483,18;6351706,06;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OVIDIO LAGOS 4300,Rosario,Santa Fe,Argentina;5.437.268.017.062.910;6.350.885.318.202.150;-60,6709712;-32,980224;Av. Ovidio Lagos 4300, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;EVA PERON Y NICARAGUA,Rosario,Santa Fe,Argentina;5432553495;6356582.16;-60,7211505;-32,9315723;Calle Nicaragua & Av. Eva Perón, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;NUESTRA SRA DEL ROSARIO Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436870,4;6348919;-60,6755701;-33,0008953;Av. Ntra Sra del Rosario & Av. Ovidio Lagos, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;25 DE MAYO Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436741,952;6348141,684;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CORRIENTES Y MONTEVIDEO,Rosario,Santa Fe,Argentina;5439711,23;6353981,28;-60,6447897;-32,9554115;Montevideo & Corrientes, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;LAPRIDA Y SEGUI,Rosario,Santa Fe,Argentina;5439946,28;6351278,63;-60,6424283;-32,9797133;Laprida & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;ESMERALDA Y GARAY,Rosario,Santa Fe,Argentina;5441248,87;6351540,76;-60,6285041;-32,9774741;Esmeralda & Garay, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AVELLANEDA Y RIOJA,Rosario,Santa Fe,Argentina;5436463,84;6355642,38;-60,6793811;-32,9402461;Rioja & Bv. Avellaneda, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;2;J CURA Y PUEYRREDON,Rosario,Santa Fe,Argentina;5437898,05;6352296,69;-60,6642949;-32,9704941;Av. Jorge Cura & Pueyrredón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CALLO 3000,Rosario,Santa Fe,Argentina;5437666,62;6352536,96;-60,6666163;-32,968258;Callao 3000, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;FISHERTON,Rosario,Santa Fe,Argentina;;;-60,7389424;-32,9208226;Barrio Fisherton, Rosario, Santa Fe Province, Argentina
+2016;Julio;12:00 a 17:59;1;COLOMBRES Y EVA PERON,Rosario,Santa Fe,Argentina;5431749.04;6356748325;-60,7297431;-32,9299358;Colombres & Av. Eva Perón, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;SEGUI 5500,Rosario,Santa Fe,Argentina;5434779,47;6352235,63;-60,6975467;-32,9706025;Bv. Seguí 5500, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;AVELLANEDA Y JUNIN,Rosario,Santa Fe,Argentina;5436775,37;6357156,72;-60,6760518;-32,9265929;Junín & Bv. Avellaneda Bis, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PUEYRREDON Y SAN LUIS,Rosario,Santa Fe,Argentina;5438468,11;6355058,85;-60,6580771;-32,945607;Pueyrredón & San Luis, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;JUAN PABLO II Y SEGUI,Rosario,Santa Fe,Argentina;5433068,55;6352200,8;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CLAVEL Y MALVON,Rosario,Santa Fe,Argentina;5438125,1;6346996,39;-60,6622171;-33,0182851;Malvon & Clavel, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;BUSTAMANTE Y LAPRIDA,Rosario,Santa Fe,Argentina;5439534,22;6348822,01;-60,6470255;-33,001906;Sánchez de Bustamante & Laprida, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ITUZAINGO 484,Rosario,Santa Fe,Argentina;5440813,14;6353239,16;-60,6330619;-32,9622052;Ituzaingo 484, S2000EEJ Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;25 DE MAYO Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5436741,95;6348141,68;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALVEAR Y AMENABAR,Rosario,Santa Fe,Argentina;5438191,59;6352435,21;-60,6612539;-32,9692345;Alvear & Amenabar, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;SAN MARTIN 6300,Rosario,Santa Fe,Argentina;5439201,52;6347911,8;-60,6508767;-33,0099676;Av. San Martín 6300, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;OROÑO Y SEGUI,Rosario,Santa Fe,Argentina;5438161,8;6351644,86;-60,6614377;-32,9762975;Bv. Seguí & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AYACUCHO Y CABILDO,Rosario,Santa Fe,Argentina;5440580,1;6348268,63;-60,6358626;-33,0069706;Cabildo & Ayacucho, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;3;AVELLANEDA Y MOSCONI,Rosario,Santa Fe,Argentina;5435634,5;6350829,71;-60,6887804;-32,9836551;Mosconi & Bv. Avellaneda, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALSINA Y BIEDMA,Rosario,Santa Fe,Argentina;5435945,63;6351835,57;-60,6852263;-32,9745387;Alsina & Cnel. M. Biedma, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LAINEZ Y MELINCUE,Rosario,Santa Fe,Argentina;5439467,68;6348450,3;-60,6477469;-33,0052531;Melincue & Lainez, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;CONSTITUCION Y DEAN FUNES,Rosario,Santa Fe,Argentina;5436329,81;6352421,8;-60,6810954;-32,9692371;Constitución & Deán Funes, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ALZUGARAY Y BUENOS AIRES,Rosario,Santa Fe,Argentina;5439777,56;6347605,39;-60,6444954;-33,0128866;Alzugaray & Buenos Aires, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;AYACUCHO 6600,Rosario,Santa Fe,Argentina;5.440.677.849.883.930;6.347.406.876.598.160;-60,6355959;-33,0123916;Ayacucho 6600, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;LAPRIDA Y SAN JUAN,Rosario,Santa Fe,Argentina;5440628,08;6354476,24;-60,634943;-32,9509792;San Juan & Laprida, S2000 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;OVIDIO LAGOS Y URQUIZA,Rosario,Santa Fe,Argentina;5438225,07;6355812,51;-60,6605418;-32,9387856;Urquiza & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AVELLANEDA 4940,Rosario,Santa Fe,Argentina;5435599,84;6349424,37;-60,6887673;-32,9968303;Bv. Avellaneda 4940, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;COCHABAMBA Y ENTRE RIOS,Rosario,Santa Fe,Argentina;5439788,84;6353700,05;-60,6439764;-32,9579395;Cochabamba & Entre Ríos, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;CAMINO ALDAO Y SEGUI,Rosario,Santa Fe,Argentina;5435045,5;6352269,55;-60,6948098;-32,970529;Camilo Aldao & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BUENOS AIRES Y HILARION DE LA QUINTANA,Rosario,Santa Fe,Argentina;5439721,38;6348944,07;-60,6450116;-33,0008131;Hilarión de la Quintana & Buenos Aires, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AYACUCHO Y CENTENARIO,Rosario,Santa Fe,Argentina;5440565,34;6348612,85;-60,6359823;-33,0038626;Centenario & Ayacucho, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;COCHABAMBA Y SAN MARTIN,Rosario,Santa Fe,Argentina;5440189,77;6353617,78;-60,6396729;-32,9586935;Cochabamba & Av. San Martín, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SAN MARTIN Y URIBURU,Rosario,Santa Fe,Argentina;5439557,84;6350066,98;-60,6467357;-32,9907385;Av. San Martín & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ESPAÑA Y KHANTUTA,Rosario,Santa Fe,Argentina;5438610,22;6347678,11;-60,6570004;-33,012162;Khantuta & España, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;AYACUCHO Y BIEDMA,Rosario,Santa Fe,Argentina;5440568,95;6350883,65;-60,6358494;-32,9833588;Cnel. M. Biedma & Ayacucho, S2001 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;OROÑO Y PTE QUINTANA,Rosario,Santa Fe,Argentina;5438083,04;6351263,31;-60,6623126;-32,9798019;Pres. Quintana & Bv. Oroño, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;OVIDIO LAGOS Y SALTA,Rosario,Santa Fe,Argentina;5438305,6;6356202,66;-60,6596225;-32,9352989;Salta & Av. Ovidio Lagos, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BERNARDI Y CENTENARIO,Rosario,Santa Fe,Argentina;5439640,44;6348572,97;-60,645898;-33,0041609;Bernardi & Centenario, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;AYACUCHO Y URIBURU,Rosario,Santa Fe,Argentina;5440470,74;6350106,09;-60,6369382;-32,9904107;Ayacucho & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALVEAR Y DR RIVA,Rosario,Santa Fe,Argentina;5437929,08;6351162,03;-60,6640197;-32,9807112;Alvear & Dr. Riva, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CHACABUCO Y SEGUI,Rosario,Santa Fe,Argentina;5441017,64;6351058,28;-60,6311089;-32,9818873;Chacabuco & Bv. Seguí, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARIJON Y OROÑO,Rosario,Santa Fe,Argentina;5437858,29;6348633,53;-60,6651576;-33,0034992;Av. Arijon & Bv. Oroño, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ENTRE RIOS Y RUEDA,Rosario,Santa Fe,Argentina;5439500,99;6352299,27;-60,6471482;-32,970556;Rueda & Entre Ríos, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;BIEDMA Y OROÑO,Rosario,Santa Fe,Argentina;5438109,34;6351390,24;-60,6621592;-32,978654;Cnel. M. Biedma & Bv. Oroño, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BUENOS AIRES Y URIBURU,Rosario,Santa Fe,Argentina;5439850,43;6350079,87;-60,6435887;-32,9906346;Buenos Aires & Av. Uriburu, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ARIJON Y ITALIA,Rosario,Santa Fe,Argentina;5438405,74;6348656,67;-60,6591275;-33,0033293;Italia & Av. Arijon, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;SIN DATOS,Rosario,Santa Fe,Argentina;;;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;LAPRIDA Y RUIZ BARBOZA,Rosario,Santa Fe,Argentina;5439554,79;6348339,81;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;3;ALZUGARAY Y BUENOS AIRES,Rosario,Santa Fe,Argentina;5439777,56;6347605,39;-60,6444954;-33,0128866;Alzugaray & Buenos Aires, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;ARIJON Y PTE ROCA,Rosario,Santa Fe,Argentina;5438671,54;6348667,82;-60,6563763;-33,0032539;Pte Roca & Av. Arijon, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;BATTLE ORDOÑEZ Y ESPAÑA,Rosario,Santa Fe,Argentina;5438576,98;6348012,31;-60,6572855;-33,0091557;España & Av. Battle Y Ordóñez, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;2;OROÑO Y PTE QUINTANA,Rosario,Santa Fe,Argentina;5438083,04;6351263,31;-60,6623126;-32,9798019;Pres. Quintana & Bv. Oroño, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;ALVEAR Y DR RIVA,Rosario,Santa Fe,Argentina;5437929,08;6351162,03;-60,6640197;-32,9807112;Alvear & Dr. Riva, S2004 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CATAMARCA Y DORREGO,Rosario,Santa Fe,Argentina;5439422,02;6355838,42;-60,647755;-32,9386454;Dorrego & Catamarca, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;KANTUTA Y MORENO,Rosario,Santa Fe,Argentina;5438190,97;6347659,76;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CAUPOLICAN I Y  SADI CARNOT,Rosario,Santa Fe,Argentina;5439407,56;6347931,79;-60,6484271;-33,0099261;Sadi Carnot & Caupolican, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;DEAN FUNES Y LAS PALMERAS,Rosario,Santa Fe,Argentina;5431439,21;6352514,37;-60,7333807;-32,9681396;Av. de Las Palmeras & Deán Funes, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PUEYRREDON Y SAN JUAN,Rosario,Santa Fe,Argentina;5438442,29;6354934,35;-60,6583599;-32,9467228;Pueyrredón & San Juan, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ITALIA Y NUESTRA SRA DEL ROSARIO,Rosario,Santa Fe,Argentina;5438392,4;6348981,49;-60,659238;-33,0003914;Av. Ntra Sra del Rosario & Italia, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;4;LAPRIDA Y NUESTRA SRA DEL ROSARIO,Rosario,Santa Fe,Argentina;5439526,06;6349053,96;-60,6470965;-32,9998118;Av. Ntra Sra del Rosario & Laprida, S2011 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;27 DE FEBRERO Y OVIDIO LAGOS,Rosario,Santa Fe,Argentina;5437678,63;6353069,53;-60,6666947;-32,9635447;Av. Ovidio Lagos & Bv. 27 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;NECOCHEA 3970,Rosario,Santa Fe,Argentina;5440773,32;6350600,65;-60,6334659;-32,9858295;Necochea 3970, S2001GHB Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;PUNTA DEL INDIO Y VIÑAS DEL MAR,Rosario,Santa Fe,Argentina;5435799,22;6345782,02;-60,6871656;-33,0290778;Punta del Indio & Viña del Mar, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;ITUZANGO 7115,Rosario,Santa Fe,Argentina;5432965,52;6354263,81;-60,7169181;-32,9523649;Ituzaingó 7115, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;LA PAZ Y PASCUAL ROSAS,Rosario,Santa Fe,Argentina;5435446,88;6353931,43;-60,685822;-32,938002;Av Córdoba 4599, S2002LBE Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAN PABLO II Y SAN MARTIN,Rosario,Santa Fe,Argentina;5439070,1;6347284,46;-60,6513323;-33,0158286;A San Martín & Juan Pablo II, Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;GODOY CRUZ Y RONDEAU,Rosario,Santa Fe,Argentina;5435075,69;6361228,63;-60,6939668;-32,8898674;Godoy Cruz & Bv. Rondeau, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;GENOVA Y SABIN,Rosario,Santa Fe,Argentina;5435333,063;6358393,807;-60,6918634;-32,9153917;Av. Sabin & Av. Genova, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;AVELLANEDA 1000,Rosario,Santa Fe,Argentina;5436451,28;6355463,12;-60,6798547;-32,9416851;Bv. Avellaneda 1000, S2002 Rosario, Santa Fe, Argentina
+2016;Julio;0 a 5:59;1;VIEYTES 700,Rosario,Santa Fe,Argentina;5434977,94;6361500,13;-60,6947212;-32,887459;Vieytes 700, S2005MRN Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;2;3 DE FEBRERO Y BALCARCE,Rosario,Santa Fe,Argentina;5438889,99;6354539,39;-60,653521;-32,9503178;Balcarce & 3 de Febrero, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;3;BAIGORRIA Y ZELAYA,Rosario,Santa Fe,Argentina;5434793,17;6360945,65;-60,6968782;-32,8923264;Zelaya & Baigorria, S2005 Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;JUAN PABLO II Y SORRENTO,Rosario,Santa Fe,Argentina;5432395,28;6359163,18;-60,7227364;-32,9082425;Av. Sorrento & Juan Pablo II, S2006 Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;EUDORO CARRASCO 1600,Rosario,Santa Fe,Argentina;5.435.798.730.548.690;6.357.871.576.295.480;-60,6855661;-32,8928303;Av. Eudoro Carrasco 1600, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MONSENIS Y UGARTE,Rosario,Santa Fe,Argentina;5434543,8;6362779,84;-60,6994265;-32,8757477;Ugarte & Mont Cenis, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;CARRASCO Y TENIENTE AGNETA,Rosario,Santa Fe,Argentina;5434468,94;6357802,35;-60,7005987;-32,9206708;Tte. Agneta Bis & G. Carrasco, S2007 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CASTELLANO 1245,Rosario,Santa Fe,Argentina;5436757,43;6355056,41;-60,6765369;-32,9455181;Castellanos 1245, S2002RCI Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;2;AGRELO Y GURRUCHAGA,Rosario,Santa Fe,Argentina;5435656,23;6359568,14;-60,6877398;-32,9048002;Gurruchaga & Agrelo, S2005 Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;RIOJA Y SANTIAGO,Rosario,Santa Fe,Argentina;5438628,19;6355195,19;-60,6563586;-32,9443555;Santiago & Rioja, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;MACHAIN 1920,Rosario,Santa Fe,Argentina;5434620,41;6360463,15;-60,6988555;-32,8966069;Machaín 1920, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ESTANILAO LOPES Y FRANCIA,Rosario,Santa Fe,Argentina;5438139,33;6357311,57;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;ALBERT SABIN Y JUAN JOSE PASO,Rosario,Santa Fe,Argentina;5435560,62;6357933,73;-60,6427204;-32,9986009;Av Bermúdez & Regimiento 11, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CASIANO CASA Y WASHINGTON,Rosario,Santa Fe,Argentina;5434435,06;6359706,28;-60,7007434;-32,9034699;Washington & Av. Casiano Casas, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;CAVIA Y SUPERI,Rosario,Santa Fe,Argentina;5433619,26;6360443,21;-60,7094919;-32,8967837;Cavia & Superí, Rosario, Santa Fe, Argentina
+2016;Julio;6:00 a 11:59;1;PROVINCIAS UNIDAS 1400,Rosario,Santa Fe,Argentina;5433403,84;6355134,17;-60,7124688;-32,9445893;Av. Provincias Unidas 1400, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;FERNANDEZ Y MEDRANO,Rosario,Santa Fe,Argentina;5434096,52;6362191,99;-60,7042528;-32,8810183;J. M. Fernández & Medrano, Rosario, Santa Fe, Argentina
+2016;Julio;18:00 a 23:59;1;PELLEGRINI Y PROVINCIAS UNIDAS,Rosario,Santa Fe,Argentina;5433399,41;6354695,72;-60,7123158;-32,9486565;Av. Provincias Unidas & Av. Pellegrini, Rosario, Santa Fe, Argentina
+2016;Julio;12:00 a 17:59;1;G DEL COSSIO Y JUAN B JUSTO,Rosario,Santa Fe,Argentina;5430147,91;6358307,83;-60,7467834;-32,9158381;García del Cossio & Juan B. Justo, S2006 Rosario, Santa Fe, Argentina

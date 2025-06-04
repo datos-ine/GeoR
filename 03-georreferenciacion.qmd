@@ -1,0 +1,228 @@
+---
+title: "Georeferenciación"
+subtitle: "Residencia de Epidemiología"
+format: 
+  revealjs:
+    self-contained: true
+    width: 1920
+    height: 1080
+    slide-number: true
+    transition: fade
+    theme: [simple, img/custom.scss]
+    logo: img/INE.gif
+    footer: "Instituto Nacional de Epidemiología"
+---
+
+```{r setup, include=F}
+#| label: setup
+#| include: false
+
+
+library(quarto)
+library(fontawesome)
+library(tidyverse)
+```
+
+
+## Georreferenciación {.title-top}
+
+. . . 
+
+- La georreferenciación es la técnica de posicionamiento espacial de un elemento en una localización geográfica única y bien definida dentro de un sistema de coordenadas y datum específicos.
+
+. . . 
+
+- Mas coloquialmente podemos decir que georreferenciar es obtener la `latitud` y `longitud` de un punto en el espacio. 
+
+. . . 
+
+- Generalmente se georreferencian puntos pero se puede aplicar la misma técnica para otras geometrías.
+
+. . . 
+
+- La georreferenciación es un aspecto fundamental en el análisis de datos geoespaciales.
+
+
+## API´s de conversión por dirección {.title-top}
+
+<br>
+
+- La mayoría de las entidades que deseamos ubicar en el mapa representan a la morbilidad  o mortalidad, es decir casos de una enfermedad o muertos por diferentes causas.
+
+. . .
+
+
+
+- Solemos, entonces tener la dirección de residencia o donde sucedió un determinado evento (accidente vial, por ejemplo) y por lo tanto queremos convertir esa dirección en latitud y longitud. La otra forma es capturar el dato en el lugar con un GPS.
+
+. . .
+
+- Existen servicios gratuitos y comerciales de servidores de goecodificación a los cuales se puede acceder de diferentes formas. Una de ellas es conectarnos a su API mediante el lenguaje R (usando paquetes).
+
+## OpenStreetMap {.title-top}
+
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Es un proyecto colaborativo de fuente abierta, también llamado OSM. Los servidores Fundación OpenStreetMap se alojan principalmente en la University College de Londres (UCL) y la Imperial College London (ILC).
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- OSM utiliza una estructura de datos topológica. Los datos se almacenan en el datum WGS84 lat/lon (EPSG:4326).
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- A la API de acceso se llega desde la función `geocode_OSM()` del paquete **tmaptools** del lenguaje R. 
+
+:::
+
+## tmaptools {.title-top}
+
+<br>
+
+- ofrece un conjunto de funciones para procesar datos espaciales.
+
+. . .
+
+- la función `geocode_osm()` geocodifica una ubicación (basándose en una consulta de búsqueda) usando la API de OpenStreetMap Nominatim.
+
+. . .
+
+- sus argumentos principales son **q** (vector de caracteres con la dirección del punto), **as.data.frame** (si es *TRUE* devuelve un dataframe) y **as.sf** (si es *TRUE* devuelve un objeto `sf`)  
+
+. . .
+
+- La estructura de búsqueda contempla altura de calle, nombre de calle, ciudad, departamento, provincia, país y código postal o fracción del encadenado.
+
+## tidycoder {.title-top}
+
+<br>
+
+-  facilita la obtención de datos de servicios de geocodificación
+
+. . .
+
+- accede a distintos servidores de geocodificación:
+
+  - OSM (Nominatim) (gratis - 1 una consulta por segundo)
+  - ArcGIS (gratis)
+  - Geocodio (token requerido - 1000 consultas por minuto)
+  - Google (token requerido - 50 consultas por segundo)
+  
+. . .
+  
+- En su [sitio](https://jessecambon.github.io/tidygeocoder/articles/geocoder_services.html) estan los detalles de los 13 servidores.  
+  
+
+## Visualización de puntos {.title-top}
+
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Abre la puerta al análisis de puntos, que es la descripción de patrones de puntos en el espacio y en la inferencia sobre el proceso que podría haber generado un patrón observado.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Se trata de cuantificar los patrones de variación espacial y comprender causas y consecuencias de los patrones teniendo en cuenta que todas las cosas están relacionadas entre sí, pero las cosas más próximas en el espacio tienen una relación mayor que las distantes (dependencia espacial - [Tobler 1970](https://doi.org/10.2307/143141))
+
+:::
+
+## Visualización de puntos {.title-top}
+
+<br>
+
+. . .
+
+- Para crear mapas de puntos podemos usar funciones del paquete `tmap` o `ggplot2` (solo estáticos) como hicimos con los mapas de polígonos.
+
+. . .
+
+
+- Necesitamos que lo puntos obtenidos directamente con GPS o georreferenciados esten en una capa `sf`.
+
+. . .
+
+
+- Se utilizan elementos geométricos como puntos, símbolos o marcadores para su visualización.
+
+
+. . .
+
+- Muchas veces la ubicación de los puntos vulnera la confidencialidad de los datos de información sensible (por ejemplo, residencia de personas), otras son posibles (lugares donde ocurrieron accidentes de tránsito). 
+
+## leaflet {.title-top}
+
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- `leaflet` es una librería de JavaScript de código abierto para crear mapas interactivos en HTML
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- El [paquete de R `leaflet`](https://rstudio.github.io/leaflet/index.html) nos permite conectarnos a esta libreria sin conocer JavaScript 
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Podemos combinar marcadores, polígonos, etc usando los formatos de `sf` o en dataframes con columnas con latitud/longitud
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Predeterminademente usa de fondo el mapa de OpenStreetMap.
+
+:::
+
+
+## Ejemplo con leaflet {.title-top}
+
+<br>
+
+Accidentes de transito en la ciudad de Rosario - Santa Fe - Argentina agrupados por rango horario de ocurrencia - Julio 2016
+
+```{r}
+#| echo: false
+#| message: false
+#| fig-align: center
+
+
+library(leaflet)
+
+
+dire <- read_csv2("datos/Rosario.csv", 
+                  locale = locale(encoding = "WINDOWS-1252")) 
+
+
+## accidentes según franja horaria
+
+leaflet(width = 1200, height = 600) |>
+  addTiles() |>
+  addCircleMarkers(data = dire[dire$Rango.horario=="0 a 5:59",], 
+                   group = "0 a 5:59", color = "#A60000", radius = 4) |>
+  addCircleMarkers(data = dire[dire$Rango.horario=="6:00 a 11:59",], 
+                   group = "6:00 a 11:59", color = "#2818B1", radius = 4) |>
+  addCircleMarkers(data = dire[dire$Rango.horario=="12:00 a 17:59",], 
+                   group = "12:00 a 17:59", color = "#4B9500", radius = 4) |> 
+  addCircleMarkers(data = dire[dire$Rango.horario=="18:00 a 23:59",], 
+                   group = "18:00 a 23:59", color = "#FF9900", radius = 4) |>
+  
+  addLayersControl(
+    overlayGroups = c("0 a 5:59", "6:00 a 11:59", "12:00 a 17:59", "18:00 a 23:59"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+
+```
+

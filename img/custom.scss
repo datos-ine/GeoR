@@ -60,3 +60,16 @@ $link-color: #693ab8;
 .centered{
 text-align: center;
 }
+
+.leaflet-control-layers {
+  max-height: 180px;
+  overflow: auto;
+}
+
+.leaflet-control-layers-expanded {
+    font-size: 24px; /* Cambia el valor de píxeles según tus necesidades */
+}
+
+.leaflet-control-layers-list {
+    font-size: 24px; /* Cambia el valor de píxeles según tus necesidades */
+}
