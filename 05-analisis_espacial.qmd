@@ -1,0 +1,229 @@
+---
+title: "Análisis espacial"
+subtitle: "Residencia de Epidemiología"
+format: 
+  revealjs:
+    self-contained: true
+    width: 1920
+    height: 1080
+    slide-number: true
+    transition: fade
+    theme: [simple, img/custom.scss]
+    logo: img/INE.gif
+    footer: "Instituto Nacional de Epidemiología"
+---
+
+```{r setup, include=F}
+#| label: setup
+#| include: false
+
+
+library(quarto)
+library(fontawesome)
+library(tidyverse)
+```
+
+
+## Estructura espacial {.title-top}
+
+<br>
+
+
+
+## Kriging {.title-top}
+
+<br>
+
+- El método de **Kriging** es una interpolación espacial utilizada para obtener predicciones en ubicaciones no muestreadas a partir de datos geoestadísticos observados.
+
+- Se originó en el campo de la geología minera y lleva el nombre del ingeniero de minas sudafricano *Danie G. Krige*.
+
+- Asume que lo cercano es más parecido a lo que está lejos.
+
+- Realiza un promedio ponderado de los valores conocidos. Esta ponderación surge de ajustar previamente un modelo de variograma a los datos observados, lo que nos ayuda a comprender cómo cambia la correlación entre los valores de observación con la distancia entre ubicaciones.
+
+## Variograma {.title-top}
+
+::: {.fragment .fade-in-then-semi-out}
+
+- El variograma, también llamado semivariograma, muestra cómo varía una variable según la distancia entre los puntos.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Mide la diferencia promedio entre los valores de una variable para pares de puntos que están a cierta distancia.
+  - Si dos puntos están muy cerca, normalmente tienen valores similares, así que la diferencia (llamada semivarianza) es baja.
+  - Si dos puntos están más lejos, sus valores tienden a ser más distintos, así que la semivarianza aumenta.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Sirve para modelar la estructura espacial de los datos, calcular los pesos que el kriging usa para estimar valores nuevos y saber hasta qué distancia los datos están espacialmente relacionados.
+
+:::
+
+## Variograma {.title-top}
+
+<br>
+
+El gráfico del variograma tiene como parámetros principales:
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+- **Nugget**: es el valor de origen (distancia = 0), representa errores de medición, errores aleatorios, etc
+
+
+- **Sill**: "meseta", es el valor máximo que alcanza la semivarianza.Muestra cuánta variabilidad total tiene la variable.
+
+- **Range**: "alcance", es la distancia a partir de la cual los puntos dejan de estar correlacionados (más allá de esa distancia, los valores ya no se parecen entre sí)
+
+:::
+
+::: {.column width="40%"}
+
+<br>
+
+![](img/05/Variograma.png){fig-align="center"}
+:::
+
+::::
+
+## Variograma {.title-top}
+
+. . . 
+
+- Primero ejecutamos un variograma empírico a través de `variogram()` de **gstat**
+
+. . .
+
+- Luego, y en función del gráfico observado, usando `vgm()` ajustamos un modelo de variograma. Aquí debemos elegir los parámetros estimados en el paso anterior (nugget, still y range) y el modelo.
+
+. . .
+
+- Los modelos posibles son "Exp", "Sph", "Gau", "Mat", etc. Cada uno tiene sus características que habrá que adaptar a lo que dicen los datos.
+
+
+
+- Finalmente ajustamos el modelo al variograma empírico con `fit.variogram()` y vemos si lo teórico ajusta bien en nuestros datos.
+
+## Kriging {.title-top}
+
+<br>
+
+El kringing se efectúa usando los datos, más la gilla de puntos a estimar junto con el semivariograma ajustado final.
+
+:::: {.columns}
+
+::: {.column width="34%"}
+
+![](img/05/zinc1.PNG){fig-align="center"  width=100%}
+
+:::
+
+::: {.column width="33%"}
+
+![](img/05/zinc2.PNG){fig-align="center"  width=100%}
+
+:::
+
+::: {.column width="33%"}
+
+![](img/05/zinc3.PNG){fig-align="center" width=100%}
+
+:::
+
+::::
+
+
+
+## I de Moran {.title-top}
+
+<br>
+
+- El índice de Moran mide la autocorrelación espacial global y fue desarrollada por **Patrick Moran**. 
+
+. . .
+
+- La autocorrelación espacial positiva se produce cuando el I de Moran es cercano a +1 (1 es igual a autorrelación perfecta)
+
+. . .
+
+- La autocorrelación espacial negativa ocurre cuando el I de Moran es cercano a -1 (-1 es igual a dispersión perfecta)
+
+## I de Moran global {.title-top}
+
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- La función `moran.test()` del paquete **spdep** se puede utilizar para obtener la autocorrelación espacial utilizando el algoritmo de I de Moran.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Sus argumentos son un vector numérico con los datos, una lista con las ponderaciones espaciales y el tipo de hipótesis. La hipótesis puede establecerse como igual a *greater* (valor predeterminado), *less* o *two.sided* como hipótesis alternativa diferente.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- $H_0: I \leq E[I]$ no autocorrelación espacial
+- $H_1: I > E[I]$ autocorrelación espacial positiva
+:::
+
+## I de Moran global {.title-top}
+
+- La función `moran.plot()` se puede utilizar para construir un diagrama de dispersión de índices de Moran para visualizar la autocorrelación espacial de los datos.
+
+- Este gráfico muestra las observaciones de cada área en relación con sus valores rezagados espacialmente. 
+
+- El valor rezagado espacialmente para un área determinada se calcula como un promedio ponderado de los valores vecinos de esa área.
+
+
+![](img/05/dispersion_moran.PNG){fig-align="center" width=100%}
+
+## I de Moran local {.title-top}
+
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Vimos como el I de Moran global proporciona un índice para evaluar la autocorrelación espacial para toda la región de estudio.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Si deseamos obtener una medida local de similitud entre el valor de cada área y los de áreas cercanas, necesitamos por ejemplo el I de Moran local (es una de las LISA más populares) 
+
+:::
+
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Los indicadores locales de asociación espacial (LISA) ([Anselin 1995](https://onlinelibrary.wiley.com/doi/10.1111/j.1538-4632.1995.tb00338.x)) están diseñados para proporcionar el grado de agrupamiento espacial significativo de valores similares alrededor de cada observación. 
+
+:::
+
+## I de Moran local {.title-top}
+
+<br>
+
+- La función `localmoran()` del paquete **spdep** se puede utilizar para calcular el I de Moran local.
+
+. . . 
+
+- Sus argumentos son: un vector numérico con los valores de la variable, una lista con los pesos vecinos y el nombre de una hipótesis alternativa que puede establecerse como *greater* [valor predeterminado], *less* o *two.sided*.
+
+. . . 
+
+- El objeto devuelto contiene importantes variables:
+  - `Ii`: I de Moran local para cada área
+  - `Pr(z > E(Ii))`, `Pr(z < E(Ii))` o `Pr(z != E(Ii))`: valor p para una hipótesis alternativa. *greater*, *less* o *two.sided*, respectivamente.
+  
+  

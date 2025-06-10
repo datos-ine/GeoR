@@ -23,6 +23,33 @@ library(fontawesome)
 library(tidyverse)
 ```
 
+## Patrones espaciales de puntos {.title-top}
+
+<br>
+
+Un "patrón espacial de puntos" es un conjunto de datos que proporciona las ubicaciones espaciales observadas de objetos o eventos. 
+
+En epidemiología podemos encontrar, por ejemplo:
+
+- Accidentes de tránsito 
+
+- Contaminación atmosférica
+
+- Casos de enfermedades o muertes
+
+- Trampas de vectores
+
+- Delitos
+
+## Análisis espacial {.title-top}
+
+<br>
+
+>Las técnicas de estadística clásica suponen estudiar variables aleatorias que se consideran independientes e idénticamente distribuidas (i.i.d.). Por ello, al momento de analizar fenómenos que varían en el espacio (también para la variación temporal) se requiere una modelación que considere la autocorrelación espacial (o temporal o ambas).
+
+. . . 
+
+>Cuando se tienen datos espaciales intuitivamente se tiene la noción de que las observaciones cercanas están correlacionadas, por ello es necesario utilizar herramientas de análisis que consideren dicha estructura.
 
 ## Autocorrelación espacial {.title-top}
 
@@ -163,7 +190,7 @@ Transforma matemáticamente un conjunto de puntos georreferenciados en una super
 
 ::: {.fragment .fade-in-then-semi-out}
 
-- Las campanas se suman. Donde hay muchos puntos cerca unos de otros, las campanas se superponen y la “altura” (densidad) resultante es mayor.
+- Las campanas se suman. Donde hay muchos puntos cerca unos de otros, las campanas se superponen y la “altura” (densidad) resultante es mayor, es decir se ponderan los eventos en función de su distancia.
 
 :::
 
@@ -176,7 +203,7 @@ Transforma matemáticamente un conjunto de puntos georreferenciados en una super
 ## Densidad de kernel (KDE) {.title-top}
 
 
-- Se usa para identificar zonas calientes (hotspots) o de concentración.
+- Se usa para identificar zonas calientes (hotspots) o de concentración, con una estimación precisa de la densidad de eventos en un espacio contínuo.
 
 . . . 
 
@@ -201,9 +228,9 @@ Transforma matemáticamente un conjunto de puntos georreferenciados en una super
 . . . 
 
 
-- El paquete **gstat** para el modelado, predicción y simulación geoestadística espacial tiene varias funciones interesantes entre ellas una necesaria para poder interpolar por la inversa distancia ponderada, denominada `idw()` 
+- El paquete **gstat** para el modelado, predicción y simulación geoestadística espacial tiene varias funciones interesantes entre ellas: `gstat()` que crea objetos de esa clase e `idw()` para poder interpolar por la inversa distancia ponderada.
 
 . . . 
 
-- El paquete **spatstat** para análisis de patrones de puntos espaciales, permite por ejemplo generar densidades de kernel mediante su función `density()`
+- El paquete **spatstat** para análisis de patrones de puntos espaciales, junto con **raster**, permite por ejemplo generar densidades de kernel mediante su función `density()`
 
