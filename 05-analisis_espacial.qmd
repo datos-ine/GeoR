@@ -154,6 +154,25 @@ El kringing se efectúa usando los datos, más la gilla de puntos a estimar junt
 
 - La autocorrelación espacial negativa ocurre cuando el I de Moran es cercano a -1 (-1 es igual a dispersión perfecta)
 
+## I de Moran {.title-top}
+
+<br>
+
+El Indice se utiliza para:
+
+. . .
+
+- Comprender la variación de un fenómeno en un marco geográfico de análisis.
+
+. . .
+
+- Medir como se distribuyen lo fenómenos analizados en el espacio geográfico ([Goodchild 1986](https://books.google.com/books/about/Spatial_Autocorrelation.html?id=2BYnAQAAIAAJ)).
+
+. . .
+
+- Medir el grado en el que la variable geográfica esta correlacionada con ella misma en dos puntos o zonas diferentes del área de estudio.
+
+
 ## I de Moran global {.title-top}
 
 <br>
@@ -175,6 +194,33 @@ El kringing se efectúa usando los datos, más la gilla de puntos a estimar junt
 - $H_0: I \leq E[I]$ no autocorrelación espacial
 - $H_1: I > E[I]$ autocorrelación espacial positiva
 :::
+
+## I de Moran global {.title-top}
+
+<br>
+
+
+::: {.fragment .fade-in-then-semi-out}
+
+**El p-valor no es estadísticamente significativo**: No podemos rechazar la hipótesis nula. Es posible que la distribución espacial de los valores de entidades sea el resultado de procesos espaciales aleatorios. 
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+**El p-valor es estadísticamente significativo e I de Moran positivo**: Podemos rechazar la hipótesis nula. La distribución espacial de los valores altos y los valores bajos está más agrupada espacialmente de lo que se esperaría si los procesos espaciales subyacentes fueran aleatorios.
+
+:::
+::: {.fragment .fade-in-then-semi-out}
+
+**El p-valor es estadísticamente significativo e I de Moran negativo**: Podemos rechazar la hipótesis nula. La distribución espacial de los valores altos y los valores bajos está más dispersa espacialmente de lo que se esperaría si los procesos espaciales subyacentes fueran aleatorios. 
+:::
+
+## I de Moran global {.title-top}
+
+<br>
+
+![](img/05/Moran.PNG){fig-align="center"  width=100%}
 
 ## I de Moran global {.title-top}
 
