@@ -24,7 +24,7 @@ library(tidyverse)
 ```
 
 
-## Operaciones con datos de atributos (variables) {.title-top}
+## Datos espaciales {.title-top}
 
 . . . 
 
@@ -47,6 +47,16 @@ library(tidyverse)
 - Ejemplo de ID nomenclados: códigos estadísticos del INDEC en polígonos (provincia, departamento, etc)
 
 
+## Datos espaciales {.title-top}
+
+<br>
+
+- Datos de area: datos agregados dentro de areas o poligonos. Mapas coropleticos
+
+- Datos geoestadisticos: variables continuas que se desarrollan sobre el territorio. Metodos de interpolacion. Prediccion de valores
+
+- Patrones de punto: variables asociadas a puntos. Conteo de eventos. Proceso espacial subyacente que origina el patrón de puntos y evaluacion si este presenta aleatoriedad, agrupamiento o regularidad.
+
 ## Visualización espacial de datos de salud {.title-top}
 
 <br>
@@ -55,9 +65,11 @@ Dentro de los formatos vectoriales habitualmente los datos de salud que deseamos
 
 . . .
 
-<br>
+Variables medioambientales, como contaminacion atmosferica de estaciones de monitores o de suelo
+ donde a partir de una muestra se predice toda lamatriz del area.
+. . . 
 
-Cuando se trata de puntos, es posible que la información a presentar no se encuentre agrupada porque puede pertenecer a un caso puntual. (tener cuidado con la confidencialidad de los datos cuando se trate de individuos - se suelen crear mapas de calor u otra transformación para anonimizar datos)
+Patrones de puntos, como accidentes transito, casos de una enfermedad, etc. (tener cuidado con la confidencialidad de los datos cuando se trate de individuos - se suelen crear mapas de calor u otra transformación para anonimizar datos). 
 
 ## Mapas de áreas {.title-top}
 

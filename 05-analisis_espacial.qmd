@@ -272,4 +272,24 @@ El Indice se utiliza para:
   - `Ii`: I de Moran local para cada área
   - `Pr(z > E(Ii))`, `Pr(z < E(Ii))` o `Pr(z != E(Ii))`: valor p para una hipótesis alternativa. *greater*, *less* o *two.sided*, respectivamente.
   
-  
+## I de Moran local {.title-top}
+
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- A diferencia del global, el I de Moran local no está acotado en el mismo rango teórico, dado que no se normaliza. Solo está relacionado con una covarianza local entre una observación y el promedio de sus vecinos.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Esta situación provoca que podamos encontrar valores de I de Moran local mayores a 1 o menores a -1.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Para interpretarlos debemos prestar atención al signo del valor (positivo = clúster; negativo = outlier) y a su significación estadística (p-valor))
+
+:::
