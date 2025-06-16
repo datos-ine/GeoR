@@ -51,25 +51,24 @@ library(tidyverse)
 
 <br>
 
-- Datos de area: datos agregados dentro de areas o poligonos. Mapas coropleticos
+- **Datos de área**: datos agregados dentro de áreas o polígonos. Mapas corópleticos
 
-- Datos geoestadisticos: variables continuas que se desarrollan sobre el territorio. Metodos de interpolacion. Prediccion de valores
+- **Datos geoestadísticos**: variables continuas que se desarrollan sobre el territorio. Métodos de interpolación. Predicción de valores
 
-- Patrones de punto: variables asociadas a puntos. Conteo de eventos. Proceso espacial subyacente que origina el patrón de puntos y evaluacion si este presenta aleatoriedad, agrupamiento o regularidad.
+- **Patrones de punto**: variables asociadas a puntos. Conteo de eventos. Proceso espacial subyacente que origina el patrón de puntos y evaluación si este presenta aleatoriedad, agrupamiento o regularidad.
 
 ## Visualización espacial de datos de salud {.title-top}
 
 <br>
 
-Dentro de los formatos vectoriales habitualmente los datos de salud que deseamos visualizar, en forma directa, son agregados o resumidos a un área determinada. Por ejemplo: indicadores pertenecientes a un departamento o provincia, como una tasa o un promedio para un determinado año.
+Dentro de los formatos vectoriales, habitualmente los datos de salud que deseamos visualizar, en forma directa, son agregados o resumidos a un área determinada. Por ejemplo: indicadores pertenecientes a un departamento o provincia, como una tasa o un promedio para un determinado año.
 
 . . .
 
-Variables medioambientales, como contaminacion atmosferica de estaciones de monitores o de suelo
- donde a partir de una muestra se predice toda lamatriz del area.
+Variables medioambientales, como contaminación atmosférica de estaciones de monitores o de suelo donde a partir de una muestra se predice toda la matriz del área.
 . . . 
 
-Patrones de puntos, como accidentes transito, casos de una enfermedad, etc. (tener cuidado con la confidencialidad de los datos cuando se trate de individuos - se suelen crear mapas de calor u otra transformación para anonimizar datos). 
+Patrones de puntos, como accidentes tránsito, casos de una enfermedad, etc. (cuidado con la confidencialidad de los datos cuando se trate de individuos - se suelen crear mapas de calor u otra transformación para anonimizar datos). 
 
 ## Mapas de áreas {.title-top}
 
@@ -164,7 +163,7 @@ Patrones de puntos, como accidentes transito, casos de una enfermedad, etc. (ten
 
 . . .
 
-- **Contínuas**: representan variables numéricas contínuas con colores en gradientes del tono más claro (blanco) al más oscuro (negro).
+- **Continuas**: representan variables numéricas contínuas con colores en gradientes del tono más claro (blanco) al más oscuro (negro).
 
 . . .
 

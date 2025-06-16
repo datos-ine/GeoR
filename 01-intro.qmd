@@ -53,13 +53,15 @@ Se espera que al finalizar este taller lxs participantes puedan:
 
 <br>
 
-Durante la cursada vamos a trabajar con diapositivas, materiales de lectura-consulta, trabajos prácticos y diferentes recursos que estarán publicados en el sitio <https://datos-ine.github.io/GeoR/>
+Durante la cursada vamos a trabajar con diapositivas, trabajos prácticos y diferentes recursos que estarán publicados en el sitio <https://datos-ine.github.io/Residencia-INE/espacial.html>
 
 <br>
 
-El taller tendrá  5 encuentros presenciales, los días ....
+El taller tendrá  5 encuentros presenciales:
 
 -   Constarán de una exposición del tema a partir de diapositivas y una parte práctica (con un script guiado).
+
+- Luego un TP para que desarrollen por cada encuentro.
 
 - Recuerden que me ubican al mail <christianballejo@gmail.com> y mi Whatsapp `223-5309396`
 
@@ -68,9 +70,11 @@ El taller tendrá  5 encuentros presenciales, los días ....
 <br>
 
 - El interés en la epidemiología espacial comenzó con el reconocimiento de los mapas como herramientas útiles para esclarecer las posibles “causas” de las enfermedades.
-- Representa a una de las tres variables fundamentales en epidemiología (lugar) y parte de la triada ecológica (medio ambiente)
+- Representa a una de las tres variables fundamentales en epidemiología (tiempo-**lugar**-persona) y es parte de la triada ecológica (medio ambiente)
 
 <br>
+
+. . . 
 
 > Por lo tanto, reconocemos que todo espacio geográfico poblacional, porta una historia ecológica, biológica, económica, conductual y cultural que se relaciona con la manera de enfermar. 
 
@@ -262,11 +266,9 @@ Algunas conocidas son Mercator, Gauss-Krüger y Lambert Equiareal.
 
 - se trata de un formato de dato que se centra en las propiedades del espacio y es el más adecuado cuando se desea modelizar variables continuas en el espacio, como por ejemplo: *temperatura superficial de la Tierra*.
 
-- el **píxel** es la menor unidad de información y determina la **resolución espacial** de
-una imagen raster. 
+- el **píxel** es la menor unidad de información y determina la **resolución espacial** de una imagen raster. 
 
-- cuanto mayor es la resolución espacial, menor es el tamaño del píxel en unidades
-sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 30m significa que no podrá discriminar entre dos objetos que se encuentren separadas a una distancia menor de 30m.
+- cuanto mayor es la resolución espacial, menor es el tamaño del píxel en unidades sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 30m significa que no podrá discriminar entre dos objetos que se encuentren separadas a una distancia menor de 30m.
 
 ## Formato vectorial {.title-top} 
 
@@ -394,6 +396,16 @@ a una altura aproximada de 20.200 km, con trayectorias sincronizadas para cubrir
 
 - los formatos de uso más común son ESRI shapefile (**shp**), GeoJSON (**json**), rds nativos de R, MapInfo, Carto, etc. 
 
+## Paquetes antigüos {.title-top}
+
+<br>
+
+Paquetes como `sp`, `rgdal`, `rgeos` y `maptools` (*Bivand, Keitt y Rowlingson, 2023 - Bivand y Rundel, 2022 - Bivand y Lewin-Koh, 2022*) se ocupaban de los datos especiales y de conectar con la librería **GDAL**. 
+
+No eran compatibles con tidyverse y su diseño interno mas complejo. 
+
+Ya no se mantienen, es decir perdieron soporte, y proximamente se retirarán. 
+
 ## Paquetes en R {.title-top}
 
 :::: {.columns}
@@ -475,9 +487,9 @@ a una altura aproximada de 20.200 km, con trayectorias sincronizadas para cubrir
 
 <br>
 
-- incluye funciones para crear, leer, manipular y escribir datos ráster. 
+- Principal paquete para trabajo con ráster. Incluye funciones para crear, leer, manipular y escribir datos espaciales. 
 
-- permite leer archivos raster grandes desde el disco rigido directamente (sin cargarlos completos en la RAM).
+- permite leer archivos raster grandes desde el disco rigido directamente (sin cargarlos completos en la RAM). Generalmente `Geotiff`.
 
 - provee dos clases: SpatRaster (`rast()`) y SpatVector (`vect()`)
 

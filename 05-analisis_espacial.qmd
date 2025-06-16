@@ -23,10 +23,16 @@ library(fontawesome)
 library(tidyverse)
 ```
 
-
-## Estructura espacial {.title-top}
+## Análisis espacial {.title-top}
 
 <br>
+
+>Las técnicas de estadística clásica suponen estudiar variables aleatorias que se consideran independientes e idénticamente distribuidas (i.i.d.). Por ello, al momento de analizar fenómenos que varían en el espacio (también para la variación temporal) se requiere una modelación que considere la autocorrelación espacial (o temporal o ambas).
+
+. . . 
+
+>Cuando se tienen datos espaciales intuitivamente se tiene la noción de que las observaciones cercanas están correlacionadas, por ello es necesario utilizar herramientas de análisis que consideren dicha estructura.
+
 
 
 
@@ -138,6 +144,37 @@ El kringing se efectúa usando los datos, más la gilla de puntos a estimar junt
 
 ::::
 
+## Vecindad espacial {.title-top}
+
+<br>
+
+::: {.fragment .fade-in-then-semi-out}
+
+- El concepto de vecindad espacial es útil para la exploración de datos de áreas, con el fin de evaluar la autocorrelación espacial y determinar si las áreas cercanas presentan valores similares o diferentes. 
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- Los vecinos espaciales pueden definirse de diversas maneras, según la variable de interés y el contexto específico. La definición más simple de vecindad supone que los vecinos son áreas que comparten un límite común.
+
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+
+- También podemos ampliar el concepto de vecindad para incluir áreas cercanas, pero no necesariamente adyacentes, asumiendo que los vecinos son áreas que se encuentran a cierta distancia entre sí.
+
+:::
+
+## Autocorrelación espacial {.title-top}
+
+<br>
+
+La autocorrelación espacial se utiliza para describir el grado en que una variable está correlacionada consigo misma a través del espacio
+
+La autocorrelación espacial positiva ocurre cuando las observaciones con valores similares están más cerca entre sí (es decir, agrupadas). La autocorrelación espacial negativa ocurre cuando las observaciones con valores diferentes están más cerca entre sí (es decir, dispersas)
+
+![](img/05/autocorrelacion_espacial.PNG){fig-align="center"}
 
 
 ## I de Moran {.title-top}

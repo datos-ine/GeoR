@@ -1,5 +1,5 @@
 ---
-title: "Análisis de patrones de puntos"
+title: "Análisis geoestadístico y de patrones de puntos"
 subtitle: "Residencia de Epidemiología"
 format: 
   revealjs:
@@ -23,43 +23,25 @@ library(fontawesome)
 library(tidyverse)
 ```
 
-## Patrones espaciales de puntos {.title-top}
+## Datos geoestadísticos {.title-top}
 
 <br>
 
-Un "patrón espacial de puntos" es un conjunto de datos que proporciona las ubicaciones espaciales observadas de objetos o eventos. 
+::: {.fragment .fade-in-then-semi-out}
 
-En epidemiología podemos encontrar, por ejemplo:
+- Los datos geoestadísticos proporcionan información sobre un fenómeno espacialmente continuo medido en sitios específicos.
 
-- Accidentes de tránsito 
-
-- Contaminación atmosférica
-
-- Casos de enfermedades o muertes
-
-- Trampas de vectores
-
-- Delitos
-
-## Análisis espacial {.title-top}
+:::
 
 <br>
 
->Las técnicas de estadística clásica suponen estudiar variables aleatorias que se consideran independientes e idénticamente distribuidas (i.i.d.). Por ello, al momento de analizar fenómenos que varían en el espacio (también para la variación temporal) se requiere una modelación que considere la autocorrelación espacial (o temporal o ambas).
+::: {.fragment .fade-in-then-semi-out}
 
-. . . 
+- Este tipo de datos puede representar, por ejemplo, los niveles de contaminación del aire registrados en un conjunto de estaciones de monitoreo o datos de encuestas de prevalencia de enfermedades en un conjunto de sitios.
 
->Cuando se tienen datos espaciales intuitivamente se tiene la noción de que las observaciones cercanas están correlacionadas, por ello es necesario utilizar herramientas de análisis que consideren dicha estructura.
+:::
 
-## Autocorrelación espacial {.title-top}
 
-<br>
-
-La autocorrelación espacial se utiliza para describir el grado en que una variable está correlacionada consigo misma a través del espacio
-
-La autocorrelación espacial positiva ocurre cuando las observaciones con valores similares están más cerca entre sí (es decir, agrupadas). La autocorrelación espacial negativa ocurre cuando las observaciones con valores diferentes están más cerca entre sí (es decir, dispersas)
-
-![](img/04/autocorrelacion_espacial.PNG){fig-align="center"}
 
 ## Interpolación espacial {.title-top}
 
@@ -175,6 +157,23 @@ sitios cercanos)
 - La limitación principal es encontrar el r -idp- (potencia) adecuada.
 
 :::
+
+## Patrones espaciales de puntos {.title-top}
+
+<br>
+
+Un "patrón espacial de puntos" es un conjunto de datos que proporciona las ubicaciones espaciales observadas de objetos o eventos. 
+
+En epidemiología podemos encontrar, por ejemplo:
+
+- Accidentes de tránsito 
+
+- Casos de enfermedades o muertes
+
+- Trampas de vectores
+
+- Delitos
+
 
 ## Densidad de kernel (KDE) {.title-top}
 
