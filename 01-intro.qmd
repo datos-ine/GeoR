@@ -262,13 +262,17 @@ Algunas conocidas son Mercator, Gauss-Krüger y Lambert Equiareal.
 
 - El formato raster se fundamenta en la división del área de estudio en una matriz de celdas regulares, generalmente cuadradas. 
 
+. . . 
+
 - cada una de estas celdas recibe un único valor que se considera representativo para toda la superficie abarcada por la misma  
+
+. . .
 
 - se trata de un formato de dato que se centra en las propiedades del espacio y es el más adecuado cuando se desea modelizar variables continuas en el espacio, como por ejemplo: *temperatura superficial de la Tierra*.
 
-- el **píxel** es la menor unidad de información y determina la **resolución espacial** de una imagen raster. 
+. . .
 
-- cuanto mayor es la resolución espacial, menor es el tamaño del píxel en unidades sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 30m significa que no podrá discriminar entre dos objetos que se encuentren separadas a una distancia menor de 30m.
+- el **píxel** es la menor unidad de información y determina la **resolución espacial** de una imagen raster. Cuanto mayor es la resolución espacial, menor es el tamaño del píxel en unidades sobre el terreno. Por ejemplo una imagen raster con una resolución espacial de 30m significa que no podrá discriminar entre dos objetos que se encuentren separadas a una distancia menor de 30m.
 
 ## Formato vectorial {.title-top} 
 
@@ -276,7 +280,11 @@ Algunas conocidas son Mercator, Gauss-Krüger y Lambert Equiareal.
 
 - El formato vectorial está compuesto por entidades geográficas. Las básicas son: **puntos**, **líneas** y **polígonos**. 
 
+. . .
+
 - estas entidades se asociación con atributos particulares, es decir con **tablas de datos asociadas**.
+
+. . .
 
 - los datos vectoriales implican mucho menos almacenamiento que el formato raster, ya que almacenamos datos de atributos solo para puntos, líneas y áreas en lugar de para cada píxel. 
 
@@ -400,11 +408,11 @@ a una altura aproximada de 20.200 km, con trayectorias sincronizadas para cubrir
 
 <br>
 
-Paquetes como `sp`, `rgdal`, `rgeos` y `maptools` (*Bivand, Keitt y Rowlingson, 2023 - Bivand y Rundel, 2022 - Bivand y Lewin-Koh, 2022*) se ocupaban de los datos especiales y de conectar con la librería **GDAL**. 
+Paquetes como `sp`, `rgdal`, `rgeos` y `maptools` (*Bivand, Keitt y Rowlingson, 2023 - Bivand y Rundel, 2022 - Bivand y Lewin-Koh, 2022*) se ocupaban de los datos espaciales y también de conectar con la librería **GDAL**. 
 
-No eran compatibles con tidyverse y su diseño interno mas complejo. 
+No eran compatibles con tidyverse y su diseño interno mas complejo (lista especial). 
 
-Ya no se mantienen, es decir perdieron soporte, y proximamente se retirarán. 
+Ya no se mantienen, es decir, perdieron soporte, y próximamente se retirarán. 
 
 ## Paquetes en R {.title-top}
 
@@ -421,7 +429,6 @@ Ya no se mantienen, es decir perdieron soporte, y proximamente se retirarán.
 **Visualización de mapas**
 
 - tmap
-- mapsf
 - leaflet
 - mapview
 
