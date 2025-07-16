@@ -57,15 +57,21 @@ library(tidyverse)
 
 - **Patrones de punto**: variables asociadas a puntos. Conteo de eventos. Proceso espacial subyacente que origina el patrón de puntos y evaluación si este presenta aleatoriedad, agrupamiento o regularidad.
 
+
 ## Visualización espacial de datos de salud {.title-top}
 
 <br>
 
-Dentro de los formatos vectoriales, habitualmente los datos de salud que deseamos visualizar, en forma directa, son agregados o resumidos a un área determinada. Por ejemplo: indicadores pertenecientes a un departamento o provincia, como una tasa o un promedio para un determinado año.
+Dentro de los formatos vectoriales, habitualmente los datos de salud que deseamos visualizar:
 
 . . .
 
-Variables medioambientales, como contaminación atmosférica de estaciones de monitores o de suelo donde a partir de una muestra se predice toda la matriz del área.
+De forma directa, agregados o resumidos a un área determinada (polígonos). Por ejemplo: indicadores pertenecientes a un departamento o provincia, como una tasa o un promedio para un determinado año.
+
+. . .
+
+Variables medioambientales, como contaminación atmosférica de estaciones de monitoreo o de suelo donde a partir de una muestra se predice toda la matriz del área.
+
 . . . 
 
 Patrones de puntos, como accidentes tránsito, casos de una enfermedad, etc. (cuidado con la confidencialidad de los datos cuando se trate de individuos - se suelen crear mapas de calor u otra transformación para anonimizar datos). 
@@ -149,7 +155,7 @@ Patrones de puntos, como accidentes tránsito, casos de una enfermedad, etc. (cu
 
 ::: {.fragment .fade-in-then-semi-out}
 
-- Generalmente incluyen una leyenda que determina la escala de colores/intensindades.
+- Generalmente incluyen una leyenda que determina la escala de colores/intensidades.
 
 :::
 
@@ -237,7 +243,7 @@ Hay dos posibilidades de creación de mapas: salidas estáticas y salidas dinám
 
 ::: {.fragment .fade-in-then-semi-out}
 
-- Las **dinámicas / interactivas**, necesaria son *web*. Es decir, archivos html, que generalmente conectan con servidores de mapas (fuente externa). Permiten navegar por el mapa, hacer zoom, seleccionar objetos y todas las cosas que el creador de la salida le incorpore. 
+- Las **dinámicas / interactivas**, son salidas tipo *web*. Es decir, archivos html, que generalmente conectan con servidores de mapas (fuente externa). Permiten navegar por el mapa, hacer zoom, seleccionar objetos y todas las cosas que el creador de la salida le incorpore. 
 
 :::
 
@@ -327,7 +333,7 @@ Hay dos posibilidades de creación de mapas: salidas estáticas y salidas dinám
 
 - Se basa en la gramática de gráficos del **ggplot2** aplicada a mapas
 
-- El código se construye por "capas" unidas con un simbolo **+**
+- El código se construye por "capas" unidas con un simbolo **+** (similar a ggplot2)
 
 - Todas las funciones comienzan con `tm_`
 
@@ -358,7 +364,7 @@ Las escalas controlan cómo se representan los valores en el mapa y en la leyend
 
 - El argumento `style` define el estilo de la escala. En el caso de `tm_scale_intervals()` puede ser: "fixed", "sd", "equal", "pretty", "quantile", "kmeans", "hclust", "bclust", "fisher", "jenks", "dpih", "headtails", "maximum", o "box". Distintas formas de crear intervalos de clase.
 
-- Todas las escalas utilizan las paletas de colores de `cols4all::palettes()`, dependencia que es parte de **tmap**. Para visualizar los colores en una app de shiny: ejecutar `cols4all::c4a_gui()
+- Todas las escalas utilizan las paletas de colores de `cols4all::palettes()`, dependencia que es parte de **tmap**. Para visualizar los colores en una app de shiny: ejecutar `cols4all::c4a_gui()`
 
 
 ## tmap: diseño  {.title-top}
@@ -406,11 +412,11 @@ tm_credits("Fuente de datos", position = tm_pos_in("left", "bottom"))
 
 Algunas funciones están asociadas a salidas interactivas, es decir son útiles en modo "view" y no funcionan en modo "plot".
 
-Entre ellas encoentramos:
+Entre ellas encontramos:
 
 - `tm_basemap()`: capa base del mapa obtenida de un proveedor web -se define dentro de la función-
 
-- Argumentos `group` y `group.control`: agrupa capas del mapa
+- Argumentos `group` y `group.control`: agrupa capas del mapa (opciones de botones tipo radiobutton o checkbutton)
 
 - Argumentos `popup.vars`, `popup.format` y `hover`: define que dato se muestra al pasar el mouse por la geometría y al hacer click.
 
@@ -454,5 +460,5 @@ Entre los mas usados encontramos:
 <br>
 
 - Paquetes como `cols4all` se integran con tmap (a partir de la versión 4)
-- Muchos de los paquetes contienen paletas compatibles con el daltonismo. Un paquete interensante para comprobar esta compatilidad es [colorblindcheck](https://github.com/Nowosad/colorblindcheck)
+- Muchos de los paquetes contienen paletas compatibles con el daltonismo. Un paquete interesante para comprobar esta compatilidad es [colorblindcheck](https://github.com/Nowosad/colorblindcheck)
 - Las personas con deficiencia visual del color carecen de (al menos) un tipo de tono. En los tres tipos de daltonismo ( deuteranopía , protanopía y tritanopía) , los tonos ausentes son aquellos sensibles principalmente a las longitudes de onda media (verde), larga (rojo) y corta (azul), respectivamente. La percepción del color en estas personas se basa en los dos tipos de tonos restantes. Como resultado, las personas con deuteranopía y protanopía tienen dificultad para distinguir el verde del rojo, mientras que las personas con tritanopía apenas pueden distinguir el azul del amarillo
