@@ -37,7 +37,7 @@ library(tidyverse)
 
 ::: {.fragment .fade-in-then-semi-out}
 
-- Este tipo de datos puede representar, por ejemplo, los niveles de contaminación del aire registrados en un conjunto de estaciones de monitoreo o datos de encuestas de prevalencia de enfermedades en un conjunto de sitios.
+- Este tipo de datos puede representar, por ejemplo, los niveles de contaminación del aire registrados en un conjunto de estaciones de monitoreo, temperaturas, niveles de arsénico en agua subterránea en distintos pozos, etc.
 
 :::
 
@@ -47,7 +47,7 @@ library(tidyverse)
 
 <br>
 
-La interpolación espacial es la actividad de estimar valores de variables espacialmente continuas para ubicaciones espaciales donde no se han observado, basándose en observaciones.
+La interpolación espacial es la actividad de estimar valores de variables espacialmente continuas para ubicaciones espaciales donde no se han observado, basándose en observaciones (muestra).
 
 . . . 
 
@@ -124,7 +124,7 @@ Podemos clasificar en dos los métodos de interpolación espacial:
 
 <br>
 
-- estima valores en ubicaciones desconocidas basándose en valores conocidos en ubicaciones cercanas
+- estima valores en ubicaciones desconocidas basándose en valores conocidos en ubicaciones cercanas.
 
 - asigna mayor peso a las observaciones más cercanas, suponiendo que las características más cercanas están más relacionadas
 
@@ -162,15 +162,15 @@ sitios cercanos)
 
 <br>
 
-Un "patrón espacial de puntos" es un conjunto de datos que proporciona las ubicaciones espaciales observadas de objetos o eventos. 
+Un *"patrón espacial de puntos"* es un conjunto de datos que proporciona las ubicaciones espaciales observadas de objetos o eventos (variables discretas). 
 
 En epidemiología podemos encontrar, por ejemplo:
 
 - Accidentes de tránsito 
 
-- Casos de enfermedades o muertes
+- Casos de enfermedades 
 
-- Trampas de vectores
+- Muertes
 
 - Delitos
 
