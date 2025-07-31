@@ -119,7 +119,7 @@ library(tidyverse)
 - En su [sitio](https://jessecambon.github.io/tidygeocoder/articles/geocoder_services.html) estan los detalles de los 13 servidores.  
   
 
-## Visualización de puntos {.title-top}
+## Visualización de puntos georreferenciados{.title-top}
 
 <br>
 
@@ -135,7 +135,7 @@ library(tidyverse)
 
 :::
 
-## Visualización de puntos {.title-top}
+## Visualización de puntos georreferenciados{.title-top}
 
 <br>
 
@@ -146,7 +146,7 @@ library(tidyverse)
 . . .
 
 
-- Necesitamos que lo puntos obtenidos directamente con GPS o georreferenciados esten en una capa `sf`.
+- Necesitamos que las ubicaciones obtenidas directamente con GPS o georreferenciadas esten en una capa `sf`.
 
 . . .
 
